@@ -1,0 +1,68 @@
+{
+	"core": {
+		"x86": {
+			"core_plugin.dll": "761bf36205db7437870fea4b288cf2d1"
+		}
+	},
+	"lib": {
+		"GameInjector.exe": "b210abb7f62d3d8e2246fedf8ade5782"
+	},
+	"plugins": {
+		"x86": {
+			"BGX.dll": "af957d70e8b2454788f2ddc1d8124c0e",
+			"BGXEvade.dll": "eb6d21ae9ef06ecce78d241e4f23d60e",
+			"China1Yasuo.dll": "3d2194260555aa7659c3e340fb823772",
+			"LeaguesharpAIO.dll": "f1fc433b45c908b1cad8b5c4aeccaeeb",
+			"Marksman.dll": "71482cb9327cad7ac2b92328738a3850",
+			"MidlaneCarry.dll": "12d551456a92b31935ac91f8b3dc482a",
+			"Utility.dll": "af84c434a793dd02a9be5a79907b2032",
+			"YuumiBot.dll": "d43233b18d9cbb5f111c8b348a7eb7bd",
+			"ZiraPack.dll": "6a74cae26e2f805e66792e000c02ed12",
+			"entropy-aio.dll": "6de5d15c00d24b9d8ec2c46a4d230153",
+			"ezevade.dll": "1b6ee14a8e205e8667710b672fe91232"
+		}
+	},
+	"resources": {
+		"dead": {
+			"im_sad.wav": "f4ed7238bd4119e5f31bcaef6cfb2be8",
+			"need_more_pratice.wav": "ee5cccbc54ccb9899c7926b73dd3d0bb",
+			"never_giveup.wav": "9b3c0e13960c5c03f72d900488531cd4",
+			"next_time.wav": "d3fb3cc07796d9812b6829bdc2111389",
+			"not_this_time.wav": "ade24971d4a92d82b33585b48526ecb6",
+			"only_game_mad.wav": "57ed66006b8c6abf4b98c7f2dab1d256",
+			"you_almost.wav": "fa19037205f02f379696ec71b347e7a3",
+			"you_can_more.wav": "7c0ced97954b7e298386a0100e874930",
+			"you_disappointed.wav": "4190955bb7f32d83544eb0934cdba7b2"
+		},
+		"die.dds": "4c9116cd338f573330e5d95bcb0b46bf",
+		"double": {
+			"amazing.wav": "09856e2657d4291153586caa46a63a1b",
+			"dont_stop.wav": "46182fbed5971065cc4aa6a7e916fd9b",
+			"good_job.wav": "42e9f25618cde6fed19eee6ce16e686e",
+			"show_more.wav": "ec22ec0f9f2905666f467f5f91d7c7ee",
+			"very_nice.wav": "1d227103a7bfb1e99c6f79d79fa28353"
+		},
+		"double_kill.dds": "6e0a0ef5a4af00d4e506472629786b50",
+		"penta": {
+			"good_job_hero.wav": "5ed285a66f558a755ef8452a44c31308",
+			"master_wet.wav": "d8546d5e89c8dbd0f494d0c1b3261c74",
+			"wanna_waifu.wav": "d62a460c0d9ed8cbe762aadd46d0bb54"
+		},
+		"penta_kill.dds": "bf09210302aabebd46e3f3f705ea2a30",
+		"quadra": {
+			"charming.wav": "879a96c30a7c4568c92dc0e71ab446fe",
+			"one_left.wav": "6ccdd3e7782094cf1ec5d48e3a8c0cbc",
+			"you_god.wav": "107b61ab24075064292cda1aaea3cfb5",
+			"you_me_so_good.wav": "b7d947a7b303cbf72875d64b445b7bd4"
+		},
+		"quadra_kill.dds": "641fa62e78f3b11a04c1f2910475dc05",
+		"triple": {
+			"half_down.wav": "0a93c57a92f31cb6515368db82563071",
+			"it_was_clean.wav": "ebf988f3d13f993e5ac775aaf5973263",
+			"more_more.wav": "9b125e14495e5108dbe2144a749bc5cf",
+			"more_please.wav": "e07077bfb4642efe1597e96246d9dc20",
+			"you_best.wav": "953b9cca166c23ac37c6d38866afa59b"
+		},
+		"triple_kill.dds": "fc55982344a2aa59c4b5a06609aa2cb7"
+	}
+}
