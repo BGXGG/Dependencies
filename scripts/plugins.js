@@ -97,4 +97,4 @@ function walkTree(d, res) {
     return res;
 }
 
-fs.writeFileSync('plugins.json', JSON.stringify(walkTree('files/', {}), null, '\t'));
+fs.writeFileSync('plugins.json', JSON.stringify(walkTree('files/', []), null, '\t'));
