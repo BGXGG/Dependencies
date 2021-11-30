@@ -18,4 +18,4 @@ function walkTree(d, res) {
 }
 
 
-fs.writeFileSync('../checksums.json', JSON.stringify(walkTree('../files/', {}), null, '\t'));
+fs.writeFileSync('checksums.json', JSON.stringify(walkTree('files/', {}), null, '\t'));
