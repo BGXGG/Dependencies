@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Champions AIO",
-		"updateTime": 1638278625,
+		"updateTime": 1638279476,
 		"supported": [
 			238,
 			101,
@@ -57,18 +57,18 @@
 	},
 	{
 		"name": "Evade",
-		"updateTime": 1638278625
+		"updateTime": 1638279476
 	},
 	{
 		"name": "Zzihao Yasuo",
-		"updateTime": 1638278625,
+		"updateTime": 1638279476,
 		"supported": [
 			157
 		]
 	},
 	{
 		"name": "LeagueSharp AIO",
-		"updateTime": 1638278625,
+		"updateTime": 1638279476,
 		"supported": [
 			157,
 			114,
@@ -99,7 +99,7 @@
 	},
 	{
 		"name": "Marksman",
-		"updateTime": 1638278625,
+		"updateTime": 1638279476,
 		"supported": [
 			22,
 			51,
@@ -125,7 +125,7 @@
 	},
 	{
 		"name": "Midlane Carry",
-		"updateTime": 1638278625,
+		"updateTime": 1638279476,
 		"supported": [
 			13,
 			69,
@@ -137,18 +137,18 @@
 	},
 	{
 		"name": "EUtility",
-		"updateTime": 1638278625
+		"updateTime": 1638279476
 	},
 	{
 		"name": "Yummi BOT",
-		"updateTime": 1638278625,
+		"updateTime": 1638279476,
 		"supported": [
 			350
 		]
 	},
 	{
 		"name": "Zira Pack",
-		"updateTime": 1638278625,
+		"updateTime": 1638279476,
 		"supported": [
 			245,
 			38,
@@ -189,16 +189,12 @@
 	},
 	{
 		"name": "Entropy AIO",
-		"updateTime": 1638278625,
+		"updateTime": 1638279476,
 		"supported": [
 			266,
 			12,
 			55,
 			41
 		]
-	},
-	{
-		"name": "EzEvade",
-		"updateTime": 1638278625
 	}
 ]
