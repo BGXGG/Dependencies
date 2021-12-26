@@ -1,7 +1,7 @@
 {
 	"core": {
 		"x86": {
-			"core_plugin.dll": "761bf36205db7437870fea4b288cf2d1"
+			"core_plugin.dll": "fc0e48f6faad819d7457c58f988f944d"
 		}
 	},
 	"lib": {
@@ -18,7 +18,7 @@
 			"Utility.dll": "af84c434a793dd02a9be5a79907b2032",
 			"YuumiBot.dll": "d43233b18d9cbb5f111c8b348a7eb7bd",
 			"ZiraPack.dll": "6a74cae26e2f805e66792e000c02ed12",
-			"entropy-aio.dll": "6de5d15c00d24b9d8ec2c46a4d230153"
+			"entropy-aio.dll": "570e53442003cd6063d60052c0ab7574"
 		}
 	},
 	"resources": {
