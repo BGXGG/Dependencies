@@ -28,7 +28,7 @@ jobs:
       - name: Generate plugins
         run: node scripts/plugins.js
       - name: Update checksums.json
-        uses: test-room-7/action-update-file@v2
+        uses: test-room-7/action-update-file@v1
         with:
             file-path: |
               checksums.json
