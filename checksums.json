@@ -9,7 +9,7 @@
 	},
 	"plugins": {
 		"x86": {
-			"BGX.dll": "b77545dea1fa90f8514492a0577b1b35",
+			"BGX.dll": "6dfe6a9f6a2e90ba8c1df3a5f6944d90",
 			"BGXEvade.dll": "8719fb41fe965c4a0024b845d5fface8",
 			"China1Yasuo.dll": "3d2194260555aa7659c3e340fb823772",
 			"LeaguesharpAIO.dll": "f1fc433b45c908b1cad8b5c4aeccaeeb",
@@ -17,7 +17,7 @@
 			"MidlaneCarry.dll": "12d551456a92b31935ac91f8b3dc482a",
 			"Utility.dll": "ebc12a6a5594f3e585701caf6400af24",
 			"YuumiBot.dll": "d43233b18d9cbb5f111c8b348a7eb7bd",
-			"ZiraPack.dll": "6fdac1fec175662baf7a399427a85cc1",
+			"ZiraPack.dll": "4ca863ce31a01687daaef955632b208f",
 			"entropy-aio.dll": "570e53442003cd6063d60052c0ab7574"
 		}
 	},
