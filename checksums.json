@@ -9,11 +9,11 @@
 	},
 	"plugins": {
 		"x86": {
-			"BGX.dll": "15491e62e2ddd5a3532724a6e0598314",
-			"BGXEvade.dll": "5085317b26ab8b753346367bdd143361",
+			"BGX.dll": "658c3601b3861338e845002d889197e6",
+			"BGXEvade.dll": "ad5c76f6f38ded894b9db214ce971b90",
 			"China1Yasuo.dll": "f122f060735c0bf823209c8687629316",
 			"LeaguesharpAIO.dll": "cd54802618d7dd5d5064d518f0ba8507",
-			"Marksman.dll": "1041266400c948b49488493a744df8ea",
+			"Marksman.dll": "212972e1b5246fed1a71549ec27115c0",
 			"MidlaneCarry.dll": "cb783b8717376dfe1078ae08d266e099",
 			"Utility.dll": "278a7460f98299684f4dd88d2b3b27c4",
 			"YuumiBot.dll": "ec61ec8ebed6e1cf508584d7cb7ba9fe",
