@@ -9,16 +9,16 @@
 	},
 	"plugins": {
 		"x86": {
-			"BGX.dll": "658c3601b3861338e845002d889197e6",
-			"BGXEvade.dll": "ad5c76f6f38ded894b9db214ce971b90",
-			"China1Yasuo.dll": "f122f060735c0bf823209c8687629316",
-			"LeaguesharpAIO.dll": "cd54802618d7dd5d5064d518f0ba8507",
-			"Marksman.dll": "1ea1e8aa5fd5fcd9f9213ee49f7ba395",
-			"MidlaneCarry.dll": "cb783b8717376dfe1078ae08d266e099",
-			"Utility.dll": "d4c49f92a256448880b3b8bb8d2c0584",
-			"YuumiBot.dll": "34a2766269d8a48e2891b9ce03333500",
-			"ZiraPack.dll": "1671e96c8b0c480523cf44b469c6691c",
-			"entropy-aio.dll": "29263d3f6a2f22e4fcc0ee448a05c4cf"
+			"BGX.dll": "e7b0baff388db4e38c7124cf4d46e028",
+			"BGXEvade.dll": "cb33f8c87add19162bc725f4d61fb49b",
+			"China1Yasuo.dll": "30bc6810aa8602535c1819e2f3605ad6",
+			"LeaguesharpAIO.dll": "da1eeece843f405030dffadf6d114072",
+			"Marksman.dll": "420dea2f6b38a8c4e25c317529a28a1f",
+			"MidlaneCarry.dll": "32d9e4bcfeb39ef25b8ff73872c5f33e",
+			"Utility.dll": "d06d38eac802ae14e2742522b9ec720c",
+			"YuumiBot.dll": "995037e526097e516619eafdfe7cadd4",
+			"ZiraPack.dll": "5604d20e5f95901f225986fba6886ed3",
+			"entropy-aio.dll": "735fb572683ee06390f92c1b2597e202"
 		}
 	},
 	"resources": {
