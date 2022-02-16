@@ -1,7 +1,7 @@
 [
 	{
 		"name": "1v9 AIO",
-		"updateTime": 1644996652,
+		"updateTime": 1645002597,
 		"supported": [
 			222,
 			96,
@@ -10,7 +10,7 @@
 	},
 	{
 		"name": "Champions AIO",
-		"updateTime": 1644996652,
+		"updateTime": 1645002597,
 		"supported": [
 			238,
 			101,
@@ -66,11 +66,11 @@
 	},
 	{
 		"name": "Evade",
-		"updateTime": 1644996652
+		"updateTime": 1645002597
 	},
 	{
 		"name": "BanthorsAIO",
-		"updateTime": 1644996652,
+		"updateTime": 1645002597,
 		"supported": [
 			10,
 			203
@@ -78,11 +78,11 @@
 	},
 	{
 		"name": "DivineSeries",
-		"updateTime": 1644996652
+		"updateTime": 1645002597
 	},
 	{
 		"name": "LeagueSharp AIO",
-		"updateTime": 1644996652,
+		"updateTime": 1645002597,
 		"supported": [
 			157,
 			114,
@@ -113,7 +113,7 @@
 	},
 	{
 		"name": "Marksman",
-		"updateTime": 1644996652,
+		"updateTime": 1645002597,
 		"supported": [
 			22,
 			51,
@@ -140,7 +140,7 @@
 	},
 	{
 		"name": "Midlane Carry",
-		"updateTime": 1644996652,
+		"updateTime": 1645002597,
 		"supported": [
 			13,
 			69,
@@ -152,18 +152,19 @@
 	},
 	{
 		"name": "SebasBGX",
-		"updateTime": 1644996652,
+		"updateTime": 1645002597,
 		"supported": [
 			98,
 			120,
 			79,
 			234,
-			131
+			131,
+			246
 		]
 	},
 	{
 		"name": "ShadowAIO",
-		"updateTime": 1644996652,
+		"updateTime": 1645002597,
 		"supported": [
 			23,
 			203,
@@ -175,25 +176,25 @@
 	},
 	{
 		"name": "EUtility",
-		"updateTime": 1644996652
+		"updateTime": 1645002597
 	},
 	{
 		"name": "Wafend AIO",
-		"updateTime": 1644996652,
+		"updateTime": 1645002597,
 		"supported": [
 			14
 		]
 	},
 	{
 		"name": "Yummi BOT",
-		"updateTime": 1644996652,
+		"updateTime": 1645002597,
 		"supported": [
 			350
 		]
 	},
 	{
 		"name": "ZEDith AIO",
-		"updateTime": 1644996652,
+		"updateTime": 1645002597,
 		"supported": [
 			101,
 			41,
@@ -203,7 +204,7 @@
 	},
 	{
 		"name": "Zira Pack",
-		"updateTime": 1644996652,
+		"updateTime": 1645002597,
 		"supported": [
 			245,
 			38,
@@ -242,7 +243,7 @@
 	},
 	{
 		"name": "ZzihaoAIO",
-		"updateTime": 1644996652,
+		"updateTime": 1645002597,
 		"supported": [
 			157,
 			39,
@@ -261,7 +262,7 @@
 	},
 	{
 		"name": "Entropy AIO",
-		"updateTime": 1644996652,
+		"updateTime": 1645002597,
 		"supported": [
 			266,
 			12,
@@ -272,7 +273,7 @@
 	},
 	{
 		"name": "roadAIO",
-		"updateTime": 1644996652,
+		"updateTime": 1645002597,
 		"supported": [
 			134
 		]
