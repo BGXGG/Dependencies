@@ -20,6 +20,7 @@
 			"MidlaneCarry.dll": "44880f185b8493f759212a7e25957446",
 			"SebasBGX.dll": "dd568fb8dbdf86006ec9b62271f25fab",
 			"ShadowAIO.dll": "aeb8f6f768cddecbf7c43f949368d992",
+			"ToxicAIO.dll": "60655aeca33802bf3ab9721212954b8e",
 			"Utility.dll": "cac6d068f912ca1b9b1c722907bc0305",
 			"WafendAIO.dll": "ed5b5986a1a40dab925e811481cd6432",
 			"YuumiBot.dll": "a5bb159b8401a39a777dc2e18eb7cce2",
@@ -28,7 +29,7 @@
 			"ZiraPack.dll": "feafe72fe5c8b3abb8dfbff42fbb0f9a",
 			"ZzihaoAIO.dll": "880d674659dcd20bc0f6f905bec00c6b",
 			"entropy-aio.dll": "4294018d7b909f6d76a382762f63cc87",
-			"roadAIO.dll": "0f12735f45483387edf4060d4b516402"
+			"roadAIO.dll": "3343feba7c76b99db97f236ab5e966b1"
 		}
 	},
 	"resources": {
