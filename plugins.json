@@ -1,7 +1,7 @@
 [
 	{
 		"name": "1v9 AIO",
-		"updateTime": 1645171810,
+		"updateTime": 1645178449,
 		"supported": [
 			222,
 			96,
@@ -10,7 +10,7 @@
 	},
 	{
 		"name": "Champions AIO",
-		"updateTime": 1645171810,
+		"updateTime": 1645178449,
 		"supported": [
 			238,
 			101,
@@ -66,11 +66,11 @@
 	},
 	{
 		"name": "Evade",
-		"updateTime": 1645171810
+		"updateTime": 1645178449
 	},
 	{
 		"name": "BanthorsAIO",
-		"updateTime": 1645171810,
+		"updateTime": 1645178449,
 		"supported": [
 			10,
 			203,
@@ -80,18 +80,21 @@
 	},
 	{
 		"name": "DivineSeries",
-		"updateTime": 1645171810
+		"updateTime": 1645178449,
+		"supported": [
+			39
+		]
 	},
 	{
 		"name": "forbidden blade",
-		"updateTime": 1645171810,
+		"updateTime": 1645178449,
 		"supported": [
 			157
 		]
 	},
 	{
 		"name": "LeagueSharp AIO",
-		"updateTime": 1645171810,
+		"updateTime": 1645178449,
 		"supported": [
 			157,
 			114,
@@ -122,7 +125,7 @@
 	},
 	{
 		"name": "Marksman",
-		"updateTime": 1645171810,
+		"updateTime": 1645178449,
 		"supported": [
 			22,
 			51,
@@ -149,7 +152,7 @@
 	},
 	{
 		"name": "Midlane Carry",
-		"updateTime": 1645171810,
+		"updateTime": 1645178449,
 		"supported": [
 			13,
 			69,
@@ -161,7 +164,7 @@
 	},
 	{
 		"name": "SebasBGX",
-		"updateTime": 1645171810,
+		"updateTime": 1645178449,
 		"supported": [
 			98,
 			120,
@@ -173,7 +176,7 @@
 	},
 	{
 		"name": "ShadowAIO",
-		"updateTime": 1645171810,
+		"updateTime": 1645178449,
 		"supported": [
 			23,
 			203,
@@ -185,32 +188,32 @@
 	},
 	{
 		"name": "ToxicAIO",
-		"updateTime": 1645171810,
+		"updateTime": 1645178449,
 		"supported": [
 			85
 		]
 	},
 	{
 		"name": "EUtility",
-		"updateTime": 1645171810
+		"updateTime": 1645178449
 	},
 	{
 		"name": "Wafend AIO",
-		"updateTime": 1645171810,
+		"updateTime": 1645178449,
 		"supported": [
 			14
 		]
 	},
 	{
 		"name": "Yummi BOT",
-		"updateTime": 1645171810,
+		"updateTime": 1645178449,
 		"supported": [
 			350
 		]
 	},
 	{
 		"name": "ZEDith AIO",
-		"updateTime": 1645171810,
+		"updateTime": 1645178449,
 		"supported": [
 			101,
 			41,
@@ -220,11 +223,11 @@
 	},
 	{
 		"name": "ZEDithPred",
-		"updateTime": 1645171810
+		"updateTime": 1645178449
 	},
 	{
 		"name": "Zira Pack",
-		"updateTime": 1645171810,
+		"updateTime": 1645178449,
 		"supported": [
 			245,
 			38,
@@ -263,7 +266,7 @@
 	},
 	{
 		"name": "ZzihaoAIO",
-		"updateTime": 1645171810,
+		"updateTime": 1645178449,
 		"supported": [
 			157,
 			39,
@@ -282,7 +285,7 @@
 	},
 	{
 		"name": "Entropy AIO",
-		"updateTime": 1645171810,
+		"updateTime": 1645178449,
 		"supported": [
 			266,
 			12,
@@ -293,7 +296,7 @@
 	},
 	{
 		"name": "roadAIO",
-		"updateTime": 1645171810,
+		"updateTime": 1645178449,
 		"supported": [
 			134,
 			85
