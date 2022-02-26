@@ -9,7 +9,7 @@
 	},
 	"plugins": {
 		"x86": {
-			"1v9-AIO.dll": "8a9660f347e7abb1b29a2695a7070213",
+			"1v9-AIO.dll": "fee2b4942bbe7431fa19e672ab3703bb",
 			"BGX.dll": "e736bf1df67422784bf549c209146f29",
 			"BGXEvade.dll": "968837758c5dab8898b0df4ced58c7bf",
 			"BanthorsAIO.dll": "6013eb32fef5ebab8b7b00471819eb59",
@@ -31,7 +31,7 @@
 			"ZiraPack.dll": "feafe72fe5c8b3abb8dfbff42fbb0f9a",
 			"ZzihaoAIO.dll": "880d674659dcd20bc0f6f905bec00c6b",
 			"entropy-aio.dll": "288251a384d73a95044d90a889079ef4",
-			"roadAIO.dll": "56a7777f5ba548866257b169795f4c70"
+			"roadAIO.dll": "012a614c6648160cd6df83cc4ff159a7"
 		}
 	},
 	"resources": {
