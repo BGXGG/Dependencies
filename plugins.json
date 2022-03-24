@@ -1,7 +1,7 @@
 [
 	{
 		"name": "1v9 AIO",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			51,
 			222,
@@ -15,7 +15,7 @@
 	},
 	{
 		"name": "Champions AIO",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			238,
 			101,
@@ -71,11 +71,11 @@
 	},
 	{
 		"name": "Evade",
-		"updateTime": 1648131648
+		"updateTime": 1648131718
 	},
 	{
 		"name": "BanthorsAIO",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			10,
 			203,
@@ -85,7 +85,7 @@
 	},
 	{
 		"name": "BenAIO",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			246,
 			110,
@@ -94,21 +94,21 @@
 	},
 	{
 		"name": "DivineSeries",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			39
 		]
 	},
 	{
 		"name": "forbidden blade",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			157
 		]
 	},
 	{
 		"name": "L9 AIO",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			235,
 			32
@@ -116,11 +116,11 @@
 	},
 	{
 		"name": "L9 Utility",
-		"updateTime": 1648131648
+		"updateTime": 1648131718
 	},
 	{
 		"name": "LeagueSharp AIO",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			157,
 			114,
@@ -151,14 +151,14 @@
 	},
 	{
 		"name": "MistalBGX",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			141
 		]
 	},
 	{
 		"name": "Marksman",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			22,
 			51,
@@ -185,7 +185,7 @@
 	},
 	{
 		"name": "Midlane Carry",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			13,
 			69,
@@ -197,7 +197,7 @@
 	},
 	{
 		"name": "RageAIO",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			888,
 			421
@@ -205,7 +205,7 @@
 	},
 	{
 		"name": "SebasBGX",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			98,
 			120,
@@ -223,11 +223,11 @@
 	},
 	{
 		"name": "SebasPrediction",
-		"updateTime": 1648131648
+		"updateTime": 1648131718
 	},
 	{
 		"name": "ShadowAIO",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			23,
 			203,
@@ -245,50 +245,50 @@
 	},
 	{
 		"name": "AJK - KoreanPings",
-		"updateTime": 1648131648
+		"updateTime": 1648131718
 	},
 	{
 		"name": "Taiwan AIO",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			55
 		]
 	},
 	{
 		"name": "ToxicAIO",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			85
 		]
 	},
 	{
 		"name": "EUtility",
-		"updateTime": 1648131648
+		"updateTime": 1648131718
 	},
 	{
 		"name": "Wafend AIO",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			14
 		]
 	},
 	{
 		"name": "Yordle AIO",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			45
 		]
 	},
 	{
 		"name": "Yummi BOT",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			350
 		]
 	},
 	{
 		"name": "ZEDith AIO",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			101,
 			41,
@@ -298,11 +298,11 @@
 	},
 	{
 		"name": "ZEDithPred",
-		"updateTime": 1648131648
+		"updateTime": 1648131718
 	},
 	{
 		"name": "Zira Pack",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			245,
 			38,
@@ -341,7 +341,7 @@
 	},
 	{
 		"name": "ZzihaoAIO",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			157,
 			39,
@@ -360,7 +360,7 @@
 	},
 	{
 		"name": "Entropy AIO",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			266,
 			12,
@@ -371,7 +371,7 @@
 	},
 	{
 		"name": "roadAIO",
-		"updateTime": 1648131648,
+		"updateTime": 1648131718,
 		"supported": [
 			134,
 			85,
