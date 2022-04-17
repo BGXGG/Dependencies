@@ -26,6 +26,7 @@ function walkTree(d, res) {
             if (buffer.readUInt16LE(0) == 0x5A4D) {
                 var pluginObject = {};
                 pluginObject.name = name.substring(0, name.lastIndexOf('.'));
+		pluginObject.fileName = name;
                 pluginObject.updateTime = parseInt(stat.mtimeMs / 1000);
 
                 var e_lfanew = buffer.readUInt32LE(0x3C);
