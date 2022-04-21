@@ -10,8 +10,8 @@
 	"plugins": {
 		"x86": {
 			"1v9-AIO.dll": "7e4820b4335c2c898069f0dab8cdcca2",
-			"BGX.dll": "3b4b3729e1b98a375d675b106078a47a",
-			"BGXEvade.dll": "6b969e6f8230634043982915b45f5ff6",
+			"BGX.dll": "1ef5f5cd5bc113833a28f8b169fba3e1",
+			"BGXEvade.dll": "43a1e8c9221f595f1ff514ae4ab1a662",
 			"BanthorsAIO.dll": "6013eb32fef5ebab8b7b00471819eb59",
 			"BenAIO.dll": "ef47615fae16840c3afe549ee8efb23f",
 			"DivineSeries.dll": "19347594373ef5df8ab2b53bf595f50e",
@@ -21,7 +21,7 @@
 			"L9Utility.dll": "148a8b8ddde63d75c4872903af6219e7",
 			"LeaguesharpAIO.dll": "4a7ac6c759db694548599ca7dc6898d7",
 			"MKayn.dll": "09e39488b31e49761205220504a6aa5d",
-			"Marksman.dll": "79f70ae847f85fd59321806203377229",
+			"Marksman.dll": "9c243900854069f1ac96892138db527e",
 			"MidlaneCarry.dll": "6bd7b268e8f7004d8ee9a5bb28c7d0af",
 			"RageAIO.dll": "e175d9291a6026b1f44a7aa1ae0fafee",
 			"SebasBGX.dll": "7e0fe0113b8d330451915f5d9de017b5",
