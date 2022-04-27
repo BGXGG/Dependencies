@@ -43,6 +43,18 @@
 		}
 	},
 	"resources": {
+		"auroraorb": {
+			"anti_afk.png": "e7b4bc43bfd926f84468469ca574c4cc",
+			"developers.png": "af54cc6d060e908432352ee4ae5dcbe7",
+			"drawing.png": "6b7c720c23c2289fae37689b86115160",
+			"gold.png": "baecad8f831a2135e4d43671acdea0ed",
+			"humanizer.png": "42e641c6231bd32518de05d7a1c6b9af",
+			"main_tab.png": "13a44b894e31b2b116d7650cbaf7aa9e",
+			"mode.png": "e1c229abaa58fc79a7d9a3cc700b76f8",
+			"settings.png": "c21f68222f04868c574f9411dabd69a3",
+			"target.png": "9d20074218f1442039aafa769d01d346",
+			"wings.png": "3d725329b0b00a6a61d0a0f1469e5e86"
+		},
 		"bgx_banner.dds": "fc873bb63d1ccf98d4b5369bf93b0e30",
 		"dead": {
 			"im_sad.wav": "f4ed7238bd4119e5f31bcaef6cfb2be8",
