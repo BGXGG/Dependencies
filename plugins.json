@@ -2,7 +2,7 @@
 	{
 		"name": "1v9 AIO",
 		"fileName": "1v9-AIO.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			51,
 			222,
@@ -19,17 +19,17 @@
 	{
 		"name": "AuroraOrb",
 		"fileName": "AuroraOrb.dll",
-		"updateTime": 1652356981
+		"updateTime": 1652381119
 	},
 	{
 		"name": "AuroraPrediction",
 		"fileName": "AuroraPrediction.dll",
-		"updateTime": 1652356981
+		"updateTime": 1652381119
 	},
 	{
 		"name": "Champions AIO",
 		"fileName": "BGX.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			238,
 			101,
@@ -86,12 +86,12 @@
 	{
 		"name": "Evade",
 		"fileName": "BGXEvade.dll",
-		"updateTime": 1652356981
+		"updateTime": 1652381119
 	},
 	{
 		"name": "BanthorsAIO",
 		"fileName": "BanthorsAIO.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			10,
 			203,
@@ -102,7 +102,7 @@
 	{
 		"name": "BenAIO",
 		"fileName": "BenAIO.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			246,
 			110,
@@ -112,7 +112,7 @@
 	{
 		"name": "CSXAIO",
 		"fileName": "CSXAIO.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			420,
 			113
@@ -121,7 +121,7 @@
 	{
 		"name": "DivineSeries",
 		"fileName": "DivineSeries.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			39
 		]
@@ -129,7 +129,7 @@
 	{
 		"name": "EnzuAIO",
 		"fileName": "EnzuAIO.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			518,
 			50,
@@ -139,7 +139,7 @@
 	{
 		"name": "forbidden blade",
 		"fileName": "ForbiddenBlade.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			157
 		]
@@ -147,7 +147,7 @@
 	{
 		"name": "Kiri AIO",
 		"fileName": "KiriAIO.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			67,
 			142,
@@ -156,9 +156,14 @@
 		]
 	},
 	{
+		"name": "Kiri | Recall Kill",
+		"fileName": "KiriRecallKill.dll",
+		"updateTime": 1652381119
+	},
+	{
 		"name": "L9 AIO",
 		"fileName": "L9AIO.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			235,
 			32,
@@ -175,12 +180,12 @@
 	{
 		"name": "L9 Utility",
 		"fileName": "L9Utility.dll",
-		"updateTime": 1652356981
+		"updateTime": 1652381119
 	},
 	{
 		"name": "LeagueSharp AIO",
 		"fileName": "LeaguesharpAIO.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			157,
 			114,
@@ -212,7 +217,7 @@
 	{
 		"name": "MistalBGX",
 		"fileName": "MKayn.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			141
 		]
@@ -220,7 +225,7 @@
 	{
 		"name": "Marksman",
 		"fileName": "Marksman.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			22,
 			51,
@@ -248,7 +253,7 @@
 	{
 		"name": "Midlane Carry",
 		"fileName": "MidlaneCarry.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			13,
 			69,
@@ -261,7 +266,7 @@
 	{
 		"name": "RageAIO",
 		"fileName": "RageAIO.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			888,
 			421,
@@ -271,7 +276,7 @@
 	{
 		"name": "SebasBGX",
 		"fileName": "SebasBGX.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			98,
 			120,
@@ -292,12 +297,12 @@
 	{
 		"name": "SebasPrediction",
 		"fileName": "SebasPrediction.dll",
-		"updateTime": 1652356981
+		"updateTime": 1652381119
 	},
 	{
 		"name": "ShadowAIO",
 		"fileName": "ShadowAIO.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			23,
 			203,
@@ -320,12 +325,12 @@
 	{
 		"name": "AJK - KoreanPings",
 		"fileName": "SmartPings.dll",
-		"updateTime": 1652356981
+		"updateTime": 1652381119
 	},
 	{
 		"name": "Taiwan AIO",
 		"fileName": "TaiwanAIO.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			55
 		]
@@ -333,7 +338,7 @@
 	{
 		"name": "ToxicAIO",
 		"fileName": "ToxicAIO.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			85
 		]
@@ -341,12 +346,12 @@
 	{
 		"name": "EUtility",
 		"fileName": "Utility.dll",
-		"updateTime": 1652356981
+		"updateTime": 1652381119
 	},
 	{
 		"name": "Wafend AIO",
 		"fileName": "WafendAIO.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			14,
 			555,
@@ -356,7 +361,7 @@
 	{
 		"name": "Yordle AIO",
 		"fileName": "YordleAIO.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			45
 		]
@@ -364,7 +369,7 @@
 	{
 		"name": "Yummi BOT",
 		"fileName": "YuumiBot.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			350
 		]
@@ -372,7 +377,7 @@
 	{
 		"name": "ZEDith AIO",
 		"fileName": "ZEDithAIO.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			101,
 			41,
@@ -383,12 +388,12 @@
 	{
 		"name": "ZEDithPred",
 		"fileName": "ZEDithPred.dll",
-		"updateTime": 1652356981
+		"updateTime": 1652381119
 	},
 	{
 		"name": "Zira Pack",
 		"fileName": "ZiraPack.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			245,
 			38,
@@ -428,7 +433,7 @@
 	{
 		"name": "ZzihaoAIO",
 		"fileName": "ZzihaoAIO.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			157,
 			39,
@@ -448,7 +453,7 @@
 	{
 		"name": "Entropy AIO",
 		"fileName": "entropy-aio.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			266,
 			12,
@@ -460,7 +465,7 @@
 	{
 		"name": "roadAIO",
 		"fileName": "roadAIO.dll",
-		"updateTime": 1652356981,
+		"updateTime": 1652381119,
 		"supported": [
 			134,
 			85,
