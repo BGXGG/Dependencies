@@ -87,7 +87,9 @@ function walkTree(d, res) {
                         var pluginName = buffer.toString('utf8', exportAddress, exportAddress + pluginNameSize);
 
                         pluginObject.name = pluginName;
-                    }
+                    } else if (exportName == "type_plugin") {
+			 pluginObject.plugin_type = buffer.readUInt32LE(exportAddress);
+		    }
                 }
 
                 res.push(pluginObject);
