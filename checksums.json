@@ -53,6 +53,9 @@
 		}
 	},
 	"resources": {
+		"BlackOutAIO": {
+			"ahri_menu.png": "cbadf1d4ec558cee0fa02ca33c241adb"
+		},
 		"auroraorb": {
 			"anti_afk.png": "e7b4bc43bfd926f84468469ca574c4cc",
 			"developers.png": "af54cc6d060e908432352ee4ae5dcbe7",
