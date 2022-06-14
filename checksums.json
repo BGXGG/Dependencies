@@ -55,7 +55,9 @@
 	},
 	"resources": {
 		"BlackOutAIO": {
-			"ahri_menu.png": "cbadf1d4ec558cee0fa02ca33c241adb"
+			"ahri_menu.png": "cbadf1d4ec558cee0fa02ca33c241adb",
+			"belveth_circle.png": "f80115efa0a0343541442114623a8000",
+			"belveth_passive.png": "a3ad1470bacc5a533b6a31350cd027e4"
 		},
 		"auroraorb": {
 			"anti_afk.png": "e7b4bc43bfd926f84468469ca574c4cc",
