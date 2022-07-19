@@ -10,7 +10,7 @@
 	"plugins": {
 		"x86": {
 			"1v9-AIO.dll": "60c757105d01b468fc1b027b77c883f4",
-			"ADCSeries.dll": "85e11787d5ec7b4fc43dbe44ecd5128a",
+			"ADCSeries.dll": "3f5e7a0c29f84c653e3e96930672b37f",
 			"AuroraOrb.dll": "cf0032152028235a1f4ce938de47db88",
 			"AuroraPrediction.dll": "7c78b8c4ddbb40504cc1d4cd3e25d523",
 			"BGX.dll": "2631ff5dbf94c47d2f9c85d02bf27d49",
@@ -18,7 +18,7 @@
 			"BanthorsAIO.dll": "6013eb32fef5ebab8b7b00471819eb59",
 			"BenAIO.dll": "ef47615fae16840c3afe549ee8efb23f",
 			"BlackOutAIO.dll": "f3cffb7336155464117dfbc3aaa52348",
-			"CSXAIO.dll": "494ed049437a0185602f7da4d68a1b9f",
+			"CSXAIO.dll": "b83d9ff5f7307aaea6e97853243cd72b",
 			"DivineSeries.dll": "19347594373ef5df8ab2b53bf595f50e",
 			"EnzuAIO.dll": "56d2551eabb895c69bf3827e140cf5b2",
 			"ExodiaAIO.dll": "5fc4c356742ab081a4a8e0485a733086",
