@@ -10,7 +10,7 @@
 	"plugins": {
 		"x86": {
 			"1v9-AIO.dll": "60c757105d01b468fc1b027b77c883f4",
-			"ADCSeries.dll": "6a41b519033b9542d63dc5a8391e7ea7",
+			"ADCSeries.dll": "85e11787d5ec7b4fc43dbe44ecd5128a",
 			"AuroraOrb.dll": "cf0032152028235a1f4ce938de47db88",
 			"AuroraPrediction.dll": "7c78b8c4ddbb40504cc1d4cd3e25d523",
 			"BGX.dll": "2631ff5dbf94c47d2f9c85d02bf27d49",
