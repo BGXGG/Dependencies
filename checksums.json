@@ -10,7 +10,7 @@
 	"plugins": {
 		"x86": {
 			"1v9-AIO.dll": "60c757105d01b468fc1b027b77c883f4",
-			"ADCSeries.dll": "4c78a22f481bb289f590a692cd21bf3c",
+			"ADCSeries.dll": "7e1d189c554011108810e494ebd4dcd1",
 			"AuroraOrb.dll": "cf0032152028235a1f4ce938de47db88",
 			"AuroraPrediction.dll": "7c78b8c4ddbb40504cc1d4cd3e25d523",
 			"BGX.dll": "2631ff5dbf94c47d2f9c85d02bf27d49",
@@ -27,7 +27,7 @@
 			"KiriAIO.dll": "dc29f5dedbc64d4283f38f3045fce8d2",
 			"KiriRecallKill.dll": "7d36a6f9be0e6f7626e0ce35e05974fe",
 			"L9AIO.dll": "2ea42a247f28170f78b815d71bffdbb2",
-			"L9Utility.dll": "4ec10c7a66da7a25edd17a51b86035ef",
+			"L9Utility.dll": "7ceb3eff3ce8150be6dab0f08149db1c",
 			"LeaguesharpAIO.dll": "1159a81341418ad0db151754d4dfcd96",
 			"LordsPred.dll": "1cfec9d36f04683d018b10d8177daaaa",
 			"MKayn.dll": "09e39488b31e49761205220504a6aa5d",
