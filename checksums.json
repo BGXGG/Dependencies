@@ -10,7 +10,7 @@
 	"plugins": {
 		"x86": {
 			"1v9-AIO.dll": "60c757105d01b468fc1b027b77c883f4",
-			"ADCSeries.dll": "8d3f479a72a6f67d3986a1e077df22a6",
+			"ADCSeries.dll": "83d3fd5989a62b77affb302f48db9ff4",
 			"AuroraOrb.dll": "cf0032152028235a1f4ce938de47db88",
 			"AuroraPrediction.dll": "7c78b8c4ddbb40504cc1d4cd3e25d523",
 			"BGX.dll": "9302946906ff9d936b09aeb3b98f0627",
@@ -38,7 +38,7 @@
 			"OmoriAIO.dll": "064e8825e997edc0dbe257e3e245d84c",
 			"OuijAIO.dll": "ff0a0a054542edbc78e42ea9e9e55751",
 			"RageAIO.dll": "e175d9291a6026b1f44a7aa1ae0fafee",
-			"SebasBGX.dll": "102ce55d669738d44aaf8c631eabc95b",
+			"SebasBGX.dll": "c21c4f15daa989ddc746688995d470cb",
 			"SebasPrediction.dll": "41150c1deecddc889468da4aabe00f31",
 			"ShadowAIO.dll": "d935c6e1feb6f8db3634cec954ef121c",
 			"SmartPings.dll": "fe80c1e8710ce17f578b84a95a324a1c",
@@ -56,7 +56,7 @@
 			"ZzihaoAIO.dll": "21e104552b39177aa9d7d2e82b98e613",
 			"entropy-aio.dll": "f00004b24e5dc66b33c2153f365c4aba",
 			"roadAIO.dll": "6a1903c7e13fa1683a3ea4d638a76835",
-			"xDreammsAIO.dll": "c46720efc0b3f493c15c75592eccb148"
+			"xDreammsAIO.dll": "ea6e05d4e683c9e572f0c982269f56cc"
 		}
 	},
 	"resources": {
