@@ -62,6 +62,16 @@
 	},
 	"resources": {
 		"BlackOutAIO": {
+			"Bullseye.png": "d41d8cd98f00b204e9800998ecf8427e",
+			"Combo.png": "d41d8cd98f00b204e9800998ecf8427e",
+			"Drawing.png": "d41d8cd98f00b204e9800998ecf8427e",
+			"Flee.png": "d41d8cd98f00b204e9800998ecf8427e",
+			"Harass.png": "d41d8cd98f00b204e9800998ecf8427e",
+			"JungleClear.png": "d41d8cd98f00b204e9800998ecf8427e",
+			"KillSteal.png": "d41d8cd98f00b204e9800998ecf8427e",
+			"LaneClear.png": "d41d8cd98f00b204e9800998ecf8427e",
+			"Lantern.png": "d41d8cd98f00b204e9800998ecf8427e",
+			"LastHit.png": "d41d8cd98f00b204e9800998ecf8427e",
 			"ahri_menu.png": "cbadf1d4ec558cee0fa02ca33c241adb",
 			"belveth_circle.png": "f80115efa0a0343541442114623a8000",
 			"belveth_passive.png": "a3ad1470bacc5a533b6a31350cd027e4",
