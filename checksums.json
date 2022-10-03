@@ -1,7 +1,7 @@
 {
 	"core": {
 		"x86": {
-			"core_plugin.dll": "d779e04fc4416c53c2a790d368916aa7"
+			"core_plugin.dll": "ba575e3c2a5cbc5f0e170d52c9652669"
 		}
 	},
 	"lib": {
@@ -13,8 +13,8 @@
 			"ADCSeries.dll": "33d636a30a0764260da13dcbb3d0f335",
 			"AuroraOrb.dll": "cf0032152028235a1f4ce938de47db88",
 			"AuroraPrediction.dll": "de4ffae7ac181753a334ac6ea6a7280e",
-			"BGX.dll": "805e6533aa9ce538ba4056892e1607ea",
-			"BGXEvade.dll": "bc1ce9c2f50d8c6c0cedae2838866d8b",
+			"BGX.dll": "1ad55d0c0a383b648128984999e35b13",
+			"BGXEvade.dll": "6fc9918431f763c409b2960509accf73",
 			"BanthorsAIO.dll": "6013eb32fef5ebab8b7b00471819eb59",
 			"BenAIO.dll": "ef47615fae16840c3afe549ee8efb23f",
 			"BlackOutAIO.dll": "6673d5664638b03711c54bbd4a6d52e6",
@@ -31,11 +31,11 @@
 			"KissMyAIO.dll": "783a65a6e5a118011c65859e89752262",
 			"L9AIO.dll": "b3c64e08abf997125882019ec0125704",
 			"L9Utility.dll": "c37933310e8a52b6f204b352a7871aef",
-			"LeaguesharpAIO.dll": "9e15f2624f48b8b43b8923ba0261f542",
+			"LeaguesharpAIO.dll": "e79ab23a16030da1d0f048562c7419e1",
 			"LordsPred.dll": "1cfec9d36f04683d018b10d8177daaaa",
 			"MKayn.dll": "09e39488b31e49761205220504a6aa5d",
-			"Marksman.dll": "fae49f192aae584f31d6d28a8b3db44e",
-			"MidlaneCarry.dll": "9c33e9cbb36a1669e577f598afb03cec",
+			"Marksman.dll": "0ecb38a093f94c9ddde0709cd349d6cb",
+			"MidlaneCarry.dll": "1dab3a694263c02dd5b72bc7492986a3",
 			"MppA_AIO.dll": "f94315769092ae591e4391d5e00f815f",
 			"OmoriAIO.dll": "064e8825e997edc0dbe257e3e245d84c",
 			"OuijAIO.dll": "ff0a0a054542edbc78e42ea9e9e55751",
@@ -47,16 +47,16 @@
 			"TaiwanAIO.dll": "88f1c5af50e0cf3667eb721f3de2a516",
 			"ToxicAIO.dll": "60655aeca33802bf3ab9721212954b8e",
 			"TrueDamageAIO.dll": "a04c8b8bbf5209e66640975a93629e6d",
-			"Utility.dll": "7ce3777d65b4042f60931c0aa7f1b259",
+			"Utility.dll": "cea5c41ae6a5a2f31d2bf92cade08d4e",
 			"WafendAIO.dll": "ceaccb5dff0ad349fad53aa877a9bff3",
 			"YordleAIO.dll": "53c2d5698b2dedccba6ddcf7817c08ac",
-			"YuumiBot.dll": "9158ae8ca45b34229b75cdf9cdd8d929",
+			"YuumiBot.dll": "76472b0d6a4e14b1627940ccdff306ca",
 			"ZEDithAIO.dll": "7cae76a93e274ca51e79af2127617bba",
 			"ZEDithPred.dll": "d811293a908d9c9b837920a253d1dfdb",
 			"ZekCarry.dll": "ed00e8e3451a322e4c372657a32c5241",
-			"ZiraPack.dll": "a9b8c8ee498a8ec5fa4408297a099406",
+			"ZiraPack.dll": "a0b5343e26c6ceb2ab4a05fecbe8ee38",
 			"ZzihaoAIO.dll": "21e104552b39177aa9d7d2e82b98e613",
-			"entropy-aio.dll": "73a71a681795221d850c476b106a0c11",
+			"entropy-aio.dll": "ba30b5c56e4e617a56b4a1330a99fd2c",
 			"roadAIO.dll": "6a1903c7e13fa1683a3ea4d638a76835",
 			"xDreammsAIO.dll": "cefcc2052b56a3b1da147f415b0babe5"
 		}
