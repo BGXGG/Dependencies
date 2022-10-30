@@ -17,8 +17,8 @@
 			"BanthorsAIO.dll": "999e64f874edd7d5f9087954ead6ce67",
 			"BenAIO.dll": "2be85af9d0b194329a6f414e8b6e6c80",
 			"BlackOutAIO.dll": "8d996ad2ae96edbeb7b35332f09da86f",
-			"BlackOutActivator.dll": "b02f1a6ae3927dcd64975d6152e9d95e",
-			"CSXAIO.dll": "84542f0fed86324e95718ad7f8baf16c",
+			"BlackOutActivator.dll": "48176a550a90ea8bdda82e16e2d71f26",
+			"CSXAIO.dll": "4cae283ff57f6c8d56855bc4ab6e7988",
 			"DivineSeries.dll": "eaf59fae1664ff1f57c7491842667f15",
 			"ExodiaAIO.dll": "5a3b965a6b51d6612388a8a44ba53da8",
 			"HabibiAIO.dll": "97fe560d05a3ecdca36b2fa3a0615f0e",
@@ -26,7 +26,7 @@
 			"KiriRecallKill.dll": "a7ae33de3800dc47ea0566a7aaa3f9c7",
 			"KissMyAIO.dll": "132c8720c3baa329dc8c033f19441550",
 			"KleeAIO.dll": "a3f4c4d73c26fdf7347ac5fcbf1ce04e",
-			"L9AIO.dll": "9274a9f68793146c567f08a9ee7f3758",
+			"L9AIO.dll": "dab60c06eb9d67d73b0947505113d8b7",
 			"L9Utility.dll": "4eb705d65239b7a9186ed5f796b9c8df",
 			"LeaguesharpAIO.dll": "e79ab23a16030da1d0f048562c7419e1",
 			"LordsPred.dll": "6699edfb1b2d4e560042252f2ac1387f",
@@ -36,7 +36,7 @@
 			"RageAIO.dll": "5404c7526c8de0c96f848217d1bb46cb",
 			"SebasBGX.dll": "5dee59c00af54922a6981dfa09181bfc",
 			"SebasPrediction.dll": "95cf17b63247007d1e5f64c244f3b935",
-			"ShadowAIO.dll": "c958cf355f79a3fd7ba0c30f53f13dbb",
+			"ShadowAIO.dll": "c523163d7300b8235b4a607ea6034983",
 			"SkinwalkerAIO.dll": "34f9c733426e6122bfda6da661aaa03f",
 			"SmartPings.dll": "a8be58be6e837a5416342502f2a6d8ba",
 			"TaiwanAIO.dll": "70255eb071c6759caefb7c879a3fd096",
@@ -54,7 +54,7 @@
 			"ZiraPack.dll": "a0b5343e26c6ceb2ab4a05fecbe8ee38",
 			"ZzihaoAIO.dll": "60d0da93e0fd9b5f9aee0d4b62ba1f46",
 			"entropy-aio.dll": "ba30b5c56e4e617a56b4a1330a99fd2c",
-			"xDreammsAIO.dll": "37028bb733508347598a74f7b0798b65"
+			"xDreammsAIO.dll": "9a0fbeebd87b695d257132d832d30310"
 		}
 	},
 	"resources": {
