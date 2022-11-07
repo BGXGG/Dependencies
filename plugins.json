@@ -184,6 +184,14 @@
 		"updateTime": 1667585769
 	},
 	{
+		"fileName": "Excalibur.dll",
+		"name": "Excalibur",
+		"supported": [
+			110
+		],
+		"updateTime": 1667823266
+	},
+	{
 		"fileName": "ExodiaAIO.dll",
 		"name": "Exodia AIO",
 		"plugin_type": 1,
@@ -548,7 +556,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1667824186,
+		"updateTime": 1667824219,
 		"supported": [
 			17,
 			32,
@@ -562,7 +570,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1667824186,
+		"updateTime": 1667824219,
 		"plugin_type": 0
 	},
 	{
@@ -601,7 +609,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1667824186,
+		"updateTime": 1667824219,
 		"supported": [
 			30,
 			11,
