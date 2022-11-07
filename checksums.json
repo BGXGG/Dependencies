@@ -123,6 +123,12 @@
 			"belveth_passive.png": "a3ad1470bacc5a533b6a31350cd027e4",
 			"blackout_activator.png": "b8f012ba178df967cb0a7d7f0800d008"
 		},
+		"Klee": {
+			"Recall.png": "530fc0af0be00f0023a29f6062ce7340",
+			"kaisa_e.png": "55adf2e443d7471487d2c05a8d305ee2",
+			"kaisa_e_evolved.png": "96ad4968f2b48fbbb531635eef19c5fa",
+			"klee.png": "d8bf730edbf4d864605b1069e0cb1def"
+		},
 		"WafendAIO": {
 			"dropdown_icon_permashow.png": "2526922639572c3970f01813de8e6eda",
 			"dropup_icon_permashow.png": "2d15f6e7ac8d505e9db7bed8d81566cf"
