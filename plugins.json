@@ -143,7 +143,7 @@
 		"fileName": "BlackOutActivator.dll",
 		"name": "[@BlackOut Activator ~]#",
 		"plugin_type": 0,
-		"updateTime": 1668282351
+		"updateTime": 1668335854
 	},
 	{
 		"fileName": "BlahajAIO.dll",
@@ -176,7 +176,7 @@
 			133,
 			33
 		],
-		"updateTime": 1668282119
+		"updateTime": 1668335844
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -265,7 +265,7 @@
 			127,
 			80
 		],
-		"updateTime": 1668254353
+		"updateTime": 1668335859
 	},
 	{
 		"fileName": "KleeAIO.dll",
@@ -283,7 +283,7 @@
 			875,
 			145
 		],
-		"updateTime": 1668254516
+		"updateTime": 1668336100
 	},
 	{
 		"fileName": "L9AIO.dll",
@@ -314,13 +314,13 @@
 			81,
 			30
 		],
-		"updateTime": 1668254266
+		"updateTime": 1668335867
 	},
 	{
 		"fileName": "L9Utility.dll",
 		"name": "L9 Utility",
 		"plugin_type": 0,
-		"updateTime": 1668282280
+		"updateTime": 1668335781
 	},
 	{
 		"fileName": "LeaguesharpAIO.dll",
@@ -409,15 +409,16 @@
 		"name": "OpenSeries",
 		"plugin_type": 1,
 		"supported": [
-			63
+			63,
+			101
 		],
-		"updateTime": 1667771111
+		"updateTime": 1668336777
 	},
 	{
 		"fileName": "OpenUtilities.dll",
 		"name": "OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1668282085
+		"updateTime": 1668336810
 	},
 	{
 		"fileName": "RageAIO.dll",
@@ -454,7 +455,7 @@
 			12,
 			119
 		],
-		"updateTime": 1667934851
+		"updateTime": 1668335647
 	},
 	{
 		"fileName": "SebasPrediction.dll",
@@ -563,7 +564,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1668283224,
+		"updateTime": 1668337223,
 		"supported": [
 			17,
 			32,
@@ -577,7 +578,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1668283224,
+		"updateTime": 1668337223,
 		"plugin_type": 0
 	},
 	{
@@ -616,7 +617,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1668283224,
+		"updateTime": 1668337223,
 		"supported": [
 			30,
 			11,
