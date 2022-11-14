@@ -178,7 +178,7 @@
 			133,
 			33
 		],
-		"updateTime": 1668442887
+		"updateTime": 1668452010
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -192,9 +192,10 @@
 		"fileName": "Excalibur.dll",
 		"name": "Excalibur",
 		"supported": [
-			110
+			110,
+			96
 		],
-		"updateTime": 1668442719
+		"updateTime": 1668452068
 	},
 	{
 		"fileName": "ExodiaAIO.dll",
@@ -414,13 +415,13 @@
 			63,
 			101
 		],
-		"updateTime": 1668442724
+		"updateTime": 1668451973
 	},
 	{
 		"fileName": "OpenUtilities.dll",
 		"name": "OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1668339214
+		"updateTime": 1668451976
 	},
 	{
 		"fileName": "RageAIO.dll",
@@ -457,7 +458,7 @@
 			12,
 			119
 		],
-		"updateTime": 1668442816
+		"updateTime": 1668452005
 	},
 	{
 		"fileName": "SebasPrediction.dll",
@@ -566,7 +567,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1668443425,
+		"updateTime": 1668452426,
 		"supported": [
 			17,
 			32,
@@ -580,7 +581,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1668443425,
+		"updateTime": 1668452426,
 		"plugin_type": 0
 	},
 	{
@@ -619,7 +620,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1668443425,
+		"updateTime": 1668452426,
 		"supported": [
 			30,
 			11,
