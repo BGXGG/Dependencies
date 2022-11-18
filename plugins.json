@@ -144,7 +144,7 @@
 		"fileName": "BlackOutActivator.dll",
 		"name": "[@BlackOut Activator ~]#",
 		"plugin_type": 0,
-		"updateTime": 1668683154
+		"updateTime": 1668727813
 	},
 	{
 		"fileName": "BlahajAIO.dll",
@@ -415,13 +415,13 @@
 			63,
 			101
 		],
-		"updateTime": 1668692736
+		"updateTime": 1668727807
 	},
 	{
 		"fileName": "OpenUtilities.dll",
 		"name": "OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1668703677
+		"updateTime": 1668727812
 	},
 	{
 		"fileName": "RageAIO.dll",
@@ -568,7 +568,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1668704420,
+		"updateTime": 1668729622,
 		"supported": [
 			17,
 			32,
@@ -582,7 +582,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1668704420,
+		"updateTime": 1668729622,
 		"plugin_type": 0
 	},
 	{
@@ -621,7 +621,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1668704420,
+		"updateTime": 1668729622,
 		"supported": [
 			30,
 			11,
