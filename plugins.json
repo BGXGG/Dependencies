@@ -155,7 +155,7 @@
 			412,
 			267
 		],
-		"updateTime": 1669364548
+		"updateTime": 1669544115
 	},
 	{
 		"fileName": "CSXAIO.dll",
@@ -288,7 +288,7 @@
 			523,
 			64
 		],
-		"updateTime": 1669494193
+		"updateTime": 1669544272
 	},
 	{
 		"fileName": "L9AIO.dll",
@@ -319,13 +319,13 @@
 			81,
 			30
 		],
-		"updateTime": 1669493811
+		"updateTime": 1669544148
 	},
 	{
 		"fileName": "L9Utility.dll",
 		"name": "L9 Utility",
 		"plugin_type": 0,
-		"updateTime": 1669039520
+		"updateTime": 1669544033
 	},
 	{
 		"fileName": "LeaguesharpAIO.dll",
@@ -570,7 +570,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1669494622,
+		"updateTime": 1669545021,
 		"supported": [
 			17,
 			32,
@@ -584,7 +584,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1669494622,
+		"updateTime": 1669545021,
 		"plugin_type": 0
 	},
 	{
@@ -623,7 +623,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1669494622,
+		"updateTime": 1669545021,
 		"supported": [
 			30,
 			11,
