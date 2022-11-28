@@ -202,9 +202,10 @@
 		"name": "Exodia AIO",
 		"plugin_type": 1,
 		"supported": [
+			21,
 			876
 		],
-		"updateTime": 1668534592
+		"updateTime": 1669660921
 	},
 	{
 		"fileName": "HabibiAIO.dll",
@@ -570,7 +571,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1669656624,
+		"updateTime": 1669662019,
 		"supported": [
 			17,
 			32,
@@ -584,7 +585,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1669656624,
+		"updateTime": 1669662019,
 		"plugin_type": 0
 	},
 	{
@@ -623,7 +624,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1669656624,
+		"updateTime": 1669662019,
 		"supported": [
 			30,
 			11,
