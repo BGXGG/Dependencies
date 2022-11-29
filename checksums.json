@@ -35,8 +35,8 @@
 			"DivineSeries.dll.json": "c67f76254a7b1f826bbeaa33424e8edd",
 			"Excalibur.dll": "98718556a29f91928e8e7ae45d49f7ae",
 			"Excalibur.dll.json": "3c55eea186bda0f4233a69abf25e48ae",
-			"ExodiaAIO.dll": "bd22fe772784572be68e17b2e600ec72",
-			"ExodiaAIO.dll.json": "60712e6656b4f7a5ef89981f1cc2f57f",
+			"ExodiaAIO.dll": "b52e396bbf58c595c825ba334cb9fe48",
+			"ExodiaAIO.dll.json": "a7eb76082f997c95bc462a61e815de82",
 			"HabibiAIO.dll": "96857c9adcf6af6a2fd877c7d503ae37",
 			"HabibiAIO.dll.json": "bf629f191d73af38d0c48dbcefa926d5",
 			"KiriAIO.dll": "884f9c71ff79abccad14e426cf95968c",
@@ -45,8 +45,8 @@
 			"KiriRecallKill.dll.json": "03c37a6d270d43012d2f8cb4266c09f0",
 			"KissMyAIO.dll": "5262edfaa13a851456c719221f02a503",
 			"KissMyAIO.dll.json": "470f3965c9f5265feadbf3d736a7d087",
-			"KleeAIO.dll": "43b41812aed2265760e970f5d8307bda",
-			"KleeAIO.dll.json": "02c4e10c147d4324c4726bbe2de16f40",
+			"KleeAIO.dll": "eabcca3e0a655411b7a93772974ed488",
+			"KleeAIO.dll.json": "4394202588137a9420c25f66a5ee4c2c",
 			"L9AIO.dll": "ac4b91bab3fe3d22a874fbe1c5bb956a",
 			"L9AIO.dll.json": "d3061990d07c1fca30b43a7337ca790d",
 			"L9Utility.dll": "d3ee2ca122550b175bca447749cd6e61",
@@ -102,8 +102,8 @@
 			"ZzihaoAIO.dll.json": "ce4c8510fd083e2c1ade06e465237b86",
 			"entropy-aio.dll": "f2127900437105db3d7a683cbe241f20",
 			"entropy-aio.dll.json": "5cadf54849ba493d2964460b611ef4e3",
-			"xDreammsAIO.dll": "28685f18fd1c6c635c7d4110639a5d4b",
-			"xDreammsAIO.dll.json": "c54f6ba781d5accf5c9c654646b351f5"
+			"xDreammsAIO.dll": "9567c16f87ec98e5dd645ba44da41b0f",
+			"xDreammsAIO.dll.json": "d2b7eb4596ec0e1898309c4e746d682b"
 		}
 	},
 	"resources": {

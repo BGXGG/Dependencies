@@ -205,7 +205,7 @@
 			21,
 			876
 		],
-		"updateTime": 1669664484
+		"updateTime": 1669711224
 	},
 	{
 		"fileName": "HabibiAIO.dll",
@@ -289,7 +289,7 @@
 			523,
 			64
 		],
-		"updateTime": 1669655544
+		"updateTime": 1669711401
 	},
 	{
 		"fileName": "L9AIO.dll",
@@ -571,7 +571,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1669665620,
+		"updateTime": 1669712424,
 		"supported": [
 			17,
 			32,
@@ -585,7 +585,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1669665620,
+		"updateTime": 1669712424,
 		"plugin_type": 0
 	},
 	{
@@ -624,7 +624,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1669665620,
+		"updateTime": 1669712424,
 		"supported": [
 			30,
 			11,
@@ -742,6 +742,6 @@
 			110,
 			161
 		],
-		"updateTime": 1669386492
+		"updateTime": 1669711158
 	}
 ]
