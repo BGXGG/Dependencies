@@ -234,7 +234,7 @@
 			15,
 			110
 		],
-		"updateTime": 1670353427
+		"updateTime": 1670453301
 	},
 	{
 		"fileName": "KiriRecallKill.dll",
@@ -288,7 +288,7 @@
 			523,
 			64
 		],
-		"updateTime": 1670318661
+		"updateTime": 1670453409
 	},
 	{
 		"fileName": "L9AIO.dll",
@@ -423,7 +423,7 @@
 		"fileName": "OpenUtilities.dll",
 		"name": "OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1670318246
+		"updateTime": 1670453078
 	},
 	{
 		"fileName": "RageAIO.dll",
@@ -570,7 +570,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1670355022,
+		"updateTime": 1670454023,
 		"supported": [
 			17,
 			32,
@@ -584,7 +584,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1670355022,
+		"updateTime": 1670454023,
 		"plugin_type": 0
 	},
 	{
@@ -623,7 +623,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1670355022,
+		"updateTime": 1670454023,
 		"supported": [
 			30,
 			11,
