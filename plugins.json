@@ -218,6 +218,14 @@
 		"updateTime": 1667586660
 	},
 	{
+		"fileName": "IcarusAIO.dll",
+		"name": "IcarusAIO",
+		"supported": [
+			157
+		],
+		"updateTime": 1671618538
+	},
+	{
 		"fileName": "KiriAIO.dll",
 		"name": "Kiri AIO",
 		"plugin_type": 1,
@@ -297,7 +305,7 @@
 		"fileName": "KleeUtility.dll",
 		"name": "Klee Utility(漢化)",
 		"plugin_type": 0,
-		"updateTime": 1671558239
+		"updateTime": 1671618013
 	},
 	{
 		"fileName": "L9AIO.dll",
@@ -328,7 +336,7 @@
 			81,
 			30
 		],
-		"updateTime": 1671273838
+		"updateTime": 1671618106
 	},
 	{
 		"fileName": "L9Utility.dll",
@@ -426,7 +434,7 @@
 			63,
 			101
 		],
-		"updateTime": 1671095420
+		"updateTime": 1671617983
 	},
 	{
 		"fileName": "OpenUtilities.dll",
@@ -579,7 +587,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1671564622,
+		"updateTime": 1671618628,
 		"supported": [
 			17,
 			32,
@@ -593,7 +601,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1671564622,
+		"updateTime": 1671618628,
 		"plugin_type": 0
 	},
 	{
@@ -632,7 +640,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1671564622,
+		"updateTime": 1671618628,
 		"supported": [
 			30,
 			11,
