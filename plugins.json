@@ -425,6 +425,15 @@
 		"updateTime": 1667569191
 	},
 	{
+		"fileName": "OHAIO.dll",
+		"name": "OHAIO",
+		"plugin_type": 1,
+		"supported": [
+			246
+		],
+		"updateTime": 1672419454
+	},
+	{
 		"fileName": "OpenSeries.dll",
 		"name": "OpenSeries",
 		"plugin_type": 1,
@@ -586,7 +595,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1672340426,
+		"updateTime": 1672419619,
 		"supported": [
 			17,
 			32,
@@ -600,7 +609,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1672340426,
+		"updateTime": 1672419619,
 		"plugin_type": 0
 	},
 	{
@@ -639,7 +648,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1672340426,
+		"updateTime": 1672419619,
 		"supported": [
 			30,
 			11,
