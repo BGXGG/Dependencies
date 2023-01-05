@@ -29,8 +29,8 @@
 			"BlackOutActivator.dll.json": "d80b459c49deb3b3f2ab00def2e051cc",
 			"BlahajAIO.dll": "1bc86e342236a7cafcfa6a6fd108e4bf",
 			"BlahajAIO.dll.json": "d23b51630d980c26fbf029f842d47950",
-			"CSXAIO.dll": "2085d156f121a2e52f3e01af886d915e",
-			"CSXAIO.dll.json": "5b650ee466a321d535ba1b1590493f46",
+			"CSXAIO.dll": "5a7051aa8b9fac003716821f90148637",
+			"CSXAIO.dll.json": "203bcc196fd5cd53384540423d9ef27e",
 			"DivineSeries.dll": "4bb31c33209f20c4cdec4390c1967378",
 			"DivineSeries.dll.json": "c67f76254a7b1f826bbeaa33424e8edd",
 			"Excalibur.dll": "e104daafb6eaf4127d7fee81d7a694b4",
@@ -47,8 +47,8 @@
 			"KiriRecallKill.dll.json": "1044ceda2010719afab469e2fec2ddc1",
 			"KissMyAIO.dll": "5262edfaa13a851456c719221f02a503",
 			"KissMyAIO.dll.json": "470f3965c9f5265feadbf3d736a7d087",
-			"KleeAIO.dll": "a2b2831300619a2f0e91354a6bbc24f9",
-			"KleeAIO.dll.json": "bd97c0ce7ffb0a0af3c73fcef7a94701",
+			"KleeAIO.dll": "01d378bec3b3631e735fd55191cde39e",
+			"KleeAIO.dll.json": "64c5a0f679cc52b94ebd5419dc645ca6",
 			"KleeUtility.dll": "7b9814e21de096028025d1229fb6cd86",
 			"KleeUtility.dll.json": "45ddeb76f5f3b23b88331c19c5b22960",
 			"L9AIO.dll": "dc4590e6dc58aae549eaa7a619bdac4f",
@@ -63,8 +63,8 @@
 			"Marksman.dll.json": "db7a4c02b2b905a5b817b6aeb3bff8a2",
 			"MidlaneCarry.dll": "61b7f6060ab83d1af3005061a7e3e91d",
 			"MidlaneCarry.dll.json": "15bc440c39d085af1b0e85411c997c8e",
-			"OHAIO.dll": "8084982012c164bcc1ba7897398b1cf0",
-			"OHAIO.dll.json": "6cc30068f568fa9e30e6bc91411d25fe",
+			"OHAIO.dll": "e92250598c5e43102c63f2c7f2099354",
+			"OHAIO.dll.json": "21013d852939ce40f00b5ad220458476",
 			"OpenSeries.dll": "f7705806c9506089cd4ffe35d278d1f4",
 			"OpenSeries.dll.json": "a47487446fe65094557f0796e1128816",
 			"OpenUtilities.dll": "594b5a92774a5b00b914d52c40713b0a",
@@ -108,8 +108,8 @@
 			"ZzihaoAIO.dll.json": "ce4c8510fd083e2c1ade06e465237b86",
 			"entropy-aio.dll": "f2127900437105db3d7a683cbe241f20",
 			"entropy-aio.dll.json": "5cadf54849ba493d2964460b611ef4e3",
-			"xDreammsAIO.dll": "3a27d955e65f8c26847de43582649ccf",
-			"xDreammsAIO.dll.json": "c58cd85178b1b0f47e7ce8cfb046bee9"
+			"xDreammsAIO.dll": "b6ae4ee3377cda85c2d3511d57ae105a",
+			"xDreammsAIO.dll.json": "eb88517e74d8b3bf3b745eff7cf881cd"
 		}
 	},
 	"resources": {
