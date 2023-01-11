@@ -378,7 +378,7 @@
 			432,
 			526
 		],
-		"updateTime": 1671007788
+		"updateTime": 1673445963
 	},
 	{
 		"fileName": "LordsPred.dll",
@@ -600,7 +600,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1673446270,
+		"updateTime": 1673446309,
 		"supported": [
 			17,
 			32,
@@ -614,7 +614,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1673446270,
+		"updateTime": 1673446309,
 		"plugin_type": 0
 	},
 	{
@@ -653,7 +653,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1673446270,
+		"updateTime": 1673446309,
 		"supported": [
 			30,
 			11,
