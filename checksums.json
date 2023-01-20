@@ -29,8 +29,8 @@
 			"BlackOutActivator.dll.json": "8845abfd8c43d0c1bb9c6155cd56362a",
 			"BlahajAIO.dll": "7f72d489c0c1f02b1f9bf3d1b5308703",
 			"BlahajAIO.dll.json": "f0127c067c2dfcd224f77d60af229795",
-			"CSXAIO.dll": "12baf86710c920dcfb5052a1b82ecc38",
-			"CSXAIO.dll.json": "807f9c414c067c37bfe8e6f7977aedf1",
+			"CSXAIO.dll": "5462231f7c7b04b93abce078253ac168",
+			"CSXAIO.dll.json": "03ebe3d1eb6a3412abb182135b06c38f",
 			"DivineSeries.dll": "4bb31c33209f20c4cdec4390c1967378",
 			"DivineSeries.dll.json": "c67f76254a7b1f826bbeaa33424e8edd",
 			"Excalibur.dll": "e104daafb6eaf4127d7fee81d7a694b4",
@@ -110,8 +110,8 @@
 			"entropy-aio.dll.json": "5cadf54849ba493d2964460b611ef4e3",
 			"xDreammsAIO.dll": "3e45bff75b193d715d3b3fc7c2a9fb0e",
 			"xDreammsAIO.dll.json": "b8ec88a6dae4821b0b072dfb8bf0762e",
-			"xDreammsUtility.dll": "2538b5bdcabeb7ba6f925724534190f6",
-			"xDreammsUtility.dll.json": "07b2e085241f5313620d8a2ea8645aa5"
+			"xDreammsUtility.dll": "4fc1b913360f9c548b0543856a463405",
+			"xDreammsUtility.dll.json": "48e57b0f2fc0bac83ec905cae240c0be"
 		}
 	},
 	"resources": {
