@@ -549,7 +549,7 @@
 			111,
 			53
 		],
-		"updateTime": 1674308775
+		"updateTime": 1674478457
 	},
 	{
 		"fileName": "SmartPings.dll",
@@ -604,7 +604,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1674477265,
+		"updateTime": 1674478820,
 		"supported": [
 			17,
 			32,
@@ -618,7 +618,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1674477265,
+		"updateTime": 1674478820,
 		"plugin_type": 0
 	},
 	{
@@ -657,7 +657,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1674477265,
+		"updateTime": 1674478820,
 		"supported": [
 			30,
 			11,
