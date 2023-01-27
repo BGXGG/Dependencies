@@ -229,6 +229,12 @@
 		"updateTime": 1671618538
 	},
 	{
+		"fileName": "ImpulsePrediction.dll",
+		"name": "Impulse Prediction",
+		"plugin_type": 3,
+		"updateTime": 1674852845
+	},
+	{
 		"fileName": "KiriAIO.dll",
 		"name": "Kiri AIO",
 		"plugin_type": 1,
@@ -248,7 +254,7 @@
 			15,
 			110
 		],
-		"updateTime": 1674760069
+		"updateTime": 1674851854
 	},
 	{
 		"fileName": "KiriRecallKill.dll",
@@ -448,7 +454,7 @@
 			63,
 			101
 		],
-		"updateTime": 1673474379
+		"updateTime": 1674851624
 	},
 	{
 		"fileName": "OpenUtilities.dll",
@@ -604,7 +610,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1674817222,
+		"updateTime": 1674853225,
 		"supported": [
 			17,
 			32,
@@ -618,7 +624,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1674817222,
+		"updateTime": 1674853225,
 		"plugin_type": 0
 	},
 	{
@@ -657,7 +663,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1674817222,
+		"updateTime": 1674853225,
 		"supported": [
 			30,
 			11,
