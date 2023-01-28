@@ -183,7 +183,7 @@
 			91,
 			33
 		],
-		"updateTime": 1674817142
+		"updateTime": 1674897552
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -232,7 +232,7 @@
 		"fileName": "ImpulsePrediction.dll",
 		"name": "Impulse Prediction",
 		"plugin_type": 3,
-		"updateTime": 1674852845
+		"updateTime": 1674897699
 	},
 	{
 		"fileName": "KiriAIO.dll",
@@ -454,13 +454,13 @@
 			63,
 			101
 		],
-		"updateTime": 1674851624
+		"updateTime": 1674897648
 	},
 	{
 		"fileName": "OpenUtilities.dll",
 		"name": "OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1673474329
+		"updateTime": 1674897668
 	},
 	{
 		"fileName": "RageAIO.dll",
@@ -610,7 +610,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1674853225,
+		"updateTime": 1674898228,
 		"supported": [
 			17,
 			32,
@@ -624,7 +624,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1674853225,
+		"updateTime": 1674898228,
 		"plugin_type": 0
 	},
 	{
@@ -663,7 +663,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1674853225,
+		"updateTime": 1674898228,
 		"supported": [
 			30,
 			11,
@@ -781,7 +781,7 @@
 			110,
 			161
 		],
-		"updateTime": 1674759868
+		"updateTime": 1674897739
 	},
 	{
 		"fileName": "xDreammsUtility.dll",
