@@ -41,8 +41,8 @@
 			"HabibiAIO.dll.json": "bf629f191d73af38d0c48dbcefa926d5",
 			"IcarusAIO.dll": "01dd1b404dfbb48d8550eda15452cc9e",
 			"IcarusAIO.dll.json": "c444be5113a099ddf5b4fd3805edf534",
-			"ImpulsePrediction.dll": "9d75f088715623aea2fa8790d7660d0a",
-			"ImpulsePrediction.dll.json": "885d9d91392342dabcbf0d09169529d0",
+			"ImpulsePrediction.dll": "3676e497a86c44d129244cc453d3418d",
+			"ImpulsePrediction.dll.json": "5f20ee71171f3f165f9999fc6731d5b9",
 			"KiriAIO.dll": "1c8ee48009784056e4fabd6a239bf9af",
 			"KiriAIO.dll.json": "a7a211324475cd2801e7c05fb752725d",
 			"KiriRecallKill.dll": "859906ba2e763eceb8c59a3b58fff1f9",
@@ -112,8 +112,8 @@
 			"entropy-aio.dll.json": "432ef96dd5806c74ac142432a00d63f1",
 			"xDreammsAIO.dll": "b957a8bcfd467c487fb63d4f7f0fb398",
 			"xDreammsAIO.dll.json": "f4b88ab800eb7249cb7c87274e305d56",
-			"xDreammsUtility.dll": "dac3143449c002eb52216c58c7d0009a",
-			"xDreammsUtility.dll.json": "25a46ecd43528e33be4f4672aaac9c5f"
+			"xDreammsUtility.dll": "538d4e8c4710f25ee99e72dc969b902a",
+			"xDreammsUtility.dll.json": "307889a8ca6000a7c447a171acab4088"
 		}
 	},
 	"resources": {
