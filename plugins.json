@@ -183,7 +183,7 @@
 			91,
 			33
 		],
-		"updateTime": 1675177258
+		"updateTime": 1675280363
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -254,7 +254,7 @@
 			15,
 			110
 		],
-		"updateTime": 1675089295
+		"updateTime": 1675280409
 	},
 	{
 		"fileName": "KiriRecallKill.dll",
@@ -277,7 +277,7 @@
 			202,
 			104
 		],
-		"updateTime": 1673634757
+		"updateTime": 1675280191
 	},
 	{
 		"fileName": "KissMyAIO.dll",
@@ -454,13 +454,13 @@
 			63,
 			101
 		],
-		"updateTime": 1675177330
+		"updateTime": 1675280127
 	},
 	{
 		"fileName": "OpenUtilities.dll",
 		"name": "OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1674897668
+		"updateTime": 1675280094
 	},
 	{
 		"fileName": "RageAIO.dll",
@@ -497,7 +497,7 @@
 			119,
 			350
 		],
-		"updateTime": 1675102345
+		"updateTime": 1675280364
 	},
 	{
 		"fileName": "SebasPrediction.dll",
@@ -555,7 +555,7 @@
 			111,
 			53
 		],
-		"updateTime": 1675177392
+		"updateTime": 1675280173
 	},
 	{
 		"fileName": "SmartPings.dll",
@@ -610,7 +610,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1675179027,
+		"updateTime": 1675281626,
 		"supported": [
 			17,
 			32,
@@ -624,7 +624,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1675179027,
+		"updateTime": 1675281626,
 		"plugin_type": 0
 	},
 	{
@@ -663,7 +663,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1675179027,
+		"updateTime": 1675281626,
 		"supported": [
 			30,
 			11,
