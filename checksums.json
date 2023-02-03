@@ -29,8 +29,8 @@
 			"BlackOutActivator.dll.json": "8845abfd8c43d0c1bb9c6155cd56362a",
 			"BlahajAIO.dll": "7f72d489c0c1f02b1f9bf3d1b5308703",
 			"BlahajAIO.dll.json": "f0127c067c2dfcd224f77d60af229795",
-			"CSXAIO.dll": "d5a575d3a9f3247b1a96b370a5835c62",
-			"CSXAIO.dll.json": "376f7b4c1ea152b1c48eb61e9582ef35",
+			"CSXAIO.dll": "3a594a7d900ec12e04f6e9d4e0a097aa",
+			"CSXAIO.dll.json": "cc85a42f8886821b52f96c718e340fa7",
 			"DivineSeries.dll": "4bb31c33209f20c4cdec4390c1967378",
 			"DivineSeries.dll.json": "c67f76254a7b1f826bbeaa33424e8edd",
 			"Excalibur.dll": "e104daafb6eaf4127d7fee81d7a694b4",
@@ -49,8 +49,8 @@
 			"KiriRecallKill.dll.json": "dcd7adfc3720ed74c9b863ec4d018b1a",
 			"KissMyAIO.dll": "5262edfaa13a851456c719221f02a503",
 			"KissMyAIO.dll.json": "470f3965c9f5265feadbf3d736a7d087",
-			"KleeAIO.dll": "454222013e0dc2664e120d1c6c27431e",
-			"KleeAIO.dll.json": "3255d26615966f91cd39baa4020838df",
+			"KleeAIO.dll": "ec162008a900e7751253952b3811a2ad",
+			"KleeAIO.dll.json": "be053c91aa34cf378980ad1cfb1fd312",
 			"KleeUtility.dll": "dffea606e2713b4205a64e48e90720c7",
 			"KleeUtility.dll.json": "efadba5ae321530524a9f4dc8c414ae6",
 			"L9AIO.dll": "c69fc2ecd1d2a55a1b8e15be5a306f27",
@@ -69,8 +69,8 @@
 			"OHAIO.dll.json": "adb9c70b83e669012def8b3bf04d18f1",
 			"OpenSeries.dll": "eccf8a38608aea8bf376bb94f139ab9e",
 			"OpenSeries.dll.json": "26a758008f0a783dcdae79bc23e7d060",
-			"OpenUtilities.dll": "697c422df725c4e854a589d176c233db",
-			"OpenUtilities.dll.json": "a6e92df4c8417148054a53f8de6b9f95",
+			"OpenUtilities.dll": "bc9025b74e9972c7418d6aa116e871f2",
+			"OpenUtilities.dll.json": "ec1f23d86b532d7f45a298a695f23156",
 			"RageAIO.dll": "aaef0b385c8abdfbf7f78d7c39def20b",
 			"RageAIO.dll.json": "2449b7897cff0711c04a6df99bcf9f12",
 			"SebasBGX.dll": "b0871664cd1330fce6fdb231a5fe2fd1",
@@ -112,8 +112,8 @@
 			"entropy-aio.dll.json": "432ef96dd5806c74ac142432a00d63f1",
 			"xDreammsAIO.dll": "0ecc6671626f6fe284eb0ad6020003eb",
 			"xDreammsAIO.dll.json": "878e8bd9558b9b17cf87ddb04c447be7",
-			"xDreammsUtility.dll": "cd3a660621cb98f11cd19e15314bc3ba",
-			"xDreammsUtility.dll.json": "12a59b519476af51bd62e9a3319da975"
+			"xDreammsUtility.dll": "1f752132f377f1019d3db98f50816a00",
+			"xDreammsUtility.dll.json": "f916a2c4437795c375e1f0d5e7399a2f"
 		}
 	},
 	"resources": {
