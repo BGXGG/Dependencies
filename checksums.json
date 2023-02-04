@@ -67,8 +67,8 @@
 			"MidlaneCarry.dll.json": "7e7ed86841fd9a3e1db5ed6ffe30372a",
 			"OHAIO.dll": "3456e18563dcdc76deea38ff0e8c405e",
 			"OHAIO.dll.json": "adb9c70b83e669012def8b3bf04d18f1",
-			"OpenSeries.dll": "eccf8a38608aea8bf376bb94f139ab9e",
-			"OpenSeries.dll.json": "26a758008f0a783dcdae79bc23e7d060",
+			"OpenSeries.dll": "cd9f0835d21aa4d9b1826344caaec3d7",
+			"OpenSeries.dll.json": "851e5aebd8b17f95057e30f395ba51e1",
 			"OpenUtilities.dll": "974b276861b5d3c9290f6ec62adc5b02",
 			"OpenUtilities.dll.json": "b9c188214ecd0be2eaa5855546e7dce7",
 			"RageAIO.dll": "aaef0b385c8abdfbf7f78d7c39def20b",
@@ -79,8 +79,8 @@
 			"SebasPrediction.dll.json": "aabaf974f4da635cf1de47f7a237e915",
 			"ShadowAIO.dll": "cba59e86a3068294aedc87e8229a613e",
 			"ShadowAIO.dll.json": "ca4df5ef0b83e997ec66755ca66dd4c1",
-			"SkinwalkerAIO.dll": "8c4a83da019b7a875ea14947eb60ee60",
-			"SkinwalkerAIO.dll.json": "452471d9c852ade55d407041cd4b059d",
+			"SkinwalkerAIO.dll": "26afcbda9c4c8e0c99d67126a3c6bff9",
+			"SkinwalkerAIO.dll.json": "e59f5600a8e0edf9025184f21aa154a7",
 			"SmartPings.dll": "3e3049beef11371eca71009141842740",
 			"SmartPings.dll.json": "3309c90d9812bb93ae536b14c3706c32",
 			"TaiwanAIO.dll": "1be882edd82663398dfefe4a2330d3a0",
@@ -112,8 +112,8 @@
 			"entropy-aio.dll.json": "432ef96dd5806c74ac142432a00d63f1",
 			"xDreammsAIO.dll": "0ecc6671626f6fe284eb0ad6020003eb",
 			"xDreammsAIO.dll.json": "878e8bd9558b9b17cf87ddb04c447be7",
-			"xDreammsUtility.dll": "c1d631e10506fb8a6b7245484282a785",
-			"xDreammsUtility.dll.json": "2acc9a0f16aebae59da89c720140888c"
+			"xDreammsUtility.dll": "18e66b41e6249b357d9ce3d29e8e7fcb",
+			"xDreammsUtility.dll.json": "3c561b1aea0aef2fd061096db2f9ec71"
 		}
 	},
 	"resources": {
