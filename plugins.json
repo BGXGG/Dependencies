@@ -466,6 +466,16 @@
 		"updateTime": 1675452571
 	},
 	{
+		"fileName": "PekoAIO.dll",
+		"name": "PekoAIO",
+		"plugin_type": 1,
+		"supported": [
+			3,
+			34
+		],
+		"updateTime": 1676484791
+	},
+	{
 		"fileName": "RageAIO.dll",
 		"name": "RageAIO",
 		"supported": [
@@ -619,7 +629,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1676476821,
+		"updateTime": 1676485822,
 		"supported": [
 			17,
 			32,
@@ -633,7 +643,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1676476821,
+		"updateTime": 1676485822,
 		"plugin_type": 0
 	},
 	{
@@ -672,7 +682,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1676476821,
+		"updateTime": 1676485822,
 		"supported": [
 			30,
 			11,
