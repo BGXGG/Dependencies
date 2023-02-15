@@ -255,7 +255,7 @@
 			15,
 			110
 		],
-		"updateTime": 1676320266
+		"updateTime": 1676419809
 	},
 	{
 		"fileName": "KiriRecallKill.dll",
@@ -313,7 +313,7 @@
 			41,
 			2466
 		],
-		"updateTime": 1676290221
+		"updateTime": 1676419657
 	},
 	{
 		"fileName": "KleeUtility.dll",
@@ -542,13 +542,16 @@
 			143,
 			157
 		],
-		"updateTime": 1676319122
+		"updateTime": 1676419857
 	},
 	{
 		"fileName": "SkinwalkerAIO.dll",
 		"name": "SkinwalkerAIO",
 		"plugin_type": 1,
 		"supported": [
+			112,
+			18,
+			54,
 			119,
 			777,
 			99,
@@ -561,7 +564,7 @@
 			44,
 			120
 		],
-		"updateTime": 1676234453
+		"updateTime": 1676419279
 	},
 	{
 		"fileName": "SmartPings.dll",
@@ -616,7 +619,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1676412020,
+		"updateTime": 1676421025,
 		"supported": [
 			17,
 			32,
@@ -630,7 +633,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1676412020,
+		"updateTime": 1676421025,
 		"plugin_type": 0
 	},
 	{
@@ -669,7 +672,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1676412020,
+		"updateTime": 1676421025,
 		"supported": [
 			30,
 			11,
