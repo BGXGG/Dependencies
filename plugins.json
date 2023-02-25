@@ -95,7 +95,7 @@
 		"fileName": "BGXEvade.dll",
 		"name": "Evade",
 		"plugin_type": 0,
-		"updateTime": 1676039275
+		"updateTime": 1677362621
 	},
 	{
 		"fileName": "BanthorsAIO.dll",
@@ -614,7 +614,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1677358824,
+		"updateTime": 1677363701,
 		"supported": [
 			17,
 			32,
@@ -628,7 +628,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1677358824,
+		"updateTime": 1677363701,
 		"plugin_type": 0
 	},
 	{
@@ -667,7 +667,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1677358824,
+		"updateTime": 1677363701,
 		"supported": [
 			30,
 			11,

@@ -1,7 +1,7 @@
 {
 	"core": {
 		"x86": {
-			"core_plugin.dll": "8836e6045fc419da84bf0bf2281277c2"
+			"core_plugin.dll": "549caaf5bb7a4ae19bc44ea95ad5a1f2"
 		}
 	},
 	"lib": {
@@ -17,8 +17,8 @@
 			"AuroraPrediction.dll.json": "80e8f6feab6776abda9cf21a46d1b154",
 			"BGX.dll": "b2012d1bc7dadbf542eb268f94b53f53",
 			"BGX.dll.json": "2d26078c28ee54ea03b53dafde13adb0",
-			"BGXEvade.dll": "f47f609daa2ef934847fb9c6525d9717",
-			"BGXEvade.dll.json": "850b9d3ecbca3f1a867493c39ea29139",
+			"BGXEvade.dll": "047e27bc025b8095c9fc20a33c296b3e",
+			"BGXEvade.dll.json": "6d6ac89813a5a10c6b5bf9dbcbff9c46",
 			"BanthorsAIO.dll": "37d8dd4282923fb2e9d7b044ff4f8a56",
 			"BanthorsAIO.dll.json": "947ded7f07ed340e446c0a256501fc0c",
 			"BenAIO.dll": "2083638d94a65e883571150bc5f6ddeb",
