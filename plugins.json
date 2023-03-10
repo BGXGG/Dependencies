@@ -256,7 +256,7 @@
 			15,
 			110
 		],
-		"updateTime": 1678402057
+		"updateTime": 1678471556
 	},
 	{
 		"fileName": "KissMyAIO.dll",
@@ -541,6 +541,7 @@
 		"plugin_type": 1,
 		"supported": [
 			96,
+			107,
 			106,
 			37,
 			7,
@@ -562,7 +563,7 @@
 			44,
 			120
 		],
-		"updateTime": 1678218638
+		"updateTime": 1678471526
 	},
 	{
 		"fileName": "SmartPings.dll",
@@ -617,7 +618,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1678402823,
+		"updateTime": 1678473023,
 		"supported": [
 			17,
 			32,
@@ -631,7 +632,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1678402823,
+		"updateTime": 1678473023,
 		"plugin_type": 0
 	},
 	{
@@ -670,7 +671,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1678402823,
+		"updateTime": 1678473023,
 		"supported": [
 			30,
 			11,
