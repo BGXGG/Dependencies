@@ -431,19 +431,19 @@
 	},
 	{
 		"fileName": "OpenSeries.dll",
-		"name": "OpenSeries",
+		"name": "[AURORA] OpenSeries",
 		"plugin_type": 1,
 		"supported": [
 			63,
 			101
 		],
-		"updateTime": 1678562164
+		"updateTime": 1678658130
 	},
 	{
 		"fileName": "OpenUtilities.dll",
-		"name": "OpenUtilities",
+		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1678562173
+		"updateTime": 1678658106
 	},
 	{
 		"fileName": "PekoAIO.dll",
@@ -618,7 +618,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1678573820,
+		"updateTime": 1678658423,
 		"supported": [
 			17,
 			32,
@@ -632,7 +632,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1678573820,
+		"updateTime": 1678658423,
 		"plugin_type": 0
 	},
 	{
@@ -671,7 +671,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1678573820,
+		"updateTime": 1678658423,
 		"supported": [
 			30,
 			11,
