@@ -28,6 +28,15 @@
 		"updateTime": 1667586586
 	},
 	{
+		"fileName": "AURORAAiO.dll",
+		"name": "[AURORA] Ezreal",
+		"plugin_type": 1,
+		"supported": [
+			81
+		],
+		"updateTime": 1678660733
+	},
+	{
 		"fileName": "AuroraPrediction.dll",
 		"name": "AuroraPrediction",
 		"plugin_type": 3,
@@ -619,7 +628,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1678660231,
+		"updateTime": 1678662017,
 		"supported": [
 			17,
 			32,
@@ -633,7 +642,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1678660231,
+		"updateTime": 1678662017,
 		"plugin_type": 0
 	},
 	{
@@ -672,7 +681,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1678660231,
+		"updateTime": 1678662017,
 		"supported": [
 			30,
 			11,
