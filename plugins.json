@@ -33,9 +33,10 @@
 		"plugin_type": 1,
 		"supported": [
 			81,
-			61
+			61,
+			221
 		],
-		"updateTime": 1678880347
+		"updateTime": 1679162470
 	},
 	{
 		"fileName": "AuroraPrediction.dll",
@@ -157,7 +158,7 @@
 		"fileName": "BlackOutActivator.dll",
 		"name": "[@BlackOut Activator ~]#",
 		"plugin_type": 0,
-		"updateTime": 1677597426
+		"updateTime": 1679162813
 	},
 	{
 		"fileName": "BlahajAIO.dll",
@@ -196,7 +197,7 @@
 			517,
 			33
 		],
-		"updateTime": 1678745119
+		"updateTime": 1679163048
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -304,7 +305,7 @@
 			2466,
 			498
 		],
-		"updateTime": 1678830273
+		"updateTime": 1679162964
 	},
 	{
 		"fileName": "KleeUtility.dll",
@@ -341,7 +342,7 @@
 			81,
 			30
 		],
-		"updateTime": 1678745400
+		"updateTime": 1679163259
 	},
 	{
 		"fileName": "L9Utility.dll",
@@ -448,13 +449,13 @@
 			63,
 			101
 		],
-		"updateTime": 1678814237
+		"updateTime": 1679162514
 	},
 	{
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1678658106
+		"updateTime": 1679162471
 	},
 	{
 		"fileName": "PekoAIO.dll",
@@ -502,7 +503,7 @@
 			350,
 			74
 		],
-		"updateTime": 1677867394
+		"updateTime": 1679163197
 	},
 	{
 		"fileName": "SebasPrediction.dll",
@@ -574,7 +575,7 @@
 			44,
 			120
 		],
-		"updateTime": 1678830112
+		"updateTime": 1679162674
 	},
 	{
 		"fileName": "SmartPings.dll",
@@ -629,7 +630,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1679162421,
+		"updateTime": 1679164230,
 		"supported": [
 			17,
 			32,
@@ -643,7 +644,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1679162421,
+		"updateTime": 1679164230,
 		"plugin_type": 0
 	},
 	{
@@ -682,7 +683,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1679162421,
+		"updateTime": 1679164230,
 		"supported": [
 			30,
 			11,
