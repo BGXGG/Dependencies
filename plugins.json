@@ -621,24 +621,9 @@
 		"updateTime": 1674477063
 	},
 	{
-		"fileName": "WafendAIO.dll",
-		"name": "Wafend AIO",
-		"plugin_type": 1,
-		"supported": [
-			14,
-			555,
-			164,
-			114,
-			36,
-			11,
-			101
-		],
-		"updateTime": 1668110070
-	},
-	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1679734138,
+		"updateTime": 1679734151,
 		"supported": [
 			17,
 			32,
@@ -652,7 +637,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1679734138,
+		"updateTime": 1679734151,
 		"plugin_type": 0
 	},
 	{
@@ -691,7 +676,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1679734138,
+		"updateTime": 1679734151,
 		"supported": [
 			30,
 			11,
