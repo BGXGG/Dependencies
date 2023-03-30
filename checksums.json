@@ -15,8 +15,8 @@
 			"ADCSeries.dll.json": "6ebf07ffcd2f185a4bdb5427bb07a117",
 			"AURORAAiO.dll": "d7a5c846a55d44bfb179acf7db24ef2b",
 			"AURORAAiO.dll.json": "b1b650fe570dd8a68f49dcb562bc9002",
-			"AuroraEvade.dll": "6393ed70711a7e1a8088be4d2b3cd3b7",
-			"AuroraEvade.dll.json": "0eed991e07e064c3db651a6703e1c561",
+			"AuroraEvade.dll": "b1003bb837078936abb3590ff655879b",
+			"AuroraEvade.dll.json": "1d9f9238518386244d746301cdbc45ea",
 			"AuroraPrediction.dll": "896bac76073faf97d3b2956c69eb74ac",
 			"AuroraPrediction.dll.json": "9ec1b74858c41b50bb2e81138ec1e22e",
 			"BGX.dll": "9c68e94ae1659f91e6c696df0b033bc0",
@@ -114,8 +114,8 @@
 			"entropy-aio.dll.json": "432ef96dd5806c74ac142432a00d63f1",
 			"xDreammsAIO.dll": "32f20a643bba9cac06145a2ea18b09de",
 			"xDreammsAIO.dll.json": "ff572fce2530b0e8fc6b4afc8b2a740e",
-			"xDreammsUtility.dll": "d5a46537fdd53387de1c003c4ea2c303",
-			"xDreammsUtility.dll.json": "0f5a8b32ddaa7d1717ace4a3dc8375f7"
+			"xDreammsUtility.dll": "3fdae93b153438277a70306913c6d0dd",
+			"xDreammsUtility.dll.json": "33ef53ef987166d3c6420f318b679112"
 		}
 	},
 	"resources": {
