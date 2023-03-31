@@ -1,57 +1,5 @@
 [
 	{
-		"fileName": "1v9-AIO.dll",
-		"name": "1v9 AIO",
-		"supported": [
-			51,
-			222,
-			145,
-			96,
-			360,
-			91,
-			18,
-			29,
-			67,
-			101
-		],
-		"updateTime": 1667585315
-	},
-	{
-		"fileName": "ADCSeries.dll",
-		"name": "ADC Series",
-		"supported": [
-			81,
-			236,
-			429,
-			41
-		],
-		"updateTime": 1667586586
-	},
-	{
-		"fileName": "AURORAAiO.dll",
-		"name": "[AURORA] AIO",
-		"plugin_type": 1,
-		"supported": [
-			81,
-			61,
-			221,
-			350
-		],
-		"updateTime": 1679946094
-	},
-	{
-		"fileName": "AuroraEvade.dll",
-		"name": "[AURORA] Evade",
-		"plugin_type": 0,
-		"updateTime": 1680214221
-	},
-	{
-		"fileName": "AuroraPrediction.dll",
-		"name": "[AURORA] Prediction",
-		"plugin_type": 3,
-		"updateTime": 1679946133
-	},
-	{
 		"fileName": "BGX.dll",
 		"name": "Champions AIO",
 		"plugin_type": 1,
@@ -107,13 +55,210 @@
 			126,
 			60
 		],
-		"updateTime": 1679948402
+		"updateTime": 1680281259
 	},
 	{
 		"fileName": "BGXEvade.dll",
 		"name": "Evade",
 		"plugin_type": 0,
-		"updateTime": 1679593110
+		"updateTime": 1680281254
+	},
+	{
+		"fileName": "LeaguesharpAIO.dll",
+		"name": "LeagueSharp AIO",
+		"plugin_type": 1,
+		"supported": [
+			157,
+			114,
+			39,
+			64,
+			777,
+			121,
+			147,
+			143,
+			14,
+			40,
+			117,
+			16,
+			43,
+			25,
+			26,
+			267,
+			37,
+			44,
+			497,
+			201,
+			12,
+			89,
+			111,
+			432,
+			526
+		],
+		"updateTime": 1680281259
+	},
+	{
+		"fileName": "Marksman.dll",
+		"name": "Marksman",
+		"plugin_type": 1,
+		"supported": [
+			22,
+			51,
+			42,
+			119,
+			81,
+			202,
+			222,
+			145,
+			429,
+			96,
+			236,
+			21,
+			133,
+			15,
+			18,
+			29,
+			110,
+			67,
+			498,
+			360,
+			221
+		],
+		"updateTime": 1680281255
+	},
+	{
+		"fileName": "MidlaneCarry.dll",
+		"name": "Midlane Carry",
+		"plugin_type": 1,
+		"supported": [
+			13,
+			69,
+			61,
+			134,
+			1,
+			268
+		],
+		"updateTime": 1680281250
+	},
+	{
+		"fileName": "Utility.dll",
+		"name": "EUtility",
+		"plugin_type": 0,
+		"updateTime": 1680281257
+	},
+	{
+		"fileName": "YuumiBot.dll",
+		"name": "Yummi BOT",
+		"plugin_type": 1,
+		"supported": [
+			350
+		],
+		"updateTime": 1680281249
+	},
+	{
+		"fileName": "ZiraPack.dll",
+		"name": "Zira Pack",
+		"plugin_type": 1,
+		"supported": [
+			245,
+			38,
+			7,
+			86,
+			9,
+			106,
+			83,
+			59,
+			54,
+			2,
+			10,
+			122,
+			31,
+			36,
+			62,
+			887,
+			517,
+			150,
+			82,
+			240,
+			68,
+			58,
+			80,
+			117,
+			555,
+			56,
+			5,
+			115,
+			166,
+			75,
+			34,
+			72,
+			77
+		],
+		"updateTime": 1680281260
+	},
+	{
+		"fileName": "entropy-aio.dll",
+		"name": "Entropy AIO",
+		"plugin_type": 1,
+		"supported": [
+			266,
+			12,
+			55,
+			41,
+			6
+		],
+		"updateTime": 1680281261
+	},
+	{
+		"fileName": "1v9-AIO.dll",
+		"name": "1v9 AIO",
+		"supported": [
+			51,
+			222,
+			145,
+			96,
+			360,
+			91,
+			18,
+			29,
+			67,
+			101
+		],
+		"updateTime": 1667585315
+	},
+	{
+		"fileName": "ADCSeries.dll",
+		"name": "ADC Series",
+		"supported": [
+			81,
+			236,
+			429,
+			41
+		],
+		"updateTime": 1667586586
+	},
+	{
+		"fileName": "AURORAAiO.dll",
+		"name": "[AURORA] AIO",
+		"plugin_type": 1,
+		"supported": [
+			81,
+			61,
+			221,
+			350
+		],
+		"updateTime": 1679946094
+	},
+	{
+		"fileName": "AuroraEvade.dll",
+		"name": "[AURORA] Evade",
+		"plugin_type": 0,
+		"updateTime": 1680214221
+	},
+	{
+		"fileName": "AuroraPrediction.dll",
+		"name": "[AURORA] Prediction",
+		"plugin_type": 3,
+		"updateTime": 1679946133
 	},
 	{
 		"fileName": "BanthorsAIO.dll",
@@ -361,86 +506,10 @@
 		"updateTime": 1676763273
 	},
 	{
-		"fileName": "LeaguesharpAIO.dll",
-		"name": "LeagueSharp AIO",
-		"plugin_type": 1,
-		"supported": [
-			157,
-			114,
-			39,
-			64,
-			777,
-			121,
-			147,
-			143,
-			14,
-			40,
-			117,
-			16,
-			43,
-			25,
-			26,
-			267,
-			37,
-			44,
-			497,
-			201,
-			12,
-			89,
-			111,
-			432,
-			526
-		],
-		"updateTime": 1674477063
-	},
-	{
 		"fileName": "LordsPred.dll",
 		"name": "LordsPred",
 		"plugin_type": 3,
 		"updateTime": 1667586442
-	},
-	{
-		"fileName": "Marksman.dll",
-		"name": "Marksman",
-		"plugin_type": 1,
-		"supported": [
-			22,
-			51,
-			42,
-			119,
-			81,
-			202,
-			222,
-			145,
-			429,
-			96,
-			236,
-			21,
-			133,
-			15,
-			18,
-			29,
-			110,
-			67,
-			498,
-			360,
-			221
-		],
-		"updateTime": 1678284257
-	},
-	{
-		"fileName": "MidlaneCarry.dll",
-		"name": "Midlane Carry",
-		"plugin_type": 1,
-		"supported": [
-			13,
-			69,
-			61,
-			134,
-			1,
-			268
-		],
-		"updateTime": 1674477054
 	},
 	{
 		"fileName": "OHAIO.dll",
@@ -617,15 +686,9 @@
 		"updateTime": 1667586602
 	},
 	{
-		"fileName": "Utility.dll",
-		"name": "EUtility",
-		"plugin_type": 0,
-		"updateTime": 1674477063
-	},
-	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1680280222,
+		"updateTime": 1680281723,
 		"supported": [
 			17,
 			32,
@@ -639,7 +702,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1680280222,
+		"updateTime": 1680281723,
 		"plugin_type": 0
 	},
 	{
@@ -649,15 +712,6 @@
 			45
 		],
 		"updateTime": 1667585896
-	},
-	{
-		"fileName": "YuumiBot.dll",
-		"name": "Yummi BOT",
-		"plugin_type": 1,
-		"supported": [
-			350
-		],
-		"updateTime": 1674477066
 	},
 	{
 		"fileName": "ZEDithAIO.dll",
@@ -678,7 +732,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1680280222,
+		"updateTime": 1680281723,
 		"supported": [
 			30,
 			11,
@@ -687,47 +741,6 @@
 			117
 		],
 		"plugin_type": 1
-	},
-	{
-		"fileName": "ZiraPack.dll",
-		"name": "Zira Pack",
-		"plugin_type": 1,
-		"supported": [
-			245,
-			38,
-			7,
-			86,
-			9,
-			106,
-			83,
-			59,
-			54,
-			2,
-			10,
-			122,
-			31,
-			36,
-			62,
-			887,
-			517,
-			150,
-			82,
-			240,
-			68,
-			58,
-			80,
-			117,
-			555,
-			56,
-			5,
-			115,
-			166,
-			75,
-			34,
-			72,
-			77
-		],
-		"updateTime": 1674477062
 	},
 	{
 		"fileName": "ZzihaoAIO.dll",
@@ -748,19 +761,6 @@
 			221
 		],
 		"updateTime": 1667585754
-	},
-	{
-		"fileName": "entropy-aio.dll",
-		"name": "Entropy AIO",
-		"plugin_type": 1,
-		"supported": [
-			266,
-			12,
-			55,
-			41,
-			6
-		],
-		"updateTime": 1674477069
 	},
 	{
 		"fileName": "xDreammsAIO.dll",

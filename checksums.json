@@ -1,5 +1,8 @@
 {
 	"core": {
+		"x64": {
+			"core_plugin.dll": "1298be3607d36f2bd93bb72d3d71a1ef"
+		},
 		"x86": {
 			"core_plugin.dll": "6386e6645349d5761014a0c0a1158f0a"
 		}
@@ -8,6 +11,26 @@
 		"GameInjector.exe": "847c6b7d8d5ce664f386bf18c14aab40"
 	},
 	"plugins": {
+		"x64": {
+			"BGX.dll": "57d57ee47d47db6854500ac223267d12",
+			"BGX.dll.json": "6ffb63d59adb2c46d09cddbcbe3378ad",
+			"BGXEvade.dll": "0912ee1721733612db84ee08b5be6b2c",
+			"BGXEvade.dll.json": "08d9508cc94a7f53d199fec3e5836aa2",
+			"LeaguesharpAIO.dll": "59a487a946b94681b18672c12ea4aea0",
+			"LeaguesharpAIO.dll.json": "c248beb2db4c7d5730b492d21890d460",
+			"Marksman.dll": "c9ef77355defb7b1e6d6b5f45efe6b6e",
+			"Marksman.dll.json": "4e17502d1789a57de2e8a34352bb9bd7",
+			"MidlaneCarry.dll": "a50386e91f765b60430205fd35e0de35",
+			"MidlaneCarry.dll.json": "830df518e7dece38f4d656c11e1a814e",
+			"Utility.dll": "eb8fa6e07ee3bcb86b720e2e7e9dc7f8",
+			"Utility.dll.json": "24de9b7ec89d1a1e4f4f6842ac8ec821",
+			"YuumiBot.dll": "962e5d3ffae44c31bce96e707a7dfb94",
+			"YuumiBot.dll.json": "075f40f123c4ec0bd33a0685e1303979",
+			"ZiraPack.dll": "90dbb0367c5ddc0e7efcf08b5e914da1",
+			"ZiraPack.dll.json": "7acf96faefedc5d8a4bb6c592d2e1c98",
+			"entropy-aio.dll": "cf1f4d46427806a9873d801cb19afc51",
+			"entropy-aio.dll.json": "4faebed7023a37f61759ff23afc5377f"
+		},
 		"x86": {
 			"1v9-AIO.dll": "9253bbd0a62e707163708fc4c2e2680d",
 			"1v9-AIO.dll.json": "a6ef998c7d758974babbacb205da89d4",
