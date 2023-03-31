@@ -1,5 +1,46 @@
 [
 	{
+		"fileName": "1v9-AIO.dll",
+		"name": "1v9 AIO",
+		"supported": [
+			51,
+			222,
+			145,
+			96,
+			360,
+			91,
+			18,
+			29,
+			67,
+			101
+		],
+		"updateTime": 1680281866
+	},
+	{
+		"fileName": "AURORAAiO.dll",
+		"name": "[AURORA] AIO",
+		"plugin_type": 1,
+		"supported": [
+			81,
+			61,
+			221,
+			350
+		],
+		"updateTime": 1680284004
+	},
+	{
+		"fileName": "AuroraEvade.dll",
+		"name": "[AURORA] Evade",
+		"plugin_type": 0,
+		"updateTime": 1680284440
+	},
+	{
+		"fileName": "AuroraPrediction.dll",
+		"name": "[AURORA] Prediction",
+		"plugin_type": 3,
+		"updateTime": 1680283784
+	},
+	{
 		"fileName": "BGX.dll",
 		"name": "Champions AIO",
 		"plugin_type": 1,
@@ -64,6 +105,204 @@
 		"updateTime": 1680281254
 	},
 	{
+		"fileName": "BanthorsAIO.dll",
+		"name": "BanthorsAIO",
+		"supported": [
+			10,
+			203,
+			876,
+			221
+		],
+		"updateTime": 1680282226
+	},
+	{
+		"fileName": "BenAIO.dll",
+		"name": "BenAIO",
+		"supported": [
+			246,
+			110,
+			42
+		],
+		"updateTime": 1680282345
+	},
+	{
+		"fileName": "BlackOutActivator.dll",
+		"name": "[@BlackOut Activator ~]#",
+		"plugin_type": 0,
+		"updateTime": 1680283063
+	},
+	{
+		"fileName": "CSXAIO.dll",
+		"name": "CSXAIO",
+		"plugin_type": 1,
+		"supported": [
+			420,
+			113,
+			102,
+			57,
+			20,
+			203,
+			77,
+			56,
+			25,
+			76,
+			84,
+			117,
+			22,
+			133,
+			10,
+			91,
+			154,
+			119,
+			517,
+			902,
+			33
+		],
+		"updateTime": 1680282951
+	},
+	{
+		"fileName": "DivineSeries.dll",
+		"name": "DivineSeries",
+		"supported": [
+			39
+		],
+		"updateTime": 1680282307
+	},
+	{
+		"fileName": "Excalibur.dll",
+		"name": "Excalibur",
+		"supported": [
+			110,
+			96
+		],
+		"updateTime": 1680283730
+	},
+	{
+		"fileName": "HabibiAIO.dll",
+		"name": "HabibiAIO",
+		"supported": [
+			131
+		],
+		"updateTime": 1680283081
+	},
+	{
+		"fileName": "IcarusAIO.dll",
+		"name": "IcarusAIO",
+		"supported": [
+			157
+		],
+		"updateTime": 1680283841
+	},
+	{
+		"fileName": "ImpulsePrediction.dll",
+		"name": "Impulse Prediction",
+		"plugin_type": 3,
+		"updateTime": 1680283973
+	},
+	{
+		"fileName": "KiriAIO.dll",
+		"name": "Kiri AIO",
+		"plugin_type": 1,
+		"supported": [
+			67,
+			142,
+			222,
+			39,
+			360,
+			63,
+			122,
+			29,
+			51,
+			61,
+			221,
+			69,
+			15,
+			110
+		],
+		"updateTime": 1680282839
+	},
+	{
+		"fileName": "KissMyAIO.dll",
+		"name": "KissMyAIO",
+		"plugin_type": 1,
+		"supported": [
+			35,
+			127,
+			80
+		],
+		"updateTime": 1680283242
+	},
+	{
+		"fileName": "KleeAIO.dll",
+		"name": "Klee",
+		"plugin_type": 1,
+		"supported": [
+			2,
+			120,
+			82,
+			518,
+			266,
+			18,
+			112,
+			875,
+			145,
+			523,
+			64,
+			429,
+			134,
+			236,
+			41,
+			235,
+			2466,
+			498,
+			350
+		],
+		"updateTime": 1680283514
+	},
+	{
+		"fileName": "KleeUtility.dll",
+		"name": "Klee Utility",
+		"plugin_type": 0,
+		"updateTime": 1680283823
+	},
+	{
+		"fileName": "L9AIO.dll",
+		"name": "L9 AIO",
+		"plugin_type": 1,
+		"supported": [
+			235,
+			32,
+			54,
+			223,
+			141,
+			38,
+			777,
+			166,
+			7,
+			126,
+			2,
+			99,
+			50,
+			19,
+			523,
+			202,
+			888,
+			42,
+			875,
+			58,
+			145,
+			81,
+			30
+		],
+		"updateTime": 1680282593
+	},
+	{
+		"fileName": "L9Utility.dll",
+		"name": "L9 Utility",
+		"plugin_type": 0,
+		"updateTime": 1680282621
+	},
+	{
 		"fileName": "LeaguesharpAIO.dll",
 		"name": "LeagueSharp AIO",
 		"plugin_type": 1,
@@ -95,6 +334,12 @@
 			526
 		],
 		"updateTime": 1680281259
+	},
+	{
+		"fileName": "LordsPred.dll",
+		"name": "LordsPred",
+		"plugin_type": 3,
+		"updateTime": 1680282981
 	},
 	{
 		"fileName": "Marksman.dll",
@@ -140,10 +385,174 @@
 		"updateTime": 1680281250
 	},
 	{
+		"fileName": "OHAIO.dll",
+		"name": "OHAIO",
+		"plugin_type": 1,
+		"supported": [
+			246
+		],
+		"updateTime": 1680283865
+	},
+	{
+		"fileName": "OpenSeries.dll",
+		"name": "[AURORA] OpenSeries",
+		"plugin_type": 1,
+		"supported": [
+			63,
+			101
+		],
+		"updateTime": 1680283679
+	},
+	{
+		"fileName": "OpenUtilities.dll",
+		"name": "[AURORA] OpenUtilities",
+		"plugin_type": 0,
+		"updateTime": 1680283696
+	},
+	{
+		"fileName": "RageAIO.dll",
+		"name": "RageAIO",
+		"supported": [
+			888,
+			421,
+			154
+		],
+		"updateTime": 1680282381
+	},
+	{
+		"fileName": "SebasBGX.dll",
+		"name": "SebasBGX",
+		"supported": [
+			98,
+			120,
+			79,
+			234,
+			131,
+			246,
+			141,
+			523,
+			92,
+			221,
+			238,
+			163,
+			8,
+			55,
+			157,
+			516,
+			150,
+			12,
+			119,
+			350,
+			74
+		],
+		"updateTime": 1680282178
+	},
+	{
+		"fileName": "SebasPrediction.dll",
+		"name": "SebasPrediction",
+		"updateTime": 1680282395
+	},
+	{
+		"fileName": "ShadowAIO.dll",
+		"name": "ShadowAIO",
+		"plugin_type": 1,
+		"supported": [
+			23,
+			203,
+			48,
+			24,
+			10,
+			711,
+			11,
+			31,
+			29,
+			429,
+			90,
+			21,
+			17,
+			887,
+			427,
+			107,
+			119,
+			200,
+			234,
+			412,
+			75,
+			163,
+			81,
+			50,
+			16,
+			102,
+			13,
+			143,
+			157
+		],
+		"updateTime": 1680282091
+	},
+	{
+		"fileName": "SkinwalkerAIO.dll",
+		"name": "SkinwalkerAIO",
+		"plugin_type": 1,
+		"supported": [
+			96,
+			107,
+			106,
+			37,
+			7,
+			141,
+			13,
+			59,
+			112,
+			18,
+			54,
+			119,
+			777,
+			99,
+			32,
+			1,
+			43,
+			26,
+			111,
+			53,
+			44,
+			120
+		],
+		"updateTime": 1680283654
+	},
+	{
+		"fileName": "SmartPings.dll",
+		"name": "AJK - KoreanPings",
+		"updateTime": 1680282424
+	},
+	{
+		"fileName": "TaiwanAIO.dll",
+		"name": "Taiwan AIO",
+		"supported": [
+			55
+		],
+		"updateTime": 1680282362
+	},
+	{
+		"fileName": "TrueDamageAIO.dll",
+		"name": "TrueDamage AIO",
+		"supported": [
+			32
+		],
+		"updateTime": 1680283022
+	},
+	{
 		"fileName": "Utility.dll",
 		"name": "EUtility",
 		"plugin_type": 0,
 		"updateTime": 1680281257
+	},
+	{
+		"fileName": "YordleAIO.dll",
+		"name": "Yordle AIO",
+		"supported": [
+			45
+		],
+		"updateTime": 1680282410
 	},
 	{
 		"fileName": "YuumiBot.dll",
@@ -196,553 +605,6 @@
 		"updateTime": 1680281260
 	},
 	{
-		"fileName": "entropy-aio.dll",
-		"name": "Entropy AIO",
-		"plugin_type": 1,
-		"supported": [
-			266,
-			12,
-			55,
-			41,
-			6
-		],
-		"updateTime": 1680281261
-	},
-	{
-		"fileName": "1v9-AIO.dll",
-		"name": "1v9 AIO",
-		"supported": [
-			51,
-			222,
-			145,
-			96,
-			360,
-			91,
-			18,
-			29,
-			67,
-			101
-		],
-		"updateTime": 1667585315
-	},
-	{
-		"fileName": "ADCSeries.dll",
-		"name": "ADC Series",
-		"supported": [
-			81,
-			236,
-			429,
-			41
-		],
-		"updateTime": 1667586586
-	},
-	{
-		"fileName": "AURORAAiO.dll",
-		"name": "[AURORA] AIO",
-		"plugin_type": 1,
-		"supported": [
-			81,
-			61,
-			221,
-			350
-		],
-		"updateTime": 1679946094
-	},
-	{
-		"fileName": "AuroraEvade.dll",
-		"name": "[AURORA] Evade",
-		"plugin_type": 0,
-		"updateTime": 1680214221
-	},
-	{
-		"fileName": "AuroraPrediction.dll",
-		"name": "[AURORA] Prediction",
-		"plugin_type": 3,
-		"updateTime": 1679946133
-	},
-	{
-		"fileName": "BanthorsAIO.dll",
-		"name": "BanthorsAIO",
-		"supported": [
-			10,
-			203,
-			876,
-			221
-		],
-		"updateTime": 1667585690
-	},
-	{
-		"fileName": "BenAIO.dll",
-		"name": "BenAIO",
-		"supported": [
-			246,
-			110,
-			42
-		],
-		"updateTime": 1667585830
-	},
-	{
-		"fileName": "BlackOutAIO.dll",
-		"name": "BlackOutAIO",
-		"plugin_type": 1,
-		"supported": [
-			78,
-			254,
-			103,
-			200,
-			53,
-			134,
-			895,
-			518,
-			82,
-			8,
-			55,
-			96,
-			897,
-			711,
-			876,
-			21,
-			131,
-			36
-		],
-		"updateTime": 1680242352
-	},
-	{
-		"fileName": "BlackOutActivator.dll",
-		"name": "[@BlackOut Activator ~]#",
-		"plugin_type": 0,
-		"updateTime": 1679162813
-	},
-	{
-		"fileName": "BlahajAIO.dll",
-		"name": "BlahajAIO",
-		"plugin_type": 1,
-		"supported": [
-			45,
-			412,
-			267
-		],
-		"updateTime": 1673774650
-	},
-	{
-		"fileName": "CSXAIO.dll",
-		"name": "CSXAIO",
-		"plugin_type": 1,
-		"supported": [
-			420,
-			113,
-			102,
-			57,
-			20,
-			203,
-			77,
-			56,
-			25,
-			76,
-			84,
-			117,
-			22,
-			133,
-			10,
-			91,
-			154,
-			119,
-			517,
-			902,
-			33
-		],
-		"updateTime": 1680213874
-	},
-	{
-		"fileName": "DivineSeries.dll",
-		"name": "DivineSeries",
-		"supported": [
-			39
-		],
-		"updateTime": 1667585769
-	},
-	{
-		"fileName": "Excalibur.dll",
-		"name": "Excalibur",
-		"supported": [
-			110,
-			96
-		],
-		"updateTime": 1670497694
-	},
-	{
-		"fileName": "ExodiaAIO.dll",
-		"name": "Exodia AIO",
-		"plugin_type": 1,
-		"supported": [
-			21,
-			876
-		],
-		"updateTime": 1672217382
-	},
-	{
-		"fileName": "HabibiAIO.dll",
-		"name": "HabibiAIO",
-		"supported": [
-			131
-		],
-		"updateTime": 1667586660
-	},
-	{
-		"fileName": "IcarusAIO.dll",
-		"name": "IcarusAIO",
-		"supported": [
-			157
-		],
-		"updateTime": 1671618538
-	},
-	{
-		"fileName": "ImpulsePrediction.dll",
-		"name": "Impulse Prediction",
-		"plugin_type": 3,
-		"updateTime": 1677597163
-	},
-	{
-		"fileName": "KiriAIO.dll",
-		"name": "Kiri AIO",
-		"plugin_type": 1,
-		"supported": [
-			67,
-			142,
-			222,
-			39,
-			360,
-			63,
-			122,
-			29,
-			51,
-			61,
-			221,
-			69,
-			15,
-			110
-		],
-		"updateTime": 1680279727
-	},
-	{
-		"fileName": "KissMyAIO.dll",
-		"name": "KissMyAIO",
-		"plugin_type": 1,
-		"supported": [
-			35,
-			127,
-			80
-		],
-		"updateTime": 1668335859
-	},
-	{
-		"fileName": "KleeAIO.dll",
-		"name": "Klee",
-		"plugin_type": 1,
-		"supported": [
-			2,
-			120,
-			82,
-			518,
-			266,
-			18,
-			112,
-			875,
-			145,
-			523,
-			64,
-			429,
-			134,
-			236,
-			41,
-			235,
-			2466,
-			498,
-			350
-		],
-		"updateTime": 1680193459
-	},
-	{
-		"fileName": "KleeUtility.dll",
-		"name": "Klee Utility",
-		"plugin_type": 0,
-		"updateTime": 1680128239
-	},
-	{
-		"fileName": "L9AIO.dll",
-		"name": "L9 AIO",
-		"plugin_type": 1,
-		"supported": [
-			235,
-			32,
-			54,
-			223,
-			141,
-			38,
-			777,
-			166,
-			7,
-			126,
-			2,
-			99,
-			50,
-			19,
-			523,
-			202,
-			888,
-			42,
-			875,
-			58,
-			145,
-			81,
-			30
-		],
-		"updateTime": 1680128667
-	},
-	{
-		"fileName": "L9Utility.dll",
-		"name": "L9 Utility",
-		"plugin_type": 0,
-		"updateTime": 1676763273
-	},
-	{
-		"fileName": "LordsPred.dll",
-		"name": "LordsPred",
-		"plugin_type": 3,
-		"updateTime": 1667586442
-	},
-	{
-		"fileName": "OHAIO.dll",
-		"name": "OHAIO",
-		"plugin_type": 1,
-		"supported": [
-			246
-		],
-		"updateTime": 1674143663
-	},
-	{
-		"fileName": "OpenSeries.dll",
-		"name": "[AURORA] OpenSeries",
-		"plugin_type": 1,
-		"supported": [
-			63,
-			101
-		],
-		"updateTime": 1680164453
-	},
-	{
-		"fileName": "OpenUtilities.dll",
-		"name": "[AURORA] OpenUtilities",
-		"plugin_type": 0,
-		"updateTime": 1680182287
-	},
-	{
-		"fileName": "PekoAIO.dll",
-		"name": "PekoAIO",
-		"plugin_type": 1,
-		"supported": [
-			3,
-			34
-		],
-		"updateTime": 1676484791
-	},
-	{
-		"fileName": "RageAIO.dll",
-		"name": "RageAIO",
-		"supported": [
-			888,
-			421,
-			154
-		],
-		"updateTime": 1667585866
-	},
-	{
-		"fileName": "SebasBGX.dll",
-		"name": "SebasBGX",
-		"supported": [
-			98,
-			120,
-			79,
-			234,
-			131,
-			246,
-			141,
-			523,
-			92,
-			221,
-			238,
-			163,
-			8,
-			55,
-			157,
-			516,
-			150,
-			12,
-			119,
-			350,
-			74
-		],
-		"updateTime": 1679506420
-	},
-	{
-		"fileName": "SebasPrediction.dll",
-		"name": "SebasPrediction",
-		"updateTime": 1667585881
-	},
-	{
-		"fileName": "ShadowAIO.dll",
-		"name": "ShadowAIO",
-		"plugin_type": 1,
-		"supported": [
-			23,
-			203,
-			48,
-			24,
-			10,
-			711,
-			11,
-			31,
-			29,
-			429,
-			90,
-			21,
-			17,
-			887,
-			427,
-			107,
-			119,
-			200,
-			234,
-			412,
-			75,
-			163,
-			81,
-			50,
-			16,
-			102,
-			13,
-			143,
-			157
-		],
-		"updateTime": 1680008545
-	},
-	{
-		"fileName": "SkinwalkerAIO.dll",
-		"name": "SkinwalkerAIO",
-		"plugin_type": 1,
-		"supported": [
-			96,
-			107,
-			106,
-			37,
-			7,
-			141,
-			13,
-			59,
-			112,
-			18,
-			54,
-			119,
-			777,
-			99,
-			32,
-			1,
-			43,
-			26,
-			111,
-			53,
-			44,
-			120
-		],
-		"updateTime": 1680164617
-	},
-	{
-		"fileName": "SmartPings.dll",
-		"name": "AJK - KoreanPings",
-		"updateTime": 1667585910
-	},
-	{
-		"fileName": "TaiwanAIO.dll",
-		"name": "Taiwan AIO",
-		"supported": [
-			55
-		],
-		"updateTime": 1667585847
-	},
-	{
-		"fileName": "ToxicAIO.dll",
-		"name": "ToxicAIO",
-		"supported": [
-			85
-		],
-		"updateTime": 1667585803
-	},
-	{
-		"fileName": "TrueDamageAIO.dll",
-		"name": "TrueDamage AIO",
-		"supported": [
-			32
-		],
-		"updateTime": 1667586602
-	},
-	{
-		"name": "XaxupAIO",
-		"fileName": "XaxupAIO.dll",
-		"updateTime": 1680281723,
-		"supported": [
-			17,
-			32,
-			76,
-			115,
-			163,
-			92,
-			523
-		]
-	},
-	{
-		"name": "Xaxup Chat Utility",
-		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1680281723,
-		"plugin_type": 0
-	},
-	{
-		"fileName": "YordleAIO.dll",
-		"name": "Yordle AIO",
-		"supported": [
-			45
-		],
-		"updateTime": 1667585896
-	},
-	{
-		"fileName": "ZEDithAIO.dll",
-		"name": "ZEDith AIO",
-		"supported": [
-			101,
-			222,
-			81
-		],
-		"updateTime": 1667585663
-	},
-	{
-		"fileName": "ZEDithPred.dll",
-		"name": "ZEDithPred",
-		"plugin_type": 3,
-		"updateTime": 1667585789
-	},
-	{
-		"name": "BBC ZEK CARRY",
-		"fileName": "ZekCarry.dll",
-		"updateTime": 1680281723,
-		"supported": [
-			30,
-			11,
-			26,
-			43,
-			117
-		],
-		"plugin_type": 1
-	},
-	{
 		"fileName": "ZzihaoAIO.dll",
 		"name": "ZzihaoAIO",
 		"supported": [
@@ -760,7 +622,20 @@
 			222,
 			221
 		],
-		"updateTime": 1667585754
+		"updateTime": 1680282292
+	},
+	{
+		"fileName": "entropy-aio.dll",
+		"name": "Entropy AIO",
+		"plugin_type": 1,
+		"supported": [
+			266,
+			12,
+			55,
+			41,
+			6
+		],
+		"updateTime": 1680281261
 	},
 	{
 		"fileName": "xDreammsAIO.dll",
@@ -799,12 +674,137 @@
 			103,
 			13
 		],
-		"updateTime": 1680164472
+		"updateTime": 1680283220
 	},
 	{
 		"fileName": "xDreammsUtility.dll",
 		"name": "xDreamms Utility | AutoShop",
 		"plugin_type": 0,
-		"updateTime": 1680194689
+		"updateTime": 1680283948
+	},
+	{
+		"fileName": "ADCSeries.dll",
+		"name": "ADC Series",
+		"supported": [
+			81,
+			236,
+			429,
+			41
+		],
+		"updateTime": 1667586586
+	},
+	{
+		"fileName": "BlackOutAIO.dll",
+		"name": "BlackOutAIO",
+		"plugin_type": 1,
+		"supported": [
+			78,
+			254,
+			103,
+			200,
+			53,
+			134,
+			895,
+			518,
+			82,
+			8,
+			55,
+			96,
+			897,
+			711,
+			876,
+			21,
+			131,
+			36
+		],
+		"updateTime": 1680242352
+	},
+	{
+		"fileName": "BlahajAIO.dll",
+		"name": "BlahajAIO",
+		"plugin_type": 1,
+		"supported": [
+			45,
+			412,
+			267
+		],
+		"updateTime": 1673774650
+	},
+	{
+		"fileName": "ExodiaAIO.dll",
+		"name": "Exodia AIO",
+		"plugin_type": 1,
+		"supported": [
+			21,
+			876
+		],
+		"updateTime": 1672217382
+	},
+	{
+		"fileName": "PekoAIO.dll",
+		"name": "PekoAIO",
+		"plugin_type": 1,
+		"supported": [
+			3,
+			34
+		],
+		"updateTime": 1676484791
+	},
+	{
+		"fileName": "ToxicAIO.dll",
+		"name": "ToxicAIO",
+		"supported": [
+			85
+		],
+		"updateTime": 1667585803
+	},
+	{
+		"name": "XaxupAIO",
+		"fileName": "XaxupAIO.dll",
+		"updateTime": 1680284897,
+		"supported": [
+			17,
+			32,
+			76,
+			115,
+			163,
+			92,
+			523
+		]
+	},
+	{
+		"name": "Xaxup Chat Utility",
+		"fileName": "XaxupChatUtility.dll",
+		"updateTime": 1680284897,
+		"plugin_type": 0
+	},
+	{
+		"fileName": "ZEDithAIO.dll",
+		"name": "ZEDith AIO",
+		"supported": [
+			101,
+			222,
+			81
+		],
+		"updateTime": 1667585663
+	},
+	{
+		"fileName": "ZEDithPred.dll",
+		"name": "ZEDithPred",
+		"plugin_type": 3,
+		"updateTime": 1667585789
+	},
+	{
+		"name": "BBC ZEK CARRY",
+		"fileName": "ZekCarry.dll",
+		"updateTime": 1680284897,
+		"supported": [
+			30,
+			11,
+			26,
+			43,
+			117
+		],
+		"plugin_type": 1
 	}
 ]
