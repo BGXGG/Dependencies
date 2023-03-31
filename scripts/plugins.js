@@ -104,4 +104,10 @@ function walkTree(d, res) {
     return res;
 }
 
-fs.writeFileSync('plugins.json', JSON.stringify(walkTree('files/', []), null, '\t'));
+const result = walkTree('files/', []);
+const uniqueResult = result.filter(function(item, pos) {
+    const itemIndex = result.findIndex( (element) => element.fileName == item.fileName );
+    return itemIndex == pos;
+})
+
+fs.writeFileSync('plugins.json', JSON.stringify(uniqueResult, null, '\t'));
