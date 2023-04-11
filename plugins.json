@@ -695,6 +695,15 @@
 		"updateTime": 1680646746
 	},
 	{
+		"fileName": "relaxAIO.dll",
+		"name": "relaxAIO",
+		"plugin_type": 1,
+		"supported": [
+			29
+		],
+		"updateTime": 1681223890
+	},
+	{
 		"fileName": "xDreammsAIO.dll",
 		"name": "xDreamms AIO",
 		"plugin_type": 1,
@@ -781,7 +790,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1681221631,
+		"updateTime": 1681225227,
 		"supported": [
 			17,
 			32,
@@ -795,7 +804,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1681221631,
+		"updateTime": 1681225227,
 		"plugin_type": 0
 	},
 	{
@@ -817,7 +826,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1681221631,
+		"updateTime": 1681225227,
 		"supported": [
 			30,
 			11,
