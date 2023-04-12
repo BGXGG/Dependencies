@@ -32,13 +32,13 @@
 		"fileName": "AuroraEvade.dll",
 		"name": "[AURORA] Evade",
 		"plugin_type": 0,
-		"updateTime": 1681221352
+		"updateTime": 1681281949
 	},
 	{
 		"fileName": "AuroraOrbwalker.dll",
 		"name": "[AURORA] Orbwalker",
 		"plugin_type": 3,
-		"updateTime": 1681238204
+		"updateTime": 1681281536
 	},
 	{
 		"fileName": "AuroraPrediction.dll",
@@ -155,13 +155,13 @@
 			131,
 			36
 		],
-		"updateTime": 1681130372
+		"updateTime": 1681281415
 	},
 	{
 		"fileName": "BlackOutActivator.dll",
 		"name": "[@BlackOut~]# Activator",
 		"plugin_type": 0,
-		"updateTime": 1681052420
+		"updateTime": 1681281469
 	},
 	{
 		"fileName": "BlahajAIO.dll",
@@ -204,7 +204,7 @@
 			115,
 			33
 		],
-		"updateTime": 1681069945
+		"updateTime": 1681281483
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -341,7 +341,7 @@
 			30,
 			429
 		],
-		"updateTime": 1681130396
+		"updateTime": 1681281307
 	},
 	{
 		"fileName": "L9Utility.dll",
@@ -448,13 +448,13 @@
 			63,
 			101
 		],
-		"updateTime": 1681052345
+		"updateTime": 1681281486
 	},
 	{
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1681130323
+		"updateTime": 1681281500
 	},
 	{
 		"fileName": "RageAIO.dll",
@@ -492,7 +492,7 @@
 			350,
 			74
 		],
-		"updateTime": 1680282178
+		"updateTime": 1681281131
 	},
 	{
 		"fileName": "SebasPrediction.dll",
@@ -585,9 +585,10 @@
 		"plugin_type": 1,
 		"supported": [
 			81,
-			29
+			29,
+			107
 		],
-		"updateTime": 1681220881
+		"updateTime": 1681281589
 	},
 	{
 		"fileName": "TrueDamageAIO.dll",
@@ -790,7 +791,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1681239635,
+		"updateTime": 1681282836,
 		"supported": [
 			17,
 			32,
@@ -804,7 +805,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1681239635,
+		"updateTime": 1681282836,
 		"plugin_type": 0
 	},
 	{
@@ -826,7 +827,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1681239635,
+		"updateTime": 1681282836,
 		"supported": [
 			30,
 			11,
