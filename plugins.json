@@ -32,13 +32,13 @@
 		"fileName": "AuroraEvade.dll",
 		"name": "[AURORA] Evade",
 		"plugin_type": 0,
-		"updateTime": 1681281949
+		"updateTime": 1681324676
 	},
 	{
 		"fileName": "AuroraOrbwalker.dll",
 		"name": "[AURORA] Orbwalker",
 		"plugin_type": 3,
-		"updateTime": 1681281536
+		"updateTime": 1681324298
 	},
 	{
 		"fileName": "AuroraPrediction.dll",
@@ -448,7 +448,7 @@
 			63,
 			101
 		],
-		"updateTime": 1681281486
+		"updateTime": 1681324281
 	},
 	{
 		"fileName": "OpenUtilities.dll",
@@ -791,7 +791,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1681282836,
+		"updateTime": 1681326030,
 		"supported": [
 			17,
 			32,
@@ -805,7 +805,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1681282836,
+		"updateTime": 1681326030,
 		"plugin_type": 0
 	},
 	{
@@ -827,7 +827,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1681282836,
+		"updateTime": 1681326030,
 		"supported": [
 			30,
 			11,
