@@ -38,7 +38,7 @@
 		"fileName": "AuroraOrbwalker.dll",
 		"name": "[AURORA] Orbwalker",
 		"plugin_type": 3,
-		"updateTime": 1681333610
+		"updateTime": 1681371892
 	},
 	{
 		"fileName": "AuroraPrediction.dll",
@@ -204,7 +204,7 @@
 			115,
 			33
 		],
-		"updateTime": 1681326132
+		"updateTime": 1681372263
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -347,7 +347,7 @@
 		"fileName": "L9Utility.dll",
 		"name": "L9 Utility",
 		"plugin_type": 0,
-		"updateTime": 1680863540
+		"updateTime": 1681372090
 	},
 	{
 		"fileName": "LeaguesharpAIO.dll",
@@ -438,7 +438,7 @@
 		"supported": [
 			246
 		],
-		"updateTime": 1680283865
+		"updateTime": 1681371948
 	},
 	{
 		"fileName": "OpenSeries.dll",
@@ -791,7 +791,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1681335030,
+		"updateTime": 1681372826,
 		"supported": [
 			17,
 			32,
@@ -805,7 +805,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1681335030,
+		"updateTime": 1681372826,
 		"plugin_type": 0
 	},
 	{
@@ -827,7 +827,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1681335030,
+		"updateTime": 1681372826,
 		"supported": [
 			30,
 			11,
