@@ -153,9 +153,10 @@
 			876,
 			21,
 			131,
-			36
+			36,
+			523
 		],
-		"updateTime": 1681639801
+		"updateTime": 1681680652
 	},
 	{
 		"fileName": "BlackOutActivator.dll",
@@ -801,7 +802,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1681680625,
+		"updateTime": 1681682424,
 		"supported": [
 			17,
 			32,
@@ -815,7 +816,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1681680625,
+		"updateTime": 1681682424,
 		"plugin_type": 0
 	},
 	{
@@ -837,7 +838,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1681680625,
+		"updateTime": 1681682424,
 		"supported": [
 			30,
 			11,
