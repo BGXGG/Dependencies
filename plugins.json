@@ -204,7 +204,7 @@
 			115,
 			33
 		],
-		"updateTime": 1681656809
+		"updateTime": 1681671821
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -493,13 +493,13 @@
 			350,
 			74
 		],
-		"updateTime": 1681639558
+		"updateTime": 1681671698
 	},
 	{
 		"fileName": "SebasPrediction.dll",
 		"name": "SebasPredictionV2",
 		"plugin_type": 3,
-		"updateTime": 1681639453
+		"updateTime": 1681671616
 	},
 	{
 		"fileName": "ShadowAIO.dll",
@@ -801,7 +801,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1681671626,
+		"updateTime": 1681673423,
 		"supported": [
 			17,
 			32,
@@ -815,7 +815,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1681671626,
+		"updateTime": 1681673423,
 		"plugin_type": 0
 	},
 	{
@@ -837,7 +837,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1681671626,
+		"updateTime": 1681673423,
 		"supported": [
 			30,
 			11,
