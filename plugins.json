@@ -543,7 +543,7 @@
 		"fileName": "ShadowExploit.dll",
 		"name": "ShadowExploit",
 		"plugin_type": 2,
-		"updateTime": 1681679791
+		"updateTime": 1681751367
 	},
 	{
 		"fileName": "SkinwalkerAIO.dll",
@@ -802,7 +802,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1681745426,
+		"updateTime": 1681751835,
 		"supported": [
 			17,
 			32,
@@ -816,7 +816,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1681745426,
+		"updateTime": 1681751835,
 		"plugin_type": 0
 	},
 	{
@@ -838,7 +838,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1681745426,
+		"updateTime": 1681751835,
 		"supported": [
 			30,
 			11,
