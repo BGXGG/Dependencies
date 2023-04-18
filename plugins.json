@@ -156,7 +156,7 @@
 			36,
 			523
 		],
-		"updateTime": 1681811581
+		"updateTime": 1681846887
 	},
 	{
 		"fileName": "BlackOutActivator.dll",
@@ -214,6 +214,15 @@
 			39
 		],
 		"updateTime": 1680282307
+	},
+	{
+		"fileName": "EuphoriaAIO.dll",
+		"name": "EuphoriaAIO",
+		"plugin_type": 1,
+		"supported": [
+			25
+		],
+		"updateTime": 1681846755
 	},
 	{
 		"fileName": "Excalibur.dll",
@@ -802,7 +811,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1681839026,
+		"updateTime": 1681848029,
 		"supported": [
 			17,
 			32,
@@ -816,7 +825,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1681839026,
+		"updateTime": 1681848029,
 		"plugin_type": 0
 	},
 	{
@@ -838,7 +847,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1681839026,
+		"updateTime": 1681848029,
 		"supported": [
 			30,
 			11,
