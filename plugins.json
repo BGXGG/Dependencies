@@ -38,7 +38,7 @@
 		"fileName": "AuroraOrbwalker.dll",
 		"name": "[AURORA] Orbwalker",
 		"plugin_type": 3,
-		"updateTime": 1681639230
+		"updateTime": 1681900400
 	},
 	{
 		"fileName": "AuroraPrediction.dll",
@@ -156,13 +156,13 @@
 			36,
 			523
 		],
-		"updateTime": 1681846887
+		"updateTime": 1681900521
 	},
 	{
 		"fileName": "BlackOutActivator.dll",
 		"name": "[@BlackOut~]# Activator",
 		"plugin_type": 0,
-		"updateTime": 1681745081
+		"updateTime": 1681900451
 	},
 	{
 		"fileName": "BlahajAIO.dll",
@@ -351,13 +351,13 @@
 			30,
 			429
 		],
-		"updateTime": 1681853480
+		"updateTime": 1681900619
 	},
 	{
 		"fileName": "L9Utility.dll",
 		"name": "L9 Utility",
 		"plugin_type": 0,
-		"updateTime": 1681890743
+		"updateTime": 1681900392
 	},
 	{
 		"fileName": "LeaguesharpAIO.dll",
@@ -811,7 +811,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1681897091,
+		"updateTime": 1681902028,
 		"supported": [
 			17,
 			32,
@@ -825,7 +825,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1681897091,
+		"updateTime": 1681902028,
 		"plugin_type": 0
 	},
 	{
@@ -847,7 +847,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1681897091,
+		"updateTime": 1681902028,
 		"supported": [
 			30,
 			11,
