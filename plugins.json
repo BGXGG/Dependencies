@@ -275,7 +275,7 @@
 			15,
 			110
 		],
-		"updateTime": 1681913207
+		"updateTime": 1681920985
 	},
 	{
 		"fileName": "KissMyAIO.dll",
@@ -509,7 +509,7 @@
 		"fileName": "SebasPrediction.dll",
 		"name": "SebasPredictionV2",
 		"plugin_type": 3,
-		"updateTime": 1681811498
+		"updateTime": 1681920590
 	},
 	{
 		"fileName": "ShadowAIO.dll",
@@ -546,7 +546,7 @@
 			143,
 			157
 		],
-		"updateTime": 1681649828
+		"updateTime": 1681920963
 	},
 	{
 		"fileName": "ShadowExploit.dll",
@@ -811,7 +811,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1681918227,
+		"updateTime": 1681921826,
 		"supported": [
 			17,
 			32,
@@ -825,7 +825,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1681918227,
+		"updateTime": 1681921826,
 		"plugin_type": 0
 	},
 	{
@@ -847,7 +847,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1681918227,
+		"updateTime": 1681921826,
 		"supported": [
 			30,
 			11,
