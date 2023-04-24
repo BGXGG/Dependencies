@@ -156,7 +156,7 @@
 			36,
 			523
 		],
-		"updateTime": 1682326032
+		"updateTime": 1682345059
 	},
 	{
 		"fileName": "BlackOutActivator.dll",
@@ -735,6 +735,12 @@
 		"updateTime": 1681837136
 	},
 	{
+		"fileName": "solaceOrb.dll",
+		"name": "solace-orb beta",
+		"plugin_type": 3,
+		"updateTime": 1682344967
+	},
+	{
 		"fileName": "xDreammsAIO.dll",
 		"name": "xDreamms AIO",
 		"plugin_type": 1,
@@ -821,7 +827,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1682343023,
+		"updateTime": 1682346626,
 		"supported": [
 			17,
 			32,
@@ -835,7 +841,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1682343023,
+		"updateTime": 1682346626,
 		"plugin_type": 0
 	},
 	{
@@ -857,7 +863,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1682343023,
+		"updateTime": 1682346626,
 		"supported": [
 			30,
 			11,
