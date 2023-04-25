@@ -399,6 +399,20 @@
 		"updateTime": 1680282981
 	},
 	{
+		"fileName": "LotusAIO.dll",
+		"name": "Lotus AIO",
+		"plugin_type": 1,
+		"supported": [
+			18,
+			221,
+			22,
+			222,
+			12,
+			133
+		],
+		"updateTime": 1682427342
+	},
+	{
 		"fileName": "Marksman.dll",
 		"name": "Marksman",
 		"plugin_type": 1,
@@ -464,7 +478,7 @@
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1682355990
+		"updateTime": 1682427363
 	},
 	{
 		"fileName": "PentaAIO.dll",
@@ -777,13 +791,13 @@
 			103,
 			13
 		],
-		"updateTime": 1681948867
+		"updateTime": 1682427438
 	},
 	{
 		"fileName": "xDreammsUtility.dll",
 		"name": "xDreamms Utility | AutoShop",
 		"plugin_type": 0,
-		"updateTime": 1682092440
+		"updateTime": 1682427410
 	},
 	{
 		"fileName": "ADCSeries.dll",
@@ -827,7 +841,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1682413227,
+		"updateTime": 1682427636,
 		"supported": [
 			17,
 			32,
@@ -841,7 +855,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1682413227,
+		"updateTime": 1682427636,
 		"plugin_type": 0
 	},
 	{
@@ -863,7 +877,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1682413227,
+		"updateTime": 1682427636,
 		"supported": [
 			30,
 			11,
