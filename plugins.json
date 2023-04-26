@@ -156,7 +156,7 @@
 			36,
 			523
 		],
-		"updateTime": 1682445780
+		"updateTime": 1682501510
 	},
 	{
 		"fileName": "BlackOutActivator.dll",
@@ -205,7 +205,7 @@
 			115,
 			33
 		],
-		"updateTime": 1682445843
+		"updateTime": 1682501576
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -313,7 +313,7 @@
 			498,
 			350
 		],
-		"updateTime": 1682356518
+		"updateTime": 1682501485
 	},
 	{
 		"fileName": "KleeUtility.dll",
@@ -410,7 +410,7 @@
 			12,
 			133
 		],
-		"updateTime": 1682427342
+		"updateTime": 1682501481
 	},
 	{
 		"fileName": "Marksman.dll",
@@ -570,7 +570,7 @@
 			143,
 			157
 		],
-		"updateTime": 1682399212
+		"updateTime": 1682501597
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
@@ -841,7 +841,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1682454623,
+		"updateTime": 1682503237,
 		"supported": [
 			17,
 			32,
@@ -855,7 +855,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1682454623,
+		"updateTime": 1682503237,
 		"plugin_type": 0
 	},
 	{
@@ -877,7 +877,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1682454623,
+		"updateTime": 1682503237,
 		"supported": [
 			30,
 			11,
