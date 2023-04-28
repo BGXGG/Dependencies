@@ -622,18 +622,6 @@
 		"updateTime": 1680282362
 	},
 	{
-		"fileName": "TrentAIO.dll",
-		"name": "TrentAIO",
-		"plugin_type": 1,
-		"supported": [
-			81,
-			29,
-			107,
-			92
-		],
-		"updateTime": 1681670052
-	},
-	{
 		"fileName": "TrueDamageAIO.dll",
 		"name": "TrueDamage AIO",
 		"supported": [
@@ -842,7 +830,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1682698347,
+		"updateTime": 1682698360,
 		"supported": [
 			17,
 			32,
@@ -856,7 +844,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1682698347,
+		"updateTime": 1682698360,
 		"plugin_type": 0
 	},
 	{
@@ -878,7 +866,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1682698347,
+		"updateTime": 1682698360,
 		"supported": [
 			30,
 			11,
