@@ -1,7 +1,7 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "d60a0ef2bd4738d138aae6cfa3b0ea44"
+			"core_plugin.dll": "da085a536a0789fb81b110fe6e74955d"
 		},
 		"x86": {
 			"core_plugin.dll": "6386e6645349d5761014a0c0a1158f0a"
@@ -36,8 +36,8 @@
 			"BlackOutActivator.dll.json": "c46e1d91908ce811d1e2bef644d5af5c",
 			"BlahajAIO.dll": "a479757404033374b9a331ba3580e331",
 			"BlahajAIO.dll.json": "198d85417b964ecc6b9100ea9f74f0b1",
-			"CSXAIO.dll": "ec17b7f8ce741a4b8e845a476a736b11",
-			"CSXAIO.dll.json": "ecf14aa7ae1cde1f3908fe06be244300",
+			"CSXAIO.dll": "9af85588808b88a15c22f1d4288169f4",
+			"CSXAIO.dll.json": "b5e9edc0f72eee4f4ca66592a2233e80",
 			"DivineSeries.dll": "778819bf5cf942502e8c636628263087",
 			"DivineSeries.dll.json": "7d99b93cbc7a2c9c53800a6dc139e694",
 			"EuphoriaAIO.dll": "baaee7dee5e5b23d355d3d5cf4789635",
