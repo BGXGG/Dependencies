@@ -217,6 +217,16 @@
 		"updateTime": 1680282307
 	},
 	{
+		"fileName": "ElliesAIO.dll",
+		"name": "ellie's AIO",
+		"supported": [
+			86,
+			11,
+			235
+		],
+		"updateTime": 1683127193
+	},
+	{
 		"fileName": "EuphoriaAIO.dll",
 		"name": "EuphoriaAIO",
 		"plugin_type": 1,
@@ -276,7 +286,7 @@
 			15,
 			110
 		],
-		"updateTime": 1683059313
+		"updateTime": 1683127257
 	},
 	{
 		"fileName": "KissMyAIO.dll",
@@ -736,13 +746,13 @@
 			29,
 			498
 		],
-		"updateTime": 1682944718
+		"updateTime": 1683127227
 	},
 	{
 		"fileName": "solaceOrb.dll",
 		"name": "solace-orb beta",
 		"plugin_type": 3,
-		"updateTime": 1683059227
+		"updateTime": 1683127208
 	},
 	{
 		"fileName": "xDreammsAIO.dll",
@@ -832,7 +842,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1683113424,
+		"updateTime": 1683127837,
 		"supported": [
 			17,
 			32,
@@ -846,7 +856,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1683113424,
+		"updateTime": 1683127837,
 		"plugin_type": 0
 	},
 	{
@@ -868,7 +878,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1683113424,
+		"updateTime": 1683127837,
 		"supported": [
 			30,
 			11,
