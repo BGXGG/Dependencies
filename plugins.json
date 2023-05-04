@@ -156,13 +156,13 @@
 			36,
 			523
 		],
-		"updateTime": 1682883373
+		"updateTime": 1683219959
 	},
 	{
 		"fileName": "BlackOutActivator.dll",
 		"name": "[@BlackOut~]# Activator",
 		"plugin_type": 0,
-		"updateTime": 1682368786
+		"updateTime": 1683219948
 	},
 	{
 		"fileName": "BlahajAIO.dll",
@@ -206,7 +206,7 @@
 			104,
 			33
 		],
-		"updateTime": 1683139546
+		"updateTime": 1683220103
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -286,7 +286,7 @@
 			15,
 			110
 		],
-		"updateTime": 1683139509
+		"updateTime": 1683220121
 	},
 	{
 		"fileName": "KissMyAIO.dll",
@@ -422,7 +422,7 @@
 			133,
 			84
 		],
-		"updateTime": 1683112897
+		"updateTime": 1683219835
 	},
 	{
 		"fileName": "Marksman.dll",
@@ -490,7 +490,7 @@
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1682663909
+		"updateTime": 1683219909
 	},
 	{
 		"fileName": "PentaAIO.dll",
@@ -577,12 +577,12 @@
 			81,
 			50,
 			16,
-			102,
 			13,
 			143,
-			157
+			157,
+			777
 		],
-		"updateTime": 1682791104
+		"updateTime": 1683220858
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
@@ -746,13 +746,13 @@
 			29,
 			498
 		],
-		"updateTime": 1683139512
+		"updateTime": 1683219819
 	},
 	{
 		"fileName": "solaceOrb.dll",
 		"name": "solace-orb beta",
 		"plugin_type": 3,
-		"updateTime": 1683127208
+		"updateTime": 1683219874
 	},
 	{
 		"fileName": "xDreammsAIO.dll",
@@ -842,7 +842,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1683142248,
+		"updateTime": 1683221445,
 		"supported": [
 			17,
 			32,
@@ -856,7 +856,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1683142248,
+		"updateTime": 1683221445,
 		"plugin_type": 0
 	},
 	{
@@ -878,7 +878,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1683142248,
+		"updateTime": 1683221445,
 		"supported": [
 			30,
 			11,
