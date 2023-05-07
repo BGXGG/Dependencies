@@ -156,13 +156,13 @@
 			36,
 			523
 		],
-		"updateTime": 1683219959
+		"updateTime": 1683465568
 	},
 	{
 		"fileName": "BlackOutActivator.dll",
 		"name": "[@BlackOut~]# Activator",
 		"plugin_type": 0,
-		"updateTime": 1683219948
+		"updateTime": 1683465567
 	},
 	{
 		"fileName": "BlahajAIO.dll",
@@ -206,7 +206,7 @@
 			104,
 			33
 		],
-		"updateTime": 1683363510
+		"updateTime": 1683465644
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -220,7 +220,7 @@
 		"fileName": "DynastyOrbwalker.dll",
 		"name": "[Dynasty] Orbwalker",
 		"plugin_type": 3,
-		"updateTime": 1683323217
+		"updateTime": 1683465297
 	},
 	{
 		"fileName": "ElliesAIO.dll",
@@ -336,7 +336,7 @@
 		"fileName": "KleeUtility.dll",
 		"name": "Klee Utility",
 		"plugin_type": 0,
-		"updateTime": 1683277317
+		"updateTime": 1683465452
 	},
 	{
 		"fileName": "L9AIO.dll",
@@ -368,7 +368,7 @@
 			30,
 			429
 		],
-		"updateTime": 1683279166
+		"updateTime": 1683465251
 	},
 	{
 		"fileName": "L9Utility.dll",
@@ -426,9 +426,10 @@
 			222,
 			12,
 			133,
-			84
+			84,
+			555
 		],
-		"updateTime": 1683363517
+		"updateTime": 1683465387
 	},
 	{
 		"fileName": "Marksman.dll",
@@ -496,7 +497,7 @@
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1683219909
+		"updateTime": 1683465513
 	},
 	{
 		"fileName": "PentaAIO.dll",
@@ -588,13 +589,13 @@
 			157,
 			777
 		],
-		"updateTime": 1683278854
+		"updateTime": 1683465228
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
 		"name": "ShadowTargetSelector",
 		"plugin_type": 3,
-		"updateTime": 1682370531
+		"updateTime": 1683465410
 	},
 	{
 		"fileName": "SkinwalkerAIO.dll",
@@ -848,7 +849,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1683363623,
+		"updateTime": 1683466231,
 		"supported": [
 			17,
 			32,
@@ -862,7 +863,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1683363623,
+		"updateTime": 1683466231,
 		"plugin_type": 0
 	},
 	{
@@ -884,7 +885,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1683363623,
+		"updateTime": 1683466231,
 		"supported": [
 			30,
 			11,
