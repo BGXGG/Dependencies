@@ -206,7 +206,7 @@
 			104,
 			33
 		],
-		"updateTime": 1683492254
+		"updateTime": 1683530381
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -220,12 +220,19 @@
 		"fileName": "DynastyOrbwalker.dll",
 		"name": "[Dynasty] Orbwalker",
 		"plugin_type": 3,
-		"updateTime": 1683465297
+		"updateTime": 1683530291
 	},
 	{
 		"fileName": "ElliesAIO.dll",
 		"name": "ellie's AIO",
-		"updateTime": 1683492084
+		"supported": [
+			86,
+			11,
+			235,
+			21,
+			164
+		],
+		"updateTime": 1683530329
 	},
 	{
 		"fileName": "EuphoriaAIO.dll",
@@ -493,7 +500,7 @@
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1683465513
+		"updateTime": 1683530336
 	},
 	{
 		"fileName": "PentaAIO.dll",
@@ -845,7 +852,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1683493230,
+		"updateTime": 1683531026,
 		"supported": [
 			17,
 			32,
@@ -859,7 +866,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1683493230,
+		"updateTime": 1683531026,
 		"plugin_type": 0
 	},
 	{
@@ -881,7 +888,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1683493230,
+		"updateTime": 1683531026,
 		"supported": [
 			30,
 			11,
