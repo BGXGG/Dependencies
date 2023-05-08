@@ -220,7 +220,7 @@
 		"fileName": "DynastyOrbwalker.dll",
 		"name": "[Dynasty] Orbwalker",
 		"plugin_type": 3,
-		"updateTime": 1683530291
+		"updateTime": 1683583576
 	},
 	{
 		"fileName": "ElliesAIO.dll",
@@ -494,13 +494,13 @@
 			63,
 			101
 		],
-		"updateTime": 1683295213
+		"updateTime": 1683583677
 	},
 	{
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1683561990
+		"updateTime": 1683583663
 	},
 	{
 		"fileName": "PentaAIO.dll",
@@ -598,7 +598,7 @@
 		"fileName": "ShadowTargetSelector.dll",
 		"name": "ShadowTargetSelector",
 		"plugin_type": 3,
-		"updateTime": 1683465410
+		"updateTime": 1683583586
 	},
 	{
 		"fileName": "SkinwalkerAIO.dll",
@@ -756,7 +756,7 @@
 			29,
 			498
 		],
-		"updateTime": 1683491550
+		"updateTime": 1683583652
 	},
 	{
 		"fileName": "solaceOrb.dll",
@@ -852,7 +852,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1683563465,
+		"updateTime": 1683585037,
 		"supported": [
 			17,
 			32,
@@ -866,7 +866,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1683563465,
+		"updateTime": 1683585037,
 		"plugin_type": 0
 	},
 	{
@@ -888,7 +888,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1683563465,
+		"updateTime": 1683585037,
 		"supported": [
 			30,
 			11,
