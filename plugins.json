@@ -206,7 +206,7 @@
 			104,
 			33
 		],
-		"updateTime": 1683622703
+		"updateTime": 1683709823
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -370,7 +370,7 @@
 			30,
 			429
 		],
-		"updateTime": 1683465251
+		"updateTime": 1683709977
 	},
 	{
 		"fileName": "L9Utility.dll",
@@ -432,7 +432,7 @@
 			555,
 			53
 		],
-		"updateTime": 1683492119
+		"updateTime": 1683709687
 	},
 	{
 		"fileName": "Marksman.dll",
@@ -852,7 +852,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1683658874,
+		"updateTime": 1683711028,
 		"supported": [
 			17,
 			32,
@@ -866,7 +866,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1683658874,
+		"updateTime": 1683711028,
 		"plugin_type": 0
 	},
 	{
@@ -888,7 +888,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1683658874,
+		"updateTime": 1683711028,
 		"supported": [
 			30,
 			11,
