@@ -225,14 +225,16 @@
 	{
 		"fileName": "ElliesAIO.dll",
 		"name": "ellie's AIO",
+		"plugin_type": 1,
 		"supported": [
 			86,
 			11,
 			235,
 			21,
-			164
+			164,
+			40
 		],
-		"updateTime": 1683657959
+		"updateTime": 1683925513
 	},
 	{
 		"fileName": "EuphoriaAIO.dll",
@@ -852,7 +854,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1683925737,
+		"updateTime": 1683927021,
 		"supported": [
 			17,
 			32,
@@ -866,7 +868,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1683925737,
+		"updateTime": 1683927021,
 		"plugin_type": 0
 	},
 	{
@@ -888,7 +890,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1683925737,
+		"updateTime": 1683927021,
 		"supported": [
 			30,
 			11,
