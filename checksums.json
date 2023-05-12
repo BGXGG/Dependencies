@@ -253,6 +253,10 @@
 		"Dynasty": {
 			"dynasty.png": "6d105fd8e14d7b1b691677840d93d7aa"
 		},
+		"EllieAIO": {
+			"indicators_menu.png": "ea572012d3a7a0b17add32254a5802aa",
+			"indicators_sizes.png": "b27481478b2728082c15b68009fd77aa"
+		},
 		"Klee": {
 			"Recall.png": "530fc0af0be00f0023a29f6062ce7340",
 			"gargoyle_stoneplate.png": "08a959916a2abc15ec6fbcd958938f55",
