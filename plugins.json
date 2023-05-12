@@ -206,7 +206,7 @@
 			104,
 			33
 		],
-		"updateTime": 1683796741
+		"updateTime": 1683877962
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -336,9 +336,9 @@
 	},
 	{
 		"fileName": "KleeUtility.dll",
-		"name": "Klee Utility",
+		"name": "[Lune & Klee] Utils",
 		"plugin_type": 0,
-		"updateTime": 1683465452
+		"updateTime": 1683878231
 	},
 	{
 		"fileName": "L9AIO.dll",
@@ -500,7 +500,7 @@
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1683796635
+		"updateTime": 1683878234
 	},
 	{
 		"fileName": "PentaAIO.dll",
@@ -756,7 +756,7 @@
 			29,
 			498
 		],
-		"updateTime": 1683832977
+		"updateTime": 1683877986
 	},
 	{
 		"fileName": "solaceOrb.dll",
@@ -852,7 +852,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1683833432,
+		"updateTime": 1683878429,
 		"supported": [
 			17,
 			32,
@@ -866,7 +866,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1683833432,
+		"updateTime": 1683878429,
 		"plugin_type": 0
 	},
 	{
@@ -888,7 +888,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1683833432,
+		"updateTime": 1683878429,
 		"supported": [
 			30,
 			11,
