@@ -154,9 +154,10 @@
 			21,
 			131,
 			36,
-			523
+			523,
+			18
 		],
-		"updateTime": 1683547637
+		"updateTime": 1684182398
 	},
 	{
 		"fileName": "BlackOutActivator.dll",
@@ -242,9 +243,10 @@
 		"name": "EuphoriaAIO",
 		"plugin_type": 1,
 		"supported": [
-			25
+			25,
+			117
 		],
-		"updateTime": 1682666630
+		"updateTime": 1684181522
 	},
 	{
 		"fileName": "Excalibur.dll",
@@ -341,7 +343,7 @@
 		"fileName": "KleeUtility.dll",
 		"name": "[Lune & Klee] Utils",
 		"plugin_type": 0,
-		"updateTime": 1683923576
+		"updateTime": 1684181997
 	},
 	{
 		"fileName": "L9AIO.dll",
@@ -497,13 +499,13 @@
 			63,
 			101
 		],
-		"updateTime": 1684139064
+		"updateTime": 1684182017
 	},
 	{
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1684138952
+		"updateTime": 1684181970
 	},
 	{
 		"fileName": "PentaAIO.dll",
@@ -760,7 +762,7 @@
 			498,
 			236
 		],
-		"updateTime": 1684138919
+		"updateTime": 1684181537
 	},
 	{
 		"fileName": "solaceOrb.dll",
@@ -856,7 +858,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1684180825,
+		"updateTime": 1684182629,
 		"supported": [
 			17,
 			32,
@@ -870,7 +872,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1684180825,
+		"updateTime": 1684182629,
 		"plugin_type": 0
 	},
 	{
@@ -892,7 +894,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1684180825,
+		"updateTime": 1684182629,
 		"supported": [
 			30,
 			11,
