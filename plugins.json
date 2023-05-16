@@ -343,7 +343,7 @@
 		"fileName": "KleeUtility.dll",
 		"name": "[Lune & Klee] Utils",
 		"plugin_type": 0,
-		"updateTime": 1684181997
+		"updateTime": 1684258522
 	},
 	{
 		"fileName": "L9AIO.dll",
@@ -381,7 +381,7 @@
 		"fileName": "L9Utility.dll",
 		"name": "L9 Utility",
 		"plugin_type": 0,
-		"updateTime": 1683140435
+		"updateTime": 1684258444
 	},
 	{
 		"fileName": "LeaguesharpAIO.dll",
@@ -499,13 +499,13 @@
 			63,
 			101
 		],
-		"updateTime": 1684233223
+		"updateTime": 1684258647
 	},
 	{
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1684181970
+		"updateTime": 1684258551
 	},
 	{
 		"fileName": "PentaAIO.dll",
@@ -597,7 +597,7 @@
 			157,
 			777
 		],
-		"updateTime": 1684092988
+		"updateTime": 1684258690
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
@@ -858,7 +858,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1684258357,
+		"updateTime": 1684260030,
 		"supported": [
 			17,
 			32,
@@ -872,7 +872,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1684258357,
+		"updateTime": 1684260030,
 		"plugin_type": 0
 	},
 	{
@@ -894,7 +894,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1684258357,
+		"updateTime": 1684260030,
 		"supported": [
 			30,
 			11,
