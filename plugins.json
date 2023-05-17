@@ -157,7 +157,7 @@
 			523,
 			18
 		],
-		"updateTime": 1684233994
+		"updateTime": 1684327103
 	},
 	{
 		"fileName": "BlackOutActivator.dll",
@@ -208,7 +208,7 @@
 			99,
 			33
 		],
-		"updateTime": 1684269875
+		"updateTime": 1684327149
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -222,7 +222,7 @@
 		"fileName": "DynastyOrbwalker.dll",
 		"name": "[Dynasty] Orbwalker",
 		"plugin_type": 3,
-		"updateTime": 1683639696
+		"updateTime": 1684326985
 	},
 	{
 		"fileName": "ElliesAIO.dll",
@@ -299,7 +299,7 @@
 			15,
 			110
 		],
-		"updateTime": 1684269879
+		"updateTime": 1684327152
 	},
 	{
 		"fileName": "KissMyAIO.dll",
@@ -437,7 +437,7 @@
 			555,
 			53
 		],
-		"updateTime": 1684090689
+		"updateTime": 1684327009
 	},
 	{
 		"fileName": "Marksman.dll",
@@ -499,7 +499,7 @@
 			63,
 			101
 		],
-		"updateTime": 1684258647
+		"updateTime": 1684327031
 	},
 	{
 		"fileName": "OpenUtilities.dll",
@@ -597,7 +597,7 @@
 			157,
 			777
 		],
-		"updateTime": 1684269902
+		"updateTime": 1684327194
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
@@ -858,7 +858,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1684270830,
+		"updateTime": 1684328432,
 		"supported": [
 			17,
 			32,
@@ -872,7 +872,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1684270830,
+		"updateTime": 1684328432,
 		"plugin_type": 0
 	},
 	{
@@ -894,7 +894,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1684270830,
+		"updateTime": 1684328432,
 		"supported": [
 			30,
 			11,
