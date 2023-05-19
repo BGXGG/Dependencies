@@ -208,7 +208,7 @@
 			99,
 			33
 		],
-		"updateTime": 1684483632
+		"updateTime": 1684522364
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -600,7 +600,7 @@
 			157,
 			777
 		],
-		"updateTime": 1684515122
+		"updateTime": 1684522451
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
@@ -817,7 +817,7 @@
 		"fileName": "xDreammsUtility.dll",
 		"name": "xDreamms Utility | AutoShop",
 		"plugin_type": 0,
-		"updateTime": 1684446167
+		"updateTime": 1684522301
 	},
 	{
 		"fileName": "ADCSeries.dll",
@@ -861,7 +861,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1684515625,
+		"updateTime": 1684522828,
 		"supported": [
 			17,
 			32,
@@ -875,7 +875,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1684515625,
+		"updateTime": 1684522828,
 		"plugin_type": 0
 	},
 	{
@@ -897,7 +897,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1684515625,
+		"updateTime": 1684522828,
 		"supported": [
 			30,
 			11,
