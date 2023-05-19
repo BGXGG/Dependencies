@@ -102,13 +102,13 @@
 			126,
 			60
 		],
-		"updateTime": 1684073108
+		"updateTime": 1684523496
 	},
 	{
 		"fileName": "BGXEvade.dll",
 		"name": "Evade",
 		"plugin_type": 0,
-		"updateTime": 1684073116
+		"updateTime": 1684523503
 	},
 	{
 		"fileName": "BanthorsAIO.dll",
@@ -417,7 +417,7 @@
 			432,
 			526
 		],
-		"updateTime": 1684073127
+		"updateTime": 1684523515
 	},
 	{
 		"fileName": "LordsPred.dll",
@@ -469,7 +469,7 @@
 			360,
 			221
 		],
-		"updateTime": 1684073135
+		"updateTime": 1684523522
 	},
 	{
 		"fileName": "MidlaneCarry.dll",
@@ -483,7 +483,7 @@
 			1,
 			268
 		],
-		"updateTime": 1684073138
+		"updateTime": 1684523526
 	},
 	{
 		"fileName": "OHAIO.dll",
@@ -600,7 +600,7 @@
 			157,
 			777
 		],
-		"updateTime": 1684522451
+		"updateTime": 1684523592
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
@@ -663,7 +663,7 @@
 		"fileName": "Utility.dll",
 		"name": "EUtility",
 		"plugin_type": 0,
-		"updateTime": 1684073145
+		"updateTime": 1684523532
 	},
 	{
 		"fileName": "YordleAIO.dll",
@@ -680,7 +680,7 @@
 		"supported": [
 			350
 		],
-		"updateTime": 1684073150
+		"updateTime": 1684523537
 	},
 	{
 		"fileName": "ZiraPack.dll",
@@ -721,7 +721,7 @@
 			72,
 			77
 		],
-		"updateTime": 1684073161
+		"updateTime": 1684523549
 	},
 	{
 		"fileName": "ZzihaoAIO.dll",
@@ -861,7 +861,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1684522828,
+		"updateTime": 1684524633,
 		"supported": [
 			17,
 			32,
@@ -875,7 +875,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1684522828,
+		"updateTime": 1684524633,
 		"plugin_type": 0
 	},
 	{
@@ -897,7 +897,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1684522828,
+		"updateTime": 1684524633,
 		"supported": [
 			30,
 			11,
