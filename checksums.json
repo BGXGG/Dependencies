@@ -1,7 +1,7 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "411918417388dcd6314f1afc3c67c8db"
+			"core_plugin.dll": "be5291200e8c660261008fa437712cb1"
 		},
 		"x86": {
 			"core_plugin.dll": "6386e6645349d5761014a0c0a1158f0a"
@@ -36,12 +36,12 @@
 			"BlackOutActivator.dll.json": "46911ec70aa06be3dcaed10bd653088f",
 			"BlahajAIO.dll": "a479757404033374b9a331ba3580e331",
 			"BlahajAIO.dll.json": "198d85417b964ecc6b9100ea9f74f0b1",
-			"CSXAIO.dll": "f078fff2a86d0d9df0f33f2c53907e7e",
-			"CSXAIO.dll.json": "a48adb3b471f9c694d98d4887b5a5980",
+			"CSXAIO.dll": "0fcbf80ea89621c34945bdd3e1c06eca",
+			"CSXAIO.dll.json": "d95cf2f74266b88fa95df1a3a86e496b",
 			"DivineSeries.dll": "778819bf5cf942502e8c636628263087",
 			"DivineSeries.dll.json": "7d99b93cbc7a2c9c53800a6dc139e694",
-			"DynastyOrbwalker.dll": "397dcba45f8ce04ce2a4e107d0b66285",
-			"DynastyOrbwalker.dll.json": "454e2d5c863bafeea9d6e245be217811",
+			"DynastyOrbwalker.dll": "90bac19d525c3e60002193b0e4cd7abd",
+			"DynastyOrbwalker.dll.json": "17bff423aff64d001f3af90539d41293",
 			"ElliesAIO.dll": "9981261780f69b57d985c23e645d4a0a",
 			"ElliesAIO.dll.json": "374f7a629a6b1333c6bfe16db4b9a437",
 			"EuphoriaAIO.dll": "9bb8de8685876c84d9b6a90017f96e53",
@@ -78,10 +78,10 @@
 			"MidlaneCarry.dll.json": "97f65351fa539256c40f7d01808df467",
 			"OHAIO.dll": "553c97304a4aa0ccd91f134d9b0012d1",
 			"OHAIO.dll.json": "1c148df3cc553a83bc148bbc8ac54848",
-			"OpenSeries.dll": "ef0c75412c145e2774aa542ee3576d6a",
-			"OpenSeries.dll.json": "e1a08bf6bf0135b3c95df5665b04fc6a",
-			"OpenUtilities.dll": "1677c7f279e90172629a97f67ee2ea4c",
-			"OpenUtilities.dll.json": "a09232990795449f81b5778b44b9dccf",
+			"OpenSeries.dll": "bf5f414a64165801854cd8a4124865b4",
+			"OpenSeries.dll.json": "67668d81bf9644204b72889042c87ddc",
+			"OpenUtilities.dll": "09f65c3f021d1ca70ebdf54f8d9beb3e",
+			"OpenUtilities.dll.json": "38c75d6ace030a2190a9b9b52822b3e7",
 			"PentaAIO.dll": "4d9ac0f2c4d13d4f4d3143a366c92c15",
 			"PentaAIO.dll.json": "8b907704e8349a1f837db00418052977",
 			"RageAIO.dll": "39b5c308731a871d6150bb88f8e8e702",
@@ -90,10 +90,10 @@
 			"SebasBGX.dll.json": "d45644292359507502d974e6b76383fb",
 			"SebasPrediction.dll": "4b30b7f9f347b1a31303fb1de2a2c322",
 			"SebasPrediction.dll.json": "c59c1a32e0d817cf0b321e89abbd0f54",
-			"ShadowAIO.dll": "eaaf31ac93f32c0822bdaeceb4b54524",
-			"ShadowAIO.dll.json": "255dda4b242d56b8e614a91f9ec09ba2",
-			"ShadowTargetSelector.dll": "9afeb0bae619d74c1cc69387a6372eed",
-			"ShadowTargetSelector.dll.json": "219f47d217578a72211150fed7db28c9",
+			"ShadowAIO.dll": "f9c8bfe552bbbed0171ac3f1426632af",
+			"ShadowAIO.dll.json": "a8d4648a0d94f32b10dae1847cde5b06",
+			"ShadowTargetSelector.dll": "31e42992c81ea2bad0ca7eeea73cd8f4",
+			"ShadowTargetSelector.dll.json": "8590520fe3e6fbbde3b4b2c9ec75e7e5",
 			"SkinwalkerAIO.dll": "96c8d6e4cb8307f943bbc349537f0bd7",
 			"SkinwalkerAIO.dll.json": "7be93cc1bbeac61cc355c19f542f3206",
 			"SmartPings.dll": "b060952ad7750210d659324ebe2c54b9",
