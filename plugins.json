@@ -238,7 +238,7 @@
 			203,
 			28
 		],
-		"updateTime": 1684483491
+		"updateTime": 1684666098
 	},
 	{
 		"fileName": "EuphoriaAIO.dll",
@@ -378,7 +378,7 @@
 			30,
 			429
 		],
-		"updateTime": 1684483705
+		"updateTime": 1684666167
 	},
 	{
 		"fileName": "L9Utility.dll",
@@ -508,7 +508,7 @@
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1684612950
+		"updateTime": 1684666105
 	},
 	{
 		"fileName": "PentaAIO.dll",
@@ -861,7 +861,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1684620025,
+		"updateTime": 1684666830,
 		"supported": [
 			17,
 			32,
@@ -875,7 +875,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1684620025,
+		"updateTime": 1684666830,
 		"plugin_type": 0
 	},
 	{
@@ -897,7 +897,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1684620025,
+		"updateTime": 1684666830,
 		"supported": [
 			30,
 			11,
