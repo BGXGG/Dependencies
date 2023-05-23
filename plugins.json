@@ -508,7 +508,7 @@
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1684840155
+		"updateTime": 1684850872
 	},
 	{
 		"fileName": "PentaAIO.dll",
@@ -600,7 +600,7 @@
 			157,
 			777
 		],
-		"updateTime": 1684700939
+		"updateTime": 1684850880
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
@@ -862,7 +862,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1684841429,
+		"updateTime": 1684852283,
 		"supported": [
 			17,
 			32,
@@ -876,7 +876,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1684841429,
+		"updateTime": 1684852283,
 		"plugin_type": 0
 	},
 	{
@@ -898,7 +898,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1684841429,
+		"updateTime": 1684852283,
 		"supported": [
 			30,
 			11,
