@@ -32,7 +32,7 @@
 		"fileName": "AuroraEvade.dll",
 		"name": "[AURORA] Evade",
 		"plugin_type": 0,
-		"updateTime": 1684960839
+		"updateTime": 1685020765
 	},
 	{
 		"fileName": "AuroraOrbwalker.dll",
@@ -236,9 +236,11 @@
 			164,
 			40,
 			203,
-			28
+			28,
+			81,
+			96
 		],
-		"updateTime": 1684699236
+		"updateTime": 1685020721
 	},
 	{
 		"fileName": "EuphoriaAIO.dll",
@@ -302,7 +304,7 @@
 			110,
 			498
 		],
-		"updateTime": 1684840218
+		"updateTime": 1685020866
 	},
 	{
 		"fileName": "KissMyAIO.dll",
@@ -340,7 +342,7 @@
 			498,
 			350
 		],
-		"updateTime": 1684935736
+		"updateTime": 1685020855
 	},
 	{
 		"fileName": "KleeUtility.dll",
@@ -557,7 +559,7 @@
 			350,
 			74
 		],
-		"updateTime": 1681916419
+		"updateTime": 1685020877
 	},
 	{
 		"fileName": "SebasPrediction.dll",
@@ -600,7 +602,7 @@
 			157,
 			777
 		],
-		"updateTime": 1684854138
+		"updateTime": 1685020928
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
@@ -819,7 +821,7 @@
 		"fileName": "xDreammsUtility.dll",
 		"name": "xDreamms Utility | AutoShop",
 		"plugin_type": 0,
-		"updateTime": 1684522301
+		"updateTime": 1685020834
 	},
 	{
 		"fileName": "ADCSeries.dll",
@@ -863,7 +865,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1684962027,
+		"updateTime": 1685021438,
 		"supported": [
 			17,
 			32,
@@ -877,7 +879,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1684962027,
+		"updateTime": 1685021438,
 		"plugin_type": 0
 	},
 	{
@@ -899,7 +901,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1684962027,
+		"updateTime": 1685021438,
 		"supported": [
 			30,
 			11,
