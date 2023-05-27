@@ -504,7 +504,7 @@
 			63,
 			101
 		],
-		"updateTime": 1684580617
+		"updateTime": 1685220105
 	},
 	{
 		"fileName": "OpenUtilities.dll",
@@ -866,7 +866,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1685212226,
+		"updateTime": 1685221228,
 		"supported": [
 			17,
 			32,
@@ -880,7 +880,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1685212226,
+		"updateTime": 1685221228,
 		"plugin_type": 0
 	},
 	{
@@ -902,7 +902,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1685212226,
+		"updateTime": 1685221228,
 		"supported": [
 			30,
 			11,
