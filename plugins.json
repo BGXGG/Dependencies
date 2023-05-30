@@ -208,7 +208,7 @@
 			99,
 			33
 		],
-		"updateTime": 1685378361
+		"updateTime": 1685485527
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -609,7 +609,7 @@
 		"fileName": "ShadowTargetSelector.dll",
 		"name": "ShadowTargetSelector",
 		"plugin_type": 3,
-		"updateTime": 1684604105
+		"updateTime": 1685485464
 	},
 	{
 		"fileName": "SkinwalkerAIO.dll",
@@ -866,7 +866,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1685460628,
+		"updateTime": 1685485824,
 		"supported": [
 			17,
 			32,
@@ -880,7 +880,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1685460628,
+		"updateTime": 1685485824,
 		"plugin_type": 0
 	},
 	{
@@ -902,7 +902,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1685460628,
+		"updateTime": 1685485824,
 		"supported": [
 			30,
 			11,
