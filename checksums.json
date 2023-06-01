@@ -1,7 +1,7 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "1c929368f7dffe7c13512e69f2068a7f"
+			"core_plugin.dll": "d4800547d8213f27626fb3751a16219d"
 		},
 		"x86": {
 			"core_plugin.dll": "6386e6645349d5761014a0c0a1158f0a"
@@ -114,8 +114,8 @@
 			"ZzihaoAIO.dll.json": "d20ac57c93ef90672e920b8bc32c5bb7",
 			"entropy-aio.dll": "7c15c866fb28906e137db34909f75f20",
 			"entropy-aio.dll.json": "a8e02306d69ad7a5990c14aa9627238c",
-			"relaxAIO.dll": "aa0b22c35fd6e51c24cd6d1af50b57e5",
-			"relaxAIO.dll.json": "be935ebfd6c217c3dd3e00aa7e0b13e3",
+			"relaxAIO.dll": "ee5ee0623dd67c2ab1c43e267a20ee23",
+			"relaxAIO.dll.json": "2ce602cf00c6fb66cd37224b8ecc3745",
 			"solaceOrb.dll": "823e89fcf0f1d36e86845445e3b3ada4",
 			"solaceOrb.dll.json": "04a207ef42453f591bd5c79424f0b274",
 			"xDreammsAIO.dll": "49aad68d7d73495adb745197664c4e8a",
