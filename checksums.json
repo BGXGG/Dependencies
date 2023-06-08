@@ -1,7 +1,7 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "c3283fdb0af78bdd031ee87cb2861a5d"
+			"core_plugin.dll": "b1340fdffe575a6e684c7378e26c126d"
 		},
 		"x86": {
 			"core_plugin.dll": "6386e6645349d5761014a0c0a1158f0a"
@@ -102,8 +102,8 @@
 			"TaiwanAIO.dll.json": "f9d217d5ac412a6c6408f12d08877a75",
 			"TrueDamageAIO.dll": "5a799d7cc2fd98a53c4099e0bf299d4c",
 			"TrueDamageAIO.dll.json": "614e177240c78385dbb4f83c0ac22d71",
-			"Utility.dll": "97ec8c5f55d05edca242c58d6dd41f5a",
-			"Utility.dll.json": "69f283178ebc4cb4641902ba072b646f",
+			"Utility.dll": "281f3cb8ca6e99bb6adc596a70a12291",
+			"Utility.dll.json": "1b7ebdb28380ab93f777e2ce1f7379ff",
 			"YordleAIO.dll": "180dfcc7a39c00993544ad74596bcad4",
 			"YordleAIO.dll.json": "411eb91070e157261e8d1e83586094e2",
 			"YuumiBot.dll": "e32cde1d7a3779026309c7badf1e1481",
