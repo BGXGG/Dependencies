@@ -1,7 +1,7 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "b1340fdffe575a6e684c7378e26c126d"
+			"core_plugin.dll": "3a9124a772b99bb434ed3275d1467039"
 		},
 		"x86": {
 			"core_plugin.dll": "6386e6645349d5761014a0c0a1158f0a"
@@ -54,8 +54,8 @@
 			"IcarusAIO.dll.json": "8a4bcfa471476f40200c4f320c83fb1e",
 			"ImpulsePrediction.dll": "3f09a651b07c8cc506249f3455c9ca62",
 			"ImpulsePrediction.dll.json": "83058bc23a62d9a2ceb20b9feb30d5f9",
-			"KiriAIO.dll": "d7626cedef0ea99e3ae8022934ae36e1",
-			"KiriAIO.dll.json": "04a0594d1a8a164b60772dcdb9913d0c",
+			"KiriAIO.dll": "be4493a46e1bf033ab06a6278d7fc4c8",
+			"KiriAIO.dll.json": "cfe491a78d563d59bcc567100c16e6e4",
 			"KissMyAIO.dll": "12601e9f572a872202af1d50a22a1c91",
 			"KissMyAIO.dll.json": "8f7c19a62cedeab671fbc9ca228a2357",
 			"KleeAIO.dll": "2fe0228dad41e26b2eebd78d84963f7d",
