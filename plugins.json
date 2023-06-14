@@ -614,7 +614,7 @@
 		"fileName": "ShadowTargetSelector.dll",
 		"name": "ShadowTargetSelector",
 		"plugin_type": 3,
-		"updateTime": 1685485464
+		"updateTime": 1686764472
 	},
 	{
 		"fileName": "SkinwalkerAIO.dll",
@@ -872,7 +872,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1686747630,
+		"updateTime": 1686765633,
 		"supported": [
 			17,
 			32,
@@ -886,7 +886,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1686747630,
+		"updateTime": 1686765633,
 		"plugin_type": 0
 	},
 	{
@@ -908,7 +908,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1686747630,
+		"updateTime": 1686765633,
 		"supported": [
 			30,
 			11,
