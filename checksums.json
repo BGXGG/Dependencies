@@ -262,12 +262,16 @@
 		},
 		"Klee": {
 			"Recall.png": "530fc0af0be00f0023a29f6062ce7340",
+			"failure.wav": "82bade64134bf4132cef11ae893818da",
 			"gargoyle_stoneplate.png": "08a959916a2abc15ec6fbcd958938f55",
 			"goredrinker.png": "fa0a1d72f9ea968c12052558dfe628ff",
 			"kaisa_e.png": "55adf2e443d7471487d2c05a8d305ee2",
 			"kaisa_e_evolved.png": "96ad4968f2b48fbbb531635eef19c5fa",
 			"klee.png": "d8bf730edbf4d864605b1069e0cb1def",
-			"smite.png": "16b01862206eac81a8d7179ed7482f04"
+			"smite.png": "16b01862206eac81a8d7179ed7482f04",
+			"success.wav": "7b14ac9de6b8a0722952511c95826690",
+			"success0.wav": "acc2b257344bbb32c3ca7ed25381b306",
+			"ward.png": "d57d9397366373131e390d8d98c8cbc5"
 		},
 		"LotusAIO.png": "4ce2e994911766cfe41fdbc5973ac60a",
 		"WafendAIO": {
