@@ -222,7 +222,7 @@
 		"fileName": "DynastyOrbwalker.dll",
 		"name": "[Dynasty] Orbwalker",
 		"plugin_type": 3,
-		"updateTime": 1686330983
+		"updateTime": 1686838724
 	},
 	{
 		"fileName": "ElliesAIO.dll",
@@ -872,7 +872,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1686825030,
+		"updateTime": 1686839424,
 		"supported": [
 			17,
 			32,
@@ -886,7 +886,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1686825030,
+		"updateTime": 1686839424,
 		"plugin_type": 0
 	},
 	{
@@ -908,7 +908,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1686825030,
+		"updateTime": 1686839424,
 		"supported": [
 			30,
 			11,
