@@ -242,9 +242,10 @@
 			60,
 			121,
 			29,
-			202
+			202,
+			103
 		],
-		"updateTime": 1686917809
+		"updateTime": 1687022188
 	},
 	{
 		"fileName": "EuphoriaAIO.dll",
@@ -873,7 +874,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1687014023,
+		"updateTime": 1687023022,
 		"supported": [
 			17,
 			32,
@@ -887,7 +888,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1687014023,
+		"updateTime": 1687023022,
 		"plugin_type": 0
 	},
 	{
@@ -909,7 +910,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1687014023,
+		"updateTime": 1687023022,
 		"supported": [
 			30,
 			11,
