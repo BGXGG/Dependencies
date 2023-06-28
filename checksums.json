@@ -1,7 +1,7 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "205ef89df6bdb20f78c369b34acfb275"
+			"core_plugin.dll": "7d380ae57d756d7348514f3405ca9eaa"
 		},
 		"x86": {
 			"core_plugin.dll": "6386e6645349d5761014a0c0a1158f0a"
@@ -40,8 +40,8 @@
 			"CSXAIO.dll.json": "7ebfad8d4fa873df80063628536a1d0b",
 			"DivineSeries.dll": "778819bf5cf942502e8c636628263087",
 			"DivineSeries.dll.json": "7d99b93cbc7a2c9c53800a6dc139e694",
-			"DynastyOrbwalker.dll": "f8d99d62532e5a4c5528b38d933f3ef5",
-			"DynastyOrbwalker.dll.json": "ba330833353179c6a40081a399dcde5d",
+			"DynastyOrbwalker.dll": "2d381297f2bcd0a549177ffff3c53b39",
+			"DynastyOrbwalker.dll.json": "2276d1574a8179d35bcc64ccba21c778",
 			"ElliesAIO.dll": "dc5273e2f23d0641efa6fbc93258aa30",
 			"ElliesAIO.dll.json": "5f55c45ac8e32a869d038726d459f5ae",
 			"EuphoriaAIO.dll": "9bb8de8685876c84d9b6a90017f96e53",
@@ -102,8 +102,8 @@
 			"TaiwanAIO.dll.json": "f9d217d5ac412a6c6408f12d08877a75",
 			"TrueDamageAIO.dll": "5a799d7cc2fd98a53c4099e0bf299d4c",
 			"TrueDamageAIO.dll.json": "614e177240c78385dbb4f83c0ac22d71",
-			"Utility.dll": "281f3cb8ca6e99bb6adc596a70a12291",
-			"Utility.dll.json": "1b7ebdb28380ab93f777e2ce1f7379ff",
+			"Utility.dll": "843915fa865c7fb2ca24f50c557705a5",
+			"Utility.dll.json": "2d10849eea9cda24cea8877861dd433f",
 			"YordleAIO.dll": "180dfcc7a39c00993544ad74596bcad4",
 			"YordleAIO.dll.json": "411eb91070e157261e8d1e83586094e2",
 			"YuumiBot.dll": "e32cde1d7a3779026309c7badf1e1481",
