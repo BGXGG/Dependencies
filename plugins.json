@@ -32,7 +32,7 @@
 		"fileName": "AuroraEvade.dll",
 		"name": "[AURORA] Evade",
 		"plugin_type": 0,
-		"updateTime": 1688055680
+		"updateTime": 1688407152
 	},
 	{
 		"fileName": "AuroraOrbwalker.dll",
@@ -108,7 +108,7 @@
 		"fileName": "BGXEvade.dll",
 		"name": "Evade",
 		"plugin_type": 0,
-		"updateTime": 1688037001
+		"updateTime": 1688406114
 	},
 	{
 		"fileName": "BanthorsAIO.dll",
@@ -208,7 +208,7 @@
 			99,
 			33
 		],
-		"updateTime": 1686568036
+		"updateTime": 1688407167
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -250,9 +250,11 @@
 			53,
 			119,
 			4,
-			412
+			412,
+			163,
+			5
 		],
-		"updateTime": 1688223673
+		"updateTime": 1688407118
 	},
 	{
 		"fileName": "EuphoriaAIO.dll",
@@ -617,13 +619,13 @@
 			157,
 			777
 		],
-		"updateTime": 1687975218
+		"updateTime": 1688405856
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
 		"name": "ShadowTargetSelector",
 		"plugin_type": 3,
-		"updateTime": 1686764472
+		"updateTime": 1688407115
 	},
 	{
 		"fileName": "SkinwalkerAIO.dll",
@@ -680,7 +682,7 @@
 		"fileName": "Utility.dll",
 		"name": "EUtility",
 		"plugin_type": 0,
-		"updateTime": 1687964579
+		"updateTime": 1688406118
 	},
 	{
 		"fileName": "YordleAIO.dll",
@@ -891,7 +893,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1688225426,
+		"updateTime": 1688407230,
 		"supported": [
 			17,
 			32,
@@ -905,7 +907,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1688225426,
+		"updateTime": 1688407230,
 		"plugin_type": 0
 	},
 	{
@@ -927,7 +929,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1688225426,
+		"updateTime": 1688407230,
 		"supported": [
 			30,
 			11,
