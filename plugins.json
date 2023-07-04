@@ -576,7 +576,7 @@
 			350,
 			74
 		],
-		"updateTime": 1685020877
+		"updateTime": 1688479329
 	},
 	{
 		"fileName": "SebasPrediction.dll",
@@ -893,7 +893,7 @@
 	{
 		"name": "XaxupAIO",
 		"fileName": "XaxupAIO.dll",
-		"updateTime": 1688464833,
+		"updateTime": 1688481030,
 		"supported": [
 			17,
 			32,
@@ -907,7 +907,7 @@
 	{
 		"name": "Xaxup Chat Utility",
 		"fileName": "XaxupChatUtility.dll",
-		"updateTime": 1688464833,
+		"updateTime": 1688481030,
 		"plugin_type": 0
 	},
 	{
@@ -929,7 +929,7 @@
 	{
 		"name": "BBC ZEK CARRY",
 		"fileName": "ZekCarry.dll",
-		"updateTime": 1688464833,
+		"updateTime": 1688481030,
 		"supported": [
 			30,
 			11,
