@@ -669,14 +669,6 @@
 		"updateTime": 1688406118
 	},
 	{
-		"fileName": "YordleAIO.dll",
-		"name": "Yordle AIO",
-		"supported": [
-			45
-		],
-		"updateTime": 1680282410
-	},
-	{
 		"fileName": "YuumiBot.dll",
 		"name": "Yummi BOT",
 		"plugin_type": 1,
