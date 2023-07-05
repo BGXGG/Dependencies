@@ -276,14 +276,6 @@
 		"updateTime": 1680283730
 	},
 	{
-		"fileName": "HabibiAIO.dll",
-		"name": "HabibiAIO",
-		"supported": [
-			131
-		],
-		"updateTime": 1680283081
-	},
-	{
 		"fileName": "IcarusAIO.dll",
 		"name": "IcarusAIO",
 		"supported": [
