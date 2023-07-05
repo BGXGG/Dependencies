@@ -655,14 +655,6 @@
 		"updateTime": 1680282424
 	},
 	{
-		"fileName": "TaiwanAIO.dll",
-		"name": "Taiwan AIO",
-		"supported": [
-			55
-		],
-		"updateTime": 1680282362
-	},
-	{
 		"fileName": "Utility.dll",
 		"name": "EUtility",
 		"plugin_type": 0,
