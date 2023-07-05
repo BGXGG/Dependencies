@@ -671,14 +671,6 @@
 		"updateTime": 1680282362
 	},
 	{
-		"fileName": "TrueDamageAIO.dll",
-		"name": "TrueDamage AIO",
-		"supported": [
-			32
-		],
-		"updateTime": 1680283022
-	},
-	{
 		"fileName": "Utility.dll",
 		"name": "EUtility",
 		"plugin_type": 0,
