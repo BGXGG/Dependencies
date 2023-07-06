@@ -1,7 +1,7 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "41eac310bb12921787ab7951dfd26124"
+			"core_plugin.dll": "fe1aca5c89314989bd3792f8041ce0d6"
 		}
 	},
 	"lib": {
@@ -21,8 +21,8 @@
 			"AuroraPrediction.dll.json": "ac1147e876b557392e84feb5ce360847",
 			"BGX.dll": "af02b55552cf31ae0d6f62d387dce9c1",
 			"BGX.dll.json": "8a50475eab81f33bc2dd878afa86a83c",
-			"BGXEvade.dll": "22bfe9d3c7c6bf55e46200b7f462b7a1",
-			"BGXEvade.dll.json": "d5d119fba349e1a1334e7d67da1fc0f1",
+			"BGXEvade.dll": "4168dc09abce1bab1f7943111f9a4a6f",
+			"BGXEvade.dll.json": "67519f664df99ff3af21d7b612ba93ce",
 			"BanthorsAIO.dll": "e57260b267a3ec5fed75985e0e9ab505",
 			"BanthorsAIO.dll.json": "440b889d1d03250c98bc4317ecf38f88",
 			"BenAIO.dll": "9fa6237f92a6f8e52c19c948b84427fc",
@@ -49,8 +49,8 @@
 			"IcarusAIO.dll.json": "8a4bcfa471476f40200c4f320c83fb1e",
 			"ImpulsePrediction.dll": "3f09a651b07c8cc506249f3455c9ca62",
 			"ImpulsePrediction.dll.json": "83058bc23a62d9a2ceb20b9feb30d5f9",
-			"KiriAIO.dll": "e36071c58f15c09e85b6e4eeccd5fdd6",
-			"KiriAIO.dll.json": "dd1fcf74b80c95f7bcea783eaff679ee",
+			"KiriAIO.dll": "e52738b859f0a5c1ba9d9afa65dab15b",
+			"KiriAIO.dll.json": "7cb38440804b237e48c7f1c0837d994e",
 			"KissMyAIO.dll": "12601e9f572a872202af1d50a22a1c91",
 			"KissMyAIO.dll.json": "8f7c19a62cedeab671fbc9ca228a2357",
 			"KleeAIO.dll": "2fe0228dad41e26b2eebd78d84963f7d",
@@ -67,8 +67,8 @@
 			"LordsPred.dll.json": "756279eebf454a0371f945997b4149a8",
 			"LotusAIO.dll": "ec00fc8ed27ff38a97178b4d7537be90",
 			"LotusAIO.dll.json": "1b1dcff354330794c168677bde11ac6a",
-			"Marksman.dll": "f391e8a626ce3989c614aa0e8f57ed55",
-			"Marksman.dll.json": "f94aa0075ef46af158668acc06120668",
+			"Marksman.dll": "96410ecfee87151b143a64c72685a4e0",
+			"Marksman.dll.json": "6b47c3c811408d9310c6035a0805da71",
 			"MidlaneCarry.dll": "9ea3c58dffad49a0ffc48111014236ca",
 			"MidlaneCarry.dll.json": "c7a641b26f1cf480491d1212d2efc574",
 			"OHAIO.dll": "553c97304a4aa0ccd91f134d9b0012d1",
@@ -93,8 +93,8 @@
 			"SkinwalkerAIO.dll.json": "7be93cc1bbeac61cc355c19f542f3206",
 			"SmartPings.dll": "b060952ad7750210d659324ebe2c54b9",
 			"SmartPings.dll.json": "10d174db0b8b7cc1b70c5d369faea5e7",
-			"Utility.dll": "485e20e4935f2197e61519b305090dcf",
-			"Utility.dll.json": "c798e14c04c68931890a68843d612779",
+			"Utility.dll": "fa325ec7a67f588576067105baa70e44",
+			"Utility.dll.json": "2a7a7240f64e2578dbb4754756dbb975",
 			"YuumiBot.dll": "e32cde1d7a3779026309c7badf1e1481",
 			"YuumiBot.dll.json": "0a17312e00f83f4f67c24e04d7d80f90",
 			"ZiraPack.dll": "2caf6f0176e6e2437be193de488174fd",

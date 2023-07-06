@@ -108,7 +108,7 @@
 		"fileName": "BGXEvade.dll",
 		"name": "Evade",
 		"plugin_type": 0,
-		"updateTime": 1688406114
+		"updateTime": 1688671438
 	},
 	{
 		"fileName": "BanthorsAIO.dll",
@@ -310,7 +310,7 @@
 			110,
 			498
 		],
-		"updateTime": 1688552296
+		"updateTime": 1688671467
 	},
 	{
 		"fileName": "KissMyAIO.dll",
@@ -479,7 +479,7 @@
 			360,
 			221
 		],
-		"updateTime": 1685276620
+		"updateTime": 1688671445
 	},
 	{
 		"fileName": "MidlaneCarry.dll",
@@ -658,7 +658,7 @@
 		"fileName": "Utility.dll",
 		"name": "EUtility",
 		"plugin_type": 0,
-		"updateTime": 1688406118
+		"updateTime": 1688671451
 	},
 	{
 		"fileName": "YuumiBot.dll",
