@@ -259,7 +259,7 @@
 			75,
 			48
 		],
-		"updateTime": 1688847576
+		"updateTime": 1688907979
 	},
 	{
 		"fileName": "EuphoriaAIO.dll",
@@ -313,9 +313,10 @@
 			69,
 			15,
 			110,
-			498
+			498,
+			80
 		],
-		"updateTime": 1688671467
+		"updateTime": 1688907968
 	},
 	{
 		"fileName": "KissMyAIO.dll",
