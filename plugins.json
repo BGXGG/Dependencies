@@ -32,7 +32,7 @@
 		"fileName": "AuroraEvade.dll",
 		"name": "[AURORA] Evade",
 		"plugin_type": 0,
-		"updateTime": 1688463959
+		"updateTime": 1689434347
 	},
 	{
 		"fileName": "AuroraOrbwalker.dll",
@@ -354,9 +354,12 @@
 			498,
 			350,
 			34,
-			24
+			24,
+			895,
+			85,
+			240
 		],
-		"updateTime": 1685914460
+		"updateTime": 1689434408
 	},
 	{
 		"fileName": "KleeUtility.dll",
@@ -617,7 +620,7 @@
 			157,
 			777
 		],
-		"updateTime": 1689363124
+		"updateTime": 1689434317
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
