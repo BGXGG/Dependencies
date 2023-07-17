@@ -257,9 +257,10 @@
 			101,
 			17,
 			75,
-			48
+			48,
+			157
 		],
-		"updateTime": 1688907979
+		"updateTime": 1689615440
 	},
 	{
 		"fileName": "EuphoriaAIO.dll",
@@ -316,7 +317,7 @@
 			498,
 			80
 		],
-		"updateTime": 1689363165
+		"updateTime": 1689615756
 	},
 	{
 		"fileName": "KissMyAIO.dll",
@@ -359,7 +360,7 @@
 			85,
 			240
 		],
-		"updateTime": 1689434408
+		"updateTime": 1689615706
 	},
 	{
 		"fileName": "KleeUtility.dll",
