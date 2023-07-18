@@ -157,7 +157,7 @@
 			523,
 			18
 		],
-		"updateTime": 1688737095
+		"updateTime": 1689716413
 	},
 	{
 		"fileName": "BlackOutActivator.dll",
@@ -206,9 +206,10 @@
 			115,
 			104,
 			99,
-			33
+			33,
+			234
 		],
-		"updateTime": 1689246512
+		"updateTime": 1689716577
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -253,6 +254,7 @@
 			412,
 			163,
 			5,
+			234,
 			59,
 			101,
 			17,
@@ -260,7 +262,7 @@
 			48,
 			157
 		],
-		"updateTime": 1689615440
+		"updateTime": 1689716324
 	},
 	{
 		"fileName": "EuphoriaAIO.dll",
@@ -317,7 +319,7 @@
 			498,
 			80
 		],
-		"updateTime": 1689615756
+		"updateTime": 1689716582
 	},
 	{
 		"fileName": "KissMyAIO.dll",
@@ -621,7 +623,7 @@
 			157,
 			777
 		],
-		"updateTime": 1689434317
+		"updateTime": 1689716635
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
