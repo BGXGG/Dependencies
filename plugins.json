@@ -44,7 +44,7 @@
 		"fileName": "AuroraPrediction.dll",
 		"name": "[AURORA] Prediction",
 		"plugin_type": 3,
-		"updateTime": 1689846056
+		"updateTime": 1689871885
 	},
 	{
 		"fileName": "BGX.dll",
@@ -448,13 +448,13 @@
 			63,
 			101
 		],
-		"updateTime": 1688463334
+		"updateTime": 1689871977
 	},
 	{
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1688139535
+		"updateTime": 1689871913
 	},
 	{
 		"fileName": "PentaAIO.dll",
@@ -747,9 +747,10 @@
 			29,
 			498,
 			236,
-			412
+			412,
+			53
 		],
-		"updateTime": 1686686170
+		"updateTime": 1689871881
 	},
 	{
 		"fileName": "solaceOrb.dll",
