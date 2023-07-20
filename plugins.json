@@ -44,7 +44,7 @@
 		"fileName": "AuroraPrediction.dll",
 		"name": "[AURORA] Prediction",
 		"plugin_type": 3,
-		"updateTime": 1689799163
+		"updateTime": 1689846056
 	},
 	{
 		"fileName": "BGX.dll",
@@ -102,13 +102,13 @@
 			126,
 			60
 		],
-		"updateTime": 1685276594
+		"updateTime": 1689845630
 	},
 	{
 		"fileName": "BGXEvade.dll",
 		"name": "Evade",
 		"plugin_type": 0,
-		"updateTime": 1688671438
+		"updateTime": 1689845638
 	},
 	{
 		"fileName": "BanthorsAIO.dll",
@@ -262,7 +262,7 @@
 			48,
 			157
 		],
-		"updateTime": 1689716324
+		"updateTime": 1689845851
 	},
 	{
 		"fileName": "EuphoriaAIO.dll",
@@ -544,6 +544,66 @@
 		"updateTime": 1687975221
 	},
 	{
+		"fileName": "RTXPOWER.dll",
+		"name": "RTX POWER",
+		"plugin_type": 1,
+		"supported": [
+			157,
+			114,
+			39,
+			64,
+			777,
+			121,
+			147,
+			143,
+			14,
+			40,
+			117,
+			16,
+			43,
+			25,
+			26,
+			267,
+			37,
+			44,
+			497,
+			201,
+			12,
+			89,
+			111,
+			432,
+			526,
+			22,
+			51,
+			42,
+			119,
+			81,
+			202,
+			222,
+			145,
+			429,
+			96,
+			236,
+			21,
+			133,
+			360,
+			15,
+			18,
+			29,
+			110,
+			67,
+			498,
+			221,
+			1,
+			268,
+			69,
+			61,
+			13,
+			134
+		],
+		"updateTime": 1689845653
+	},
+	{
 		"fileName": "RageAIO.dll",
 		"name": "RageAIO",
 		"supported": [
@@ -670,7 +730,7 @@
 		"fileName": "Utility.dll",
 		"name": "EUtility",
 		"plugin_type": 0,
-		"updateTime": 1688671451
+		"updateTime": 1689845658
 	},
 	{
 		"fileName": "YuumiBot.dll",
@@ -679,7 +739,7 @@
 		"supported": [
 			350
 		],
-		"updateTime": 1685276633
+		"updateTime": 1689845663
 	},
 	{
 		"fileName": "ZiraPack.dll",
@@ -720,7 +780,7 @@
 			72,
 			77
 		],
-		"updateTime": 1685276645
+		"updateTime": 1689845674
 	},
 	{
 		"fileName": "ZzihaoAIO.dll",
