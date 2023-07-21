@@ -260,9 +260,10 @@
 			17,
 			75,
 			48,
-			157
+			157,
+			950
 		],
-		"updateTime": 1689845851
+		"updateTime": 1689973496
 	},
 	{
 		"fileName": "EuphoriaAIO.dll",
@@ -454,7 +455,7 @@
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1689871913
+		"updateTime": 1689973618
 	},
 	{
 		"fileName": "PentaAIO.dll",
