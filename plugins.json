@@ -44,7 +44,7 @@
 		"fileName": "AuroraPrediction.dll",
 		"name": "[AURORA] Prediction",
 		"plugin_type": 3,
-		"updateTime": 1689882569
+		"updateTime": 1689945631
 	},
 	{
 		"fileName": "BGX.dll",
@@ -209,7 +209,7 @@
 			33,
 			234
 		],
-		"updateTime": 1689716577
+		"updateTime": 1689945722
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -448,7 +448,7 @@
 			63,
 			101
 		],
-		"updateTime": 1689871977
+		"updateTime": 1689945527
 	},
 	{
 		"fileName": "OpenUtilities.dll",
@@ -750,7 +750,7 @@
 			412,
 			53
 		],
-		"updateTime": 1689936531
+		"updateTime": 1689945555
 	},
 	{
 		"fileName": "solaceOrb.dll",
