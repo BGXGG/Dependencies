@@ -32,7 +32,7 @@
 		"fileName": "AuroraEvade.dll",
 		"name": "[AURORA] Evade",
 		"plugin_type": 0,
-		"updateTime": 1689796678
+		"updateTime": 1690151272
 	},
 	{
 		"fileName": "AuroraOrbwalker.dll",
@@ -449,13 +449,13 @@
 			63,
 			101
 		],
-		"updateTime": 1689945527
+		"updateTime": 1690149768
 	},
 	{
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1689973618
+		"updateTime": 1690149711
 	},
 	{
 		"fileName": "PentaAIO.dll",
