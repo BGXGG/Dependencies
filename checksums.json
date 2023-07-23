@@ -1,7 +1,7 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "75f3769777faea28e9f95286ff0ea077"
+			"core_plugin.dll": "973d74a4e28e6bc089041e6ecc75000d"
 		}
 	},
 	"lib": {
@@ -89,8 +89,8 @@
 			"SkinwalkerAIO.dll.json": "7be93cc1bbeac61cc355c19f542f3206",
 			"SmartPings.dll": "b060952ad7750210d659324ebe2c54b9",
 			"SmartPings.dll.json": "10d174db0b8b7cc1b70c5d369faea5e7",
-			"Utility.dll": "5709382a7b37b9a8183abaee2e7953bd",
-			"Utility.dll.json": "57e1ba8b216df61041b9e552caf079ba",
+			"Utility.dll": "738083be4b8bfacfbb7b42cc003b832e",
+			"Utility.dll.json": "faea296d54e3c0aad0c1721f7d114b29",
 			"YuumiBot.dll": "ecbeadbe1a01d0876f76d6ed19dba50c",
 			"YuumiBot.dll.json": "a53764fea86b2ca79152ef2af69896d7",
 			"ZiraPack.dll": "a592b79e0e2c6f0996a322868d59d569",
