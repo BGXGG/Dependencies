@@ -44,7 +44,7 @@
 		"fileName": "AuroraPrediction.dll",
 		"name": "[AURORA] Prediction",
 		"plugin_type": 3,
-		"updateTime": 1690152551
+		"updateTime": 1690198952
 	},
 	{
 		"fileName": "BGX.dll",
@@ -320,7 +320,7 @@
 			498,
 			80
 		],
-		"updateTime": 1689716582
+		"updateTime": 1690199072
 	},
 	{
 		"fileName": "KissMyAIO.dll",
@@ -363,13 +363,13 @@
 			85,
 			240
 		],
-		"updateTime": 1690152671
+		"updateTime": 1690199064
 	},
 	{
 		"fileName": "KleeUtility.dll",
 		"name": "[Lune & Klee] Utils",
 		"plugin_type": 0,
-		"updateTime": 1686604229
+		"updateTime": 1690198908
 	},
 	{
 		"fileName": "L9AIO.dll",
