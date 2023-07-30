@@ -155,9 +155,10 @@
 			131,
 			36,
 			523,
-			18
+			18,
+			2
 		],
-		"updateTime": 1690408446
+		"updateTime": 1690732459
 	},
 	{
 		"fileName": "BlackOutActivator.dll",
@@ -320,7 +321,7 @@
 			498,
 			80
 		],
-		"updateTime": 1690562940
+		"updateTime": 1690732490
 	},
 	{
 		"fileName": "KissMyAIO.dll",
@@ -449,7 +450,7 @@
 			63,
 			101
 		],
-		"updateTime": 1690562900
+		"updateTime": 1690732327
 	},
 	{
 		"fileName": "OpenUtilities.dll",
@@ -608,7 +609,7 @@
 			157,
 			777
 		],
-		"updateTime": 1690562984
+		"updateTime": 1690732513
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
