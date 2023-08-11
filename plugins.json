@@ -32,7 +32,7 @@
 		"fileName": "AuroraEvade.dll",
 		"name": "[AURORA] Evade",
 		"plugin_type": 0,
-		"updateTime": 1690562870
+		"updateTime": 1691768266
 	},
 	{
 		"fileName": "AuroraOrbwalker.dll",
@@ -159,7 +159,7 @@
 			2,
 			145
 		],
-		"updateTime": 1691685416
+		"updateTime": 1691767811
 	},
 	{
 		"fileName": "BlackOutActivator.dll",
@@ -323,7 +323,7 @@
 			80,
 			34
 		],
-		"updateTime": 1691685301
+		"updateTime": 1691767838
 	},
 	{
 		"fileName": "KissMyAIO.dll",
@@ -458,7 +458,7 @@
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1690562869
+		"updateTime": 1691767802
 	},
 	{
 		"fileName": "PentaAIO.dll",
@@ -611,7 +611,7 @@
 			157,
 			777
 		],
-		"updateTime": 1691589920
+		"updateTime": 1691767866
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
