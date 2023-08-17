@@ -1,7 +1,7 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "e3545ff06a1bc767be713ca6fab1972f"
+			"core_plugin.dll": "fd2e568b2d2cfde0c23ce8fefd76bebe"
 		}
 	},
 	"lib": {
@@ -19,10 +19,10 @@
 			"AuroraOrbwalker.dll.json": "a5fc9033183da5182d42cc2704ba9073",
 			"AuroraPrediction.dll": "0185a8fa4173e048cdaaa231935df956",
 			"AuroraPrediction.dll.json": "c99761b1e5ec250cc299403859b42851",
-			"BGX.dll": "5a5e152800fed7c5254c2e9c14fd97d7",
-			"BGX.dll.json": "598241e64cdb57467c8eb6f6f6b647ec",
-			"BGXEvade.dll": "397ef2cd6604de163c554009e410990a",
-			"BGXEvade.dll.json": "71ddc58fd4164930d61342d663f73900",
+			"BGX.dll": "30cdbddda84ec42048d054e6bca3da5d",
+			"BGX.dll.json": "eb5596af9a31f0903ae272b26de5467e",
+			"BGXEvade.dll": "ed858be363fcd0e24ec062152fbda67d",
+			"BGXEvade.dll.json": "28eafc2e0c83473ef81bd208934e98e8",
 			"BanthorsAIO.dll": "e57260b267a3ec5fed75985e0e9ab505",
 			"BanthorsAIO.dll.json": "440b889d1d03250c98bc4317ecf38f88",
 			"BenAIO.dll": "9fa6237f92a6f8e52c19c948b84427fc",
@@ -73,8 +73,8 @@
 			"OpenUtilities.dll.json": "5a57918c62253ca416c2d96b912c4fb3",
 			"PentaAIO.dll": "89f74aede23b68ba5f67d7ac3daebab9",
 			"PentaAIO.dll.json": "8d9b5ff76130e3cd1fb68ad472f642a5",
-			"RTXPOWER.dll": "8902c79b1459e27c0899005e181184ae",
-			"RTXPOWER.dll.json": "848c5c8c6914df3099157ab61af48dd0",
+			"RTXPOWER.dll": "fa40fdb70243c90eb4a10c05d6ce93ff",
+			"RTXPOWER.dll.json": "7c807fa582eee4afb3422f8ef0457a26",
 			"RageAIO.dll": "39b5c308731a871d6150bb88f8e8e702",
 			"RageAIO.dll.json": "6e654eac35d2c529fa12e06506631445",
 			"SebasBGX.dll": "acfabe974f1bd91af14e629d5942f6f2",
@@ -85,12 +85,12 @@
 			"ShadowAIO.dll.json": "c3f6b9f4313f1d2dac054dfb8344ec56",
 			"ShadowTargetSelector.dll": "2c4892ab3c12940d52c220386506ac8c",
 			"ShadowTargetSelector.dll.json": "3da0d84d2b11c003d5aa0467c787cd59",
-			"Utility.dll": "be5665c206f40d051678d526f265caa0",
-			"Utility.dll.json": "b6ea6857a23c27f8676b41329edc40c5",
-			"YuumiBot.dll": "9a3a455f9b4795abf1d67069bc0dead2",
-			"YuumiBot.dll.json": "c09a1b5f700f7b9095480e6fb794b712",
-			"ZiraPack.dll": "ec65f195e9c7fa4aabfef57b670b33f9",
-			"ZiraPack.dll.json": "622ec49411161418d2f86d6ca8512802",
+			"Utility.dll": "dfa51c521fdd6431a3b3a784a26ad840",
+			"Utility.dll.json": "c20429edec98e68bd2bd56f55121e7af",
+			"YuumiBot.dll": "60402d805ee80700e53512dfd5231245",
+			"YuumiBot.dll.json": "c312aeeed56fc04ac86284a12e4e10be",
+			"ZiraPack.dll": "ff158877b94370cc90fd4d3a565975e2",
+			"ZiraPack.dll.json": "5f4255b1388de0cc04d5b195a776b6fb",
 			"ZzihaoAIO.dll": "ed4d0d06870fbebc39ee9e7abbf91017",
 			"ZzihaoAIO.dll.json": "d20ac57c93ef90672e920b8bc32c5bb7",
 			"entropy-aio.dll": "7c15c866fb28906e137db34909f75f20",
