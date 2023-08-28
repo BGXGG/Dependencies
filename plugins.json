@@ -213,7 +213,7 @@
 			92,
 			234
 		],
-		"updateTime": 1693226586
+		"updateTime": 1693247336
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -306,6 +306,12 @@
 			80
 		],
 		"updateTime": 1680283242
+	},
+	{
+		"fileName": "Klee-TS.dll",
+		"name": "Klee-TS",
+		"plugin_type": 3,
+		"updateTime": 1693247265
 	},
 	{
 		"fileName": "KleeAIO.dll",
