@@ -1,8 +1,8 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "255b4e7f695d24744ff2e6573b525a5a",
-			"core_plugin.dylib": "465f1af4b584a7c5a120142417669d3c"
+			"core_plugin.dll": "8988c8dffdbe6983f894e54cab0c85b8",
+			"core_plugin.dylib": "1be5d7d4cff8a0a40a986126ed60b753"
 		}
 	},
 	"lib": {
@@ -16,9 +16,9 @@
 			"AURORAAiO.dll": "55c574ac05ad268856c63702fa6412ca",
 			"AURORAAiO.dll.json": "165b3005508222bd7fb3f3baca50108f",
 			"AURORAAiO.dylib": "4f7082430a183d526ae08b7da3773cad",
-			"AuroraEvade.dll": "a1b36fa44b5103d0768b2ca5cb3e1114",
-			"AuroraEvade.dll.json": "60d90890ec66c3abc008afb896a66446",
-			"AuroraEvade.dylib": "d17b59a62f175cda50d44e374b9d3ec3",
+			"AuroraEvade.dll": "ee62b73ff422c3808c08b9d35ded9c52",
+			"AuroraEvade.dll.json": "a905ef8d3761c4475c8d5fdf96912a78",
+			"AuroraEvade.dylib": "2ab631ce3761def496ecbb1f5d641733",
 			"AuroraOrbwalker.dll": "a6282ef67d977318d9cb4f20a1fff30d",
 			"AuroraOrbwalker.dll.json": "a5fc9033183da5182d42cc2704ba9073",
 			"AuroraOrbwalker.dylib": "82b3479320fb3ee4e8c681679ef1d58e",
@@ -63,9 +63,9 @@
 			"IcarusAIO.dll": "57eecfa0eca3bc469631bb3c8fca7bff",
 			"IcarusAIO.dll.json": "8a4bcfa471476f40200c4f320c83fb1e",
 			"IcarusAIO.dylib": "013e2c72ae99ff5c46a11c0222739a38",
-			"ImpulsePrediction.dll": "5c30f4fb2482ee27c4740c41c3278cf0",
-			"ImpulsePrediction.dll.json": "1c954a5c78780a0fde636d2ae846458b",
-			"ImpulsePrediction.dylib": "fcc0a11e175573a587d4064b4bdb0a8c",
+			"ImpulsePrediction.dll": "91dbc042d0a444d16e93dc84bfbe1abb",
+			"ImpulsePrediction.dll.json": "470accae8a211e1fff9a5f01f3b834b6",
+			"ImpulsePrediction.dylib": "fc2fcd2dc2a95b9f0050d8eba9cede12",
 			"KiriAIO.dll": "7fbf59ccbaeaeb89ed2af29378fc442e",
 			"KiriAIO.dll.json": "bf951b52ce27dfb853afcac6bbff9a9d",
 			"KiriAIO.dylib": "7dd8648873edcddb1ebd7aedfff6f515",
@@ -94,12 +94,12 @@
 			"LotusAIO.dylib": "0f50ed97c32bb0cdfbce03409811a994",
 			"OHAIO.dll": "553c97304a4aa0ccd91f134d9b0012d1",
 			"OHAIO.dll.json": "1c148df3cc553a83bc148bbc8ac54848",
-			"OpenSeries.dll": "112ffca7cbe5b0b6dd507103b1a18075",
-			"OpenSeries.dll.json": "9053e28e9c311266e0fc376207be41ce",
-			"OpenSeries.dylib": "b0af5e95e2d3cfeb0cd921871e9b3f7f",
-			"OpenUtilities.dll": "24319d51edb9318b28a72c87635fc665",
-			"OpenUtilities.dll.json": "d31e9143646777c18ecf3e3afa18ef52",
-			"OpenUtilities.dylib": "fdcea373dcb1ffaaa54eaaa237af45f1",
+			"OpenSeries.dll": "089a6fa3183acb1c778c7f464a70f8d4",
+			"OpenSeries.dll.json": "dd6d274686674f8784e19135b7036329",
+			"OpenSeries.dylib": "a87ded698150b8c13530d397a6428f1d",
+			"OpenUtilities.dll": "d6ec197b1642a5b5af3ba1689ae69bb0",
+			"OpenUtilities.dll.json": "c9c8b7b1b944ad7ac6c8e51a7bf92566",
+			"OpenUtilities.dylib": "1c88c37344690fc4f48ba3d8ad03e1ca",
 			"PentaAIO.dll": "89f74aede23b68ba5f67d7ac3daebab9",
 			"PentaAIO.dll.json": "8d9b5ff76130e3cd1fb68ad472f642a5",
 			"PentaAIO.dylib": "16e6a103171f16ac5cf0fc1dcbaf47b7",
@@ -143,9 +143,9 @@
 			"xDreammsAIO.dll": "8e68475bd23da36e241210c80cb7f71b",
 			"xDreammsAIO.dll.json": "16b9fb3d9e84125d2e8faff3e3d0cf63",
 			"xDreammsAIO.dylib": "304842552e13d36544635e33d785f220",
-			"xDreammsUtility.dll": "f450d526b1142a80321a5d8a657384d7",
-			"xDreammsUtility.dll.json": "102a199fb18342b0b9e6a8694c34ce5e",
-			"xDreammsUtility.dylib": "4c074c8e281c923451747e7fe80c7404",
+			"xDreammsUtility.dll": "76aa67c9663992ae952e5b0711984d1e",
+			"xDreammsUtility.dll.json": "47ec3442d1f8a68aa10aa0c147d2c169",
+			"xDreammsUtility.dylib": "b5f162c582ef39eb24feec46ee9e4c9f",
 			"xKittyAIO.dll": "93af545408a1e0a95d80895a514c7439",
 			"xKittyAIO.dll.json": "e85e3ba616b77883978657fb41c84ad3",
 			"xKittyAIO.dylib": "620699fe3bea22deab1486874072d373"
