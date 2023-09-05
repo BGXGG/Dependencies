@@ -230,6 +230,14 @@
 		"updateTime": 1692358522
 	},
 	{
+		"fileName": "ElderAIO.dll",
+		"name": "ElderAIO",
+		"supported": [
+			8
+		],
+		"updateTime": 1693929697
+	},
+	{
 		"fileName": "ElliesAIO.dll",
 		"name": "ellie's AIO",
 		"plugin_type": 1,
@@ -778,7 +786,7 @@
 			14,
 			104
 		],
-		"updateTime": 1691241007
+		"updateTime": 1693929815
 	},
 	{
 		"fileName": "xDreammsUtility.dll",
