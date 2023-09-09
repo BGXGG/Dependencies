@@ -235,7 +235,7 @@
 		"supported": [
 			8
 		],
-		"updateTime": 1694177314
+		"updateTime": 1694275470
 	},
 	{
 		"fileName": "ElliesAIO.dll",
@@ -302,7 +302,7 @@
 			80,
 			34
 		],
-		"updateTime": 1693998088
+		"updateTime": 1694275505
 	},
 	{
 		"fileName": "KissMyAIO.dll",
@@ -319,7 +319,7 @@
 		"fileName": "Klee-TS.dll",
 		"name": "Klee-TS",
 		"plugin_type": 3,
-		"updateTime": 1693997961
+		"updateTime": 1694275542
 	},
 	{
 		"fileName": "KleeAIO.dll",
