@@ -108,7 +108,7 @@
 		"fileName": "BGXEvade.dll",
 		"name": "Evade",
 		"plugin_type": 0,
-		"updateTime": 1694706557
+		"updateTime": 1694810535
 	},
 	{
 		"fileName": "BanthorsAIO.dll",
@@ -385,7 +385,7 @@
 			48,
 			86
 		],
-		"updateTime": 1694729996
+		"updateTime": 1694810577
 	},
 	{
 		"fileName": "KleeUtility.dll",
@@ -587,7 +587,7 @@
 			350,
 			74
 		],
-		"updateTime": 1693333296
+		"updateTime": 1694810567
 	},
 	{
 		"fileName": "SebasPrediction.dll",
