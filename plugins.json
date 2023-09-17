@@ -32,7 +32,7 @@
 		"fileName": "AuroraEvade.dll",
 		"name": "[AURORA] Evade",
 		"plugin_type": 0,
-		"updateTime": 1693926866
+		"updateTime": 1694981822
 	},
 	{
 		"fileName": "AuroraOrbwalker.dll",
@@ -385,7 +385,7 @@
 			48,
 			86
 		],
-		"updateTime": 1694810577
+		"updateTime": 1694982263
 	},
 	{
 		"fileName": "KleeUtility.dll",
@@ -488,7 +488,7 @@
 			3,
 			34
 		],
-		"updateTime": 1690221721
+		"updateTime": 1694982589
 	},
 	{
 		"fileName": "RTXPOWER.dll",
@@ -793,7 +793,7 @@
 		"fileName": "xDreammsUtility.dll",
 		"name": "xDreamms Utility | AutoShop",
 		"plugin_type": 0,
-		"updateTime": 1694783002
+		"updateTime": 1694982351
 	},
 	{
 		"fileName": "xKittyAIO.dll",
