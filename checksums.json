@@ -1,8 +1,8 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "db78f02b97eaddc36908890adbcf472b",
-			"core_plugin.dylib": "7af24a0bc04d73e8dbb3552ec06db085"
+			"core_plugin.dll": "a69189063a50d4453831aa15cc2d4447",
+			"core_plugin.dylib": "4e7e5a3e69327e6e9aa525931fb2b66a"
 		}
 	},
 	"lib": {
@@ -28,9 +28,9 @@
 			"BGX.dll": "2872e8007c0dd43075db2f79771dad18",
 			"BGX.dll.json": "82b5b2fd31c73cfaf34568a2d6e9bc55",
 			"BGX.dylib": "3af6488833e080720a469e10e955d61a",
-			"BGXEvade.dll": "a80b5598e2a6858c8c8ede9955aa3846",
-			"BGXEvade.dll.json": "28f98b2d3bedb9d53591509d1e3f16ab",
-			"BGXEvade.dylib": "06eef67a820ad04a7e43e46f00807a0f",
+			"BGXEvade.dll": "e5990deeed1ebf49839c794813e2e457",
+			"BGXEvade.dll.json": "264da1ae50b0aabe49af49500a471489",
+			"BGXEvade.dylib": "7393da56030779483a2671f2f5d9e335",
 			"BanthorsAIO.dll": "e57260b267a3ec5fed75985e0e9ab505",
 			"BanthorsAIO.dll.json": "440b889d1d03250c98bc4317ecf38f88",
 			"BanthorsAIO.dylib": "f4b04d4b2e8bcca40e2d68eefdccc368",
@@ -106,9 +106,9 @@
 			"PentaAIO.dll": "769db0f3540f6e3f7a531195eb9710f7",
 			"PentaAIO.dll.json": "4d29641bbdea61358e41a294b2f6a58b",
 			"PentaAIO.dylib": "724dca9b9786e152223b2fc44a457d94",
-			"RTXPOWER.dll": "2828d621a6182c362921f8c6d16f19a2",
-			"RTXPOWER.dll.json": "5536a9fd957e165cc3ffecee135596bf",
-			"RTXPOWER.dylib": "f420c0f87944bfb7971857e688886599",
+			"RTXPOWER.dll": "d68b7e7919893d2f2ff6104992f8e6ef",
+			"RTXPOWER.dll.json": "201c60f015cc08706a26a7e2a3a9e46f",
+			"RTXPOWER.dylib": "336d8c61b4967d0e66cbffd73cbf3232",
 			"RageAIO.dll": "39b5c308731a871d6150bb88f8e8e702",
 			"RageAIO.dll.json": "6e654eac35d2c529fa12e06506631445",
 			"RageAIO.dylib": "713321a374bf8651fdb0164c2e8227b0",
@@ -146,9 +146,9 @@
 			"xDreammsAIO.dll": "e57d7d342b1e1903e4dd217963580204",
 			"xDreammsAIO.dll.json": "fa1865db0eed9dac0ce112036a367802",
 			"xDreammsAIO.dylib": "acf9b5e2ec07d644ccbba7a18982f1f1",
-			"xDreammsUtility.dll": "6b7c40ca748614479ebcb9bc0b6a42a0",
-			"xDreammsUtility.dll.json": "0a395a49042b88feb4e1daadbcca4379",
-			"xDreammsUtility.dylib": "2d4816bd31c63b6c66aed09f78b766bc",
+			"xDreammsUtility.dll": "8b9bfc22b173b31a357f1974a59ee330",
+			"xDreammsUtility.dll.json": "c4a051901815f4046817c9b92c37e221",
+			"xDreammsUtility.dylib": "f495bcbc4f36ca1392ec753a1f63e955",
 			"xKittyAIO.dll": "93af545408a1e0a95d80895a514c7439",
 			"xKittyAIO.dll.json": "e85e3ba616b77883978657fb41c84ad3",
 			"xKittyAIO.dylib": "620699fe3bea22deab1486874072d373"
