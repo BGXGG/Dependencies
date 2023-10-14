@@ -1,8 +1,8 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "3cefc247a939d384bffbcbb6528c0534",
-			"core_plugin.dylib": "ab7816c3f3fccd133b7446af460d25ff"
+			"core_plugin.dll": "05d44bde0ff62624072d418dbac79aaf",
+			"core_plugin.dylib": "5ba0745a88abee09230032739aae46f0"
 		}
 	},
 	"lib": {
@@ -143,9 +143,9 @@
 			"relaxAIO.dylib": "ae629eb8ba6c4f691a8a16c9fe77e768",
 			"solaceOrb.dll": "823e89fcf0f1d36e86845445e3b3ada4",
 			"solaceOrb.dll.json": "04a207ef42453f591bd5c79424f0b274",
-			"xDreammsAIO.dll": "7977d0a1c1f6318ea53f280896c05722",
-			"xDreammsAIO.dll.json": "b1cb9ddbbcf9aa1c6aaed0512909be51",
-			"xDreammsAIO.dylib": "61533ff4c33e85986dda99f01f759dfe",
+			"xDreammsAIO.dll": "b02412ef6a2155046831f7a5670f22cf",
+			"xDreammsAIO.dll.json": "fa83916048ad25804300042fd66961b3",
+			"xDreammsAIO.dylib": "1ad713b91a40c516d9ae5e8771295210",
 			"xDreammsUtility.dll": "c2a81cf8b496b17c762e97011649204e",
 			"xDreammsUtility.dll.json": "1152f06c32258628fe4a63181b7e015f",
 			"xDreammsUtility.dylib": "4d95b8fa62fc9033f5706923ac031227",
