@@ -29,6 +29,12 @@
 		"updateTime": 1690292680
 	},
 	{
+		"fileName": "AiPrediction.dll",
+		"name": "AiPrediction",
+		"plugin_type": 3,
+		"updateTime": 1697706273
+	},
+	{
 		"fileName": "AuroraEvade.dll",
 		"name": "[AURORA] Evade",
 		"plugin_type": 0,
