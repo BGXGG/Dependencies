@@ -1,8 +1,8 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "05d44bde0ff62624072d418dbac79aaf",
-			"core_plugin.dylib": "5ba0745a88abee09230032739aae46f0"
+			"core_plugin.dll": "c97e241206d4b0bbe69881163f52980b",
+			"core_plugin.dylib": "c0c75a99eabb8ecb0de83bf87fcfbaac"
 		}
 	},
 	"lib": {
@@ -108,9 +108,9 @@
 			"PentaAIO.dll": "769db0f3540f6e3f7a531195eb9710f7",
 			"PentaAIO.dll.json": "4d29641bbdea61358e41a294b2f6a58b",
 			"PentaAIO.dylib": "724dca9b9786e152223b2fc44a457d94",
-			"RTXPOWER.dll": "30243ade5032122e426dc369e99ebcca",
-			"RTXPOWER.dll.json": "6a6fb420fac2b41f0574a16fd00ec7ef",
-			"RTXPOWER.dylib": "8136ac66118e18b6160be3e083b59493",
+			"RTXPOWER.dll": "3bdb17f4e39642c90c0c19cb15b4943b",
+			"RTXPOWER.dll.json": "f8318afdb709469105f810b2657e6d66",
+			"RTXPOWER.dylib": "4f46d78da847876932850692bbf78830",
 			"RageAIO.dll": "39b5c308731a871d6150bb88f8e8e702",
 			"RageAIO.dll.json": "6e654eac35d2c529fa12e06506631445",
 			"RageAIO.dylib": "713321a374bf8651fdb0164c2e8227b0",
@@ -126,9 +126,9 @@
 			"ShadowTargetSelector.dll": "ec909da33c06ecb5e6a57678ff439ce3",
 			"ShadowTargetSelector.dll.json": "27aea656da63a976623cc4567882498a",
 			"ShadowTargetSelector.dylib": "1698fb1f4cf1b574ba033aa964d6bc0e",
-			"Utility.dll": "e6f8640ac036e4573479cf0c172dad3e",
-			"Utility.dll.json": "1256298aa306120cccd75283d653bf1b",
-			"Utility.dylib": "c3375d98ec94e7df0b059cf4425772b2",
+			"Utility.dll": "f38f90cd22e91768edb9237463e9d76c",
+			"Utility.dll.json": "b37fe5f60d0597f700d8fca6abefb663",
+			"Utility.dylib": "ba152117b5961792d8e6f4e363928373",
 			"YuumiBot.dll": "cf8147557693d878b7af2f995251993f",
 			"YuumiBot.dll.json": "1857d63b57fbaac2266530d8d8616d37",
 			"YuumiBot.dylib": "b098f771330658be80b5ef0c75dd0241",
