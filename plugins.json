@@ -268,9 +268,10 @@
 		"name": "Excalibur",
 		"supported": [
 			110,
-			96
+			96,
+			222
 		],
-		"updateTime": 1698166019
+		"updateTime": 1698258435
 	},
 	{
 		"fileName": "IcarusAIO.dll",
@@ -309,7 +310,7 @@
 			80,
 			34
 		],
-		"updateTime": 1698232465
+		"updateTime": 1698257139
 	},
 	{
 		"fileName": "KissMyAIO.dll",
@@ -556,7 +557,7 @@
 			13,
 			134
 		],
-		"updateTime": 1698177669
+		"updateTime": 1698257078
 	},
 	{
 		"fileName": "RageAIO.dll",
