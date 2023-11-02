@@ -274,6 +274,12 @@
 		"updateTime": 1698590087
 	},
 	{
+		"fileName": "FerrisUtilities.dll",
+		"name": "FerrisAIO Utilities",
+		"plugin_type": 0,
+		"updateTime": 1698919628
+	},
+	{
 		"fileName": "IcarusAIO.dll",
 		"name": "IcarusAIO",
 		"supported": [
