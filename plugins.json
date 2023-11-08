@@ -269,9 +269,10 @@
 		"supported": [
 			110,
 			96,
-			222
+			222,
+			777
 		],
-		"updateTime": 1699191667
+		"updateTime": 1699447818
 	},
 	{
 		"fileName": "FerrisUtilities.dll",
