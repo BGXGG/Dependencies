@@ -29,6 +29,12 @@
 		"updateTime": 1690292680
 	},
 	{
+		"fileName": "AiPredV2.dll",
+		"name": "AiPred2",
+		"plugin_type": 3,
+		"updateTime": 1700245127
+	},
+	{
 		"fileName": "AiPrediction.dll",
 		"name": "AiPrediction",
 		"plugin_type": 3,
