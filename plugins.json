@@ -17,18 +17,6 @@
 		"updateTime": 1680281866
 	},
 	{
-		"fileName": "AURORAAiO.dll",
-		"name": "[AURORA] AIO",
-		"plugin_type": 1,
-		"supported": [
-			81,
-			61,
-			221,
-			350
-		],
-		"updateTime": 1690292680
-	},
-	{
 		"fileName": "AiPredV2.dll",
 		"name": "AiPred2",
 		"plugin_type": 3,
@@ -39,24 +27,6 @@
 		"name": "AiPrediction",
 		"plugin_type": 3,
 		"updateTime": 1699468500
-	},
-	{
-		"fileName": "AuroraEvade.dll",
-		"name": "[AURORA] Evade",
-		"plugin_type": 0,
-		"updateTime": 1694981822
-	},
-	{
-		"fileName": "AuroraOrbwalker.dll",
-		"name": "[AURORA] Orbwalker",
-		"plugin_type": 3,
-		"updateTime": 1682197870
-	},
-	{
-		"fileName": "AuroraPrediction.dll",
-		"name": "[AURORA] Prediction",
-		"plugin_type": 3,
-		"updateTime": 1690477405
 	},
 	{
 		"fileName": "BGX.dll",
