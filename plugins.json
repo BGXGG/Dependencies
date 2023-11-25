@@ -84,13 +84,13 @@
 			126,
 			60
 		],
-		"updateTime": 1694619069
+		"updateTime": 1700919227
 	},
 	{
 		"fileName": "BGXEvade.dll",
 		"name": "Evade",
 		"plugin_type": 0,
-		"updateTime": 1699440084
+		"updateTime": 1700919244
 	},
 	{
 		"fileName": "BanthorsAIO.dll",
@@ -141,13 +141,13 @@
 			2,
 			145
 		],
-		"updateTime": 1700775120
+		"updateTime": 1700919302
 	},
 	{
 		"fileName": "BlackOutActivator.dll",
 		"name": "[@BlackOut~]# Activator",
 		"plugin_type": 0,
-		"updateTime": 1700522428
+		"updateTime": 1700919389
 	},
 	{
 		"fileName": "BlahajAIO.dll",
@@ -377,7 +377,7 @@
 			48,
 			86
 		],
-		"updateTime": 1700472690
+		"updateTime": 1700919362
 	},
 	{
 		"fileName": "KleeUtility.dll",
@@ -540,7 +540,7 @@
 			13,
 			134
 		],
-		"updateTime": 1700090363
+		"updateTime": 1700919266
 	},
 	{
 		"fileName": "RageAIO.dll",
@@ -634,7 +634,7 @@
 		"fileName": "Utility.dll",
 		"name": "EUtility",
 		"plugin_type": 0,
-		"updateTime": 1697904877
+		"updateTime": 1700919285
 	},
 	{
 		"fileName": "YuumiBot.dll",
@@ -643,7 +643,7 @@
 		"supported": [
 			350
 		],
-		"updateTime": 1694619135
+		"updateTime": 1700919295
 	},
 	{
 		"fileName": "ZiraPack.dll",
@@ -684,7 +684,7 @@
 			72,
 			77
 		],
-		"updateTime": 1696507307
+		"updateTime": 1700919313
 	},
 	{
 		"fileName": "ZzihaoAIO.dll",
