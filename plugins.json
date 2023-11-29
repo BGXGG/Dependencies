@@ -17,10 +17,16 @@
 		"updateTime": 1680281866
 	},
 	{
-		"fileName": "AiPredV2.dll",
+		"fileName": "AiPred2DEMO.dll",
 		"name": "AiPred2DEMO",
 		"plugin_type": 3,
 		"updateTime": 1701198869
+	},
+	{
+		"fileName": "AiPredV2.dll",
+		"name": "AiPred2",
+		"plugin_type": 3,
+		"updateTime": 1701115255
 	},
 	{
 		"fileName": "AiPrediction.dll",
