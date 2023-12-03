@@ -147,7 +147,7 @@
 			2,
 			145
 		],
-		"updateTime": 1701423540
+		"updateTime": 1701627654
 	},
 	{
 		"fileName": "BlackOutActivator.dll",
@@ -628,13 +628,13 @@
 			157,
 			777
 		],
-		"updateTime": 1698606661
+		"updateTime": 1701627591
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
 		"name": "ShadowTargetSelector",
 		"plugin_type": 3,
-		"updateTime": 1696709922
+		"updateTime": 1701627541
 	},
 	{
 		"fileName": "Utility.dll",
