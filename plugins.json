@@ -90,13 +90,13 @@
 			126,
 			60
 		],
-		"updateTime": 1702039892
+		"updateTime": 1702046063
 	},
 	{
 		"fileName": "BGXEvade.dll",
 		"name": "Evade",
 		"plugin_type": 0,
-		"updateTime": 1702039913
+		"updateTime": 1702046080
 	},
 	{
 		"fileName": "BanthorsAIO.dll",
@@ -546,7 +546,7 @@
 			13,
 			134
 		],
-		"updateTime": 1702039936
+		"updateTime": 1702046101
 	},
 	{
 		"fileName": "RageAIO.dll",
@@ -640,7 +640,7 @@
 		"fileName": "Utility.dll",
 		"name": "EUtility",
 		"plugin_type": 0,
-		"updateTime": 1702039955
+		"updateTime": 1702046119
 	},
 	{
 		"fileName": "YuumiBot.dll",
@@ -649,7 +649,7 @@
 		"supported": [
 			350
 		],
-		"updateTime": 1702039965
+		"updateTime": 1702046128
 	},
 	{
 		"fileName": "ZiraPack.dll",
@@ -690,7 +690,7 @@
 			72,
 			77
 		],
-		"updateTime": 1702039981
+		"updateTime": 1702046144
 	},
 	{
 		"fileName": "ZzihaoAIO.dll",
