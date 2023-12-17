@@ -96,7 +96,7 @@
 		"fileName": "BGXEvade.dll",
 		"name": "Evade",
 		"plugin_type": 0,
-		"updateTime": 1702404636
+		"updateTime": 1702850463
 	},
 	{
 		"fileName": "BanthorsAIO.dll",
@@ -640,7 +640,7 @@
 		"fileName": "Utility.dll",
 		"name": "EUtility",
 		"plugin_type": 0,
-		"updateTime": 1702046119
+		"updateTime": 1702850474
 	},
 	{
 		"fileName": "YuumiBot.dll",
