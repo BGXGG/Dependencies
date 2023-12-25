@@ -90,7 +90,7 @@
 			126,
 			60
 		],
-		"updateTime": 1702046063
+		"updateTime": 1703495111
 	},
 	{
 		"fileName": "BGXEvade.dll",
@@ -420,9 +420,10 @@
 			81,
 			30,
 			429,
-			910
+			910,
+			238
 		],
-		"updateTime": 1703347067
+		"updateTime": 1703495297
 	},
 	{
 		"fileName": "L9Utility.dll",
