@@ -17,22 +17,10 @@
 		"updateTime": 1680281866
 	},
 	{
-		"fileName": "AiPred2DEMO.dll",
-		"name": "AiPred2DEMO",
-		"plugin_type": 3,
-		"updateTime": 1701448006
-	},
-	{
 		"fileName": "AiPredV2.dll",
 		"name": "AiPred2",
 		"plugin_type": 3,
-		"updateTime": 1704459181
-	},
-	{
-		"fileName": "AiPrediction.dll",
-		"name": "AiPrediction",
-		"plugin_type": 3,
-		"updateTime": 1699468500
+		"updateTime": 1704468128
 	},
 	{
 		"fileName": "BGX.dll",
