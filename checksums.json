@@ -1,8 +1,8 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "fccdf8aa55f0ddc424535d8d7b1c12fa",
-			"core_plugin.dylib": "805109dff20cbea218fcc5116cb4cd4a"
+			"core_plugin.dll": "131ee054d452d188279a732d8cef6931",
+			"core_plugin.dylib": "54532c950a29874beab4149826295267"
 		}
 	},
 	"lib": {
@@ -122,12 +122,12 @@
 			"Utility.dll": "302429cdf6a4f319c0d00b9fe68cc971",
 			"Utility.dll.json": "de76d4b981a37e527efb32902ea3d424",
 			"Utility.dylib": "ba63d1303adadaa2553a8662faa6a329",
-			"YuumiBot.dll": "eadab8ef7317a1f2cd23e99b98f85d6b",
-			"YuumiBot.dll.json": "b2973a4cf4b5366a8ee257c8e9c7d43e",
-			"YuumiBot.dylib": "6c27c14978d5bce1b2b79460ed9dbfdd",
-			"ZiraPack.dll": "8dbfb9c773f3a1db5324423caecd1d1a",
-			"ZiraPack.dll.json": "72ebe2b392287bae4436c9ecd5617405",
-			"ZiraPack.dylib": "0c9ae90c13434bc0a27525bc76b32490",
+			"YuumiBot.dll": "6baee2dc0319a9603b1e21f7ba12e8c0",
+			"YuumiBot.dll.json": "97f380b9182026799bac436abf5b47be",
+			"YuumiBot.dylib": "16a891e5522da064d60674c1762b0f88",
+			"ZiraPack.dll": "6ecf238ebb63aa74bab87c404f9f60cc",
+			"ZiraPack.dll.json": "c33811abb95496442b1323d032c477ec",
+			"ZiraPack.dylib": "2b34441eeb449ac48e2bc4f3d3c6d986",
 			"ZzihaoAIO.dll": "ed4d0d06870fbebc39ee9e7abbf91017",
 			"ZzihaoAIO.dll.json": "d20ac57c93ef90672e920b8bc32c5bb7",
 			"ZzihaoAIO.dylib": "2eca990602f52a6a88cd52f0468a3af1",
