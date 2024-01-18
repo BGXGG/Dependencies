@@ -191,7 +191,7 @@
 			53,
 			234
 		],
-		"updateTime": 1705503665
+		"updateTime": 1705611433
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -217,12 +217,70 @@
 	},
 	{
 		"fileName": "ElliesAIO.dll",
-		"name": "ellie's AIO",
+		"name": "LunaAIO",
 		"plugin_type": 1,
 		"supported": [
+			350,
+			235,
+			53,
+			40,
+			412,
+			112,
+			518,
+			134,
+			34,
+			103,
+			7,
+			950,
+			50,
+			163,
+			4,
+			45,
+			101,
+			157,
+			136,
+			64,
+			120,
+			11,
+			60,
+			28,
+			59,
+			121,
+			203,
+			234,
+			5,
+			233,
+			360,
+			18,
+			145,
+			523,
+			429,
+			236,
+			895,
+			119,
+			81,
+			202,
+			96,
+			21,
+			29,
+			222,
+			498,
+			266,
+			85,
+			240,
+			24,
+			41,
+			2,
+			82,
+			875,
+			164,
+			36,
+			75,
+			17,
+			48,
 			86
 		],
-		"updateTime": 1692605755
+		"updateTime": 1705611364
 	},
 	{
 		"fileName": "EuphoriaAIO.dll",
@@ -249,7 +307,7 @@
 		"fileName": "FerrisUtilities.dll",
 		"name": "FerrisAIO Utilities",
 		"plugin_type": 0,
-		"updateTime": 1705515006
+		"updateTime": 1705611554
 	},
 	{
 		"fileName": "IcarusAIO.dll",
@@ -619,7 +677,7 @@
 			157,
 			777
 		],
-		"updateTime": 1705421324
+		"updateTime": 1705611526
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
