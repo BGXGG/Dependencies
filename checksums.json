@@ -1,8 +1,8 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "131ee054d452d188279a732d8cef6931",
-			"core_plugin.dylib": "54532c950a29874beab4149826295267"
+			"core_plugin.dll": "52d467a81426e0b5e454da62d97d70d4",
+			"core_plugin.dylib": "120cd8f1b0940cf3aa908f056a07046f"
 		}
 	},
 	"lib": {
@@ -145,9 +145,9 @@
 			"xDreammsAIO.dll": "65338bd26e5f0d73f402dcf36db14d4e",
 			"xDreammsAIO.dll.json": "bf3cc8f93c712c78b91a9382292f2f3b",
 			"xDreammsAIO.dylib": "8996628ffc3c6eb5daffee00f80e8885",
-			"xDreammsUtility.dll": "1354f8d9275645979ae84db6e1aa9ab5",
-			"xDreammsUtility.dll.json": "c86ab6c9ce0aafdc2cb7b78d4c90ddc2",
-			"xDreammsUtility.dylib": "63295fc3beb65610be6bed6b729dcaa4",
+			"xDreammsUtility.dll": "262f741a38b2745ec8b67c56afb8892d",
+			"xDreammsUtility.dll.json": "2266492efcc952f9bfbeaa107f234273",
+			"xDreammsUtility.dylib": "11c363139cece9386da51347fad32b91",
 			"xKittyAIO.dll": "93af545408a1e0a95d80895a514c7439",
 			"xKittyAIO.dll.json": "e85e3ba616b77883978657fb41c84ad3",
 			"xKittyAIO.dylib": "620699fe3bea22deab1486874072d373"
