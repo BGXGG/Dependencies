@@ -308,7 +308,7 @@
 		"fileName": "FerrisUtilities.dll",
 		"name": "FerrisAIO Utilities",
 		"plugin_type": 0,
-		"updateTime": 1705611554
+		"updateTime": 1706191251
 	},
 	{
 		"fileName": "IcarusAIO.dll",
@@ -431,7 +431,7 @@
 			48,
 			86
 		],
-		"updateTime": 1705912850
+		"updateTime": 1706191407
 	},
 	{
 		"fileName": "KleeUtility.dll",
@@ -592,7 +592,7 @@
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1705052071
+		"updateTime": 1706191446
 	},
 	{
 		"fileName": "PentaAIO.dll",
@@ -745,7 +745,7 @@
 			157,
 			777
 		],
-		"updateTime": 1705912755
+		"updateTime": 1706191745
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
@@ -908,7 +908,7 @@
 		"fileName": "xDreammsUtility.dll",
 		"name": "xDreamms Utility | AutoShop",
 		"plugin_type": 0,
-		"updateTime": 1705421377
+		"updateTime": 1706191533
 	},
 	{
 		"fileName": "xKittyAIO.dll",
