@@ -141,7 +141,7 @@
 		"fileName": "BlackOutActivator.dll",
 		"name": "[@BlackOut~]# Activator",
 		"plugin_type": 0,
-		"updateTime": 1706563194
+		"updateTime": 1706695527
 	},
 	{
 		"fileName": "BlahajAIO.dll",
@@ -193,7 +193,7 @@
 			107,
 			234
 		],
-		"updateTime": 1706604888
+		"updateTime": 1706695526
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -309,7 +309,7 @@
 		"fileName": "FerrisUtilities.dll",
 		"name": "FerrisAIO Utilities",
 		"plugin_type": 0,
-		"updateTime": 1706563195
+		"updateTime": 1706695513
 	},
 	{
 		"fileName": "IcarusAIO.dll",
@@ -554,6 +554,7 @@
 			222,
 			498,
 			266,
+			114,
 			85,
 			240,
 			24,
@@ -568,7 +569,7 @@
 			48,
 			86
 		],
-		"updateTime": 1706550817
+		"updateTime": 1706695613
 	},
 	{
 		"fileName": "OHAIO.dll",
@@ -593,7 +594,7 @@
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1706191446
+		"updateTime": 1706695425
 	},
 	{
 		"fileName": "PentaAIO.dll",
