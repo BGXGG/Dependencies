@@ -133,9 +133,10 @@
 			523,
 			18,
 			2,
-			145
+			145,
+			901
 		],
-		"updateTime": 1706563227
+		"updateTime": 1706999753
 	},
 	{
 		"fileName": "BlackOutActivator.dll",
@@ -309,7 +310,7 @@
 		"fileName": "FerrisUtilities.dll",
 		"name": "FerrisAIO Utilities",
 		"plugin_type": 0,
-		"updateTime": 1706695513
+		"updateTime": 1706999701
 	},
 	{
 		"fileName": "IcarusAIO.dll",
