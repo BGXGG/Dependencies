@@ -136,7 +136,7 @@
 			145,
 			901
 		],
-		"updateTime": 1706999753
+		"updateTime": 1707072550
 	},
 	{
 		"fileName": "BlackOutActivator.dll",
@@ -310,7 +310,7 @@
 		"fileName": "FerrisUtilities.dll",
 		"name": "FerrisAIO Utilities",
 		"plugin_type": 0,
-		"updateTime": 1706999701
+		"updateTime": 1707072472
 	},
 	{
 		"fileName": "IcarusAIO.dll",
@@ -748,7 +748,7 @@
 			157,
 			777
 		],
-		"updateTime": 1706191745
+		"updateTime": 1707072498
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
