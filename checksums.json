@@ -48,9 +48,6 @@
 			"ElderAIO.dll": "f23519cb286fb7c114b5dfff05da9109",
 			"ElderAIO.dll.json": "ac88d672a7a90d6d31c000197f3e46ee",
 			"ElderAIO.dylib": "ca00e807d29564434578291d13abf724",
-			"ElliesAIO.dll": "ebf8757cf63a4397fcae99414e6f5941",
-			"ElliesAIO.dll.json": "948d48ec2a74dd3f4c1e45079fe814ac",
-			"ElliesAIO.dylib": "0da2126a5d7764fd85d7d1c1228d8480",
 			"EuphoriaAIO.dll": "9bb8de8685876c84d9b6a90017f96e53",
 			"EuphoriaAIO.dll.json": "ee31c3a8053dbb1021247e706928f8d7",
 			"Excalibur.dll": "fd33975960aca86940fb0ec0491b5cad",
@@ -74,12 +71,6 @@
 			"Klee-TS.dll": "86753585d098664ec9e4de6d94c9e17a",
 			"Klee-TS.dll.json": "18eb8a5677447afb2e96b320f4fbef34",
 			"Klee-TS.dylib": "8f58e8f5e7cfde89f1b38294ce493785",
-			"KleeAIO.dll": "a7a953f426e16a035a20d153d8f7fb38",
-			"KleeAIO.dll.json": "012ed7e38175419c8ce548225f8d0cea",
-			"KleeAIO.dylib": "9b66e5fad20fb5c6de2f6c3ee0448ff6",
-			"KleeUtility.dll": "382ca2b1f83b96658cb5d36a1044e065",
-			"KleeUtility.dll.json": "5962cfd73b00c68e43a9f2f294b3dd7a",
-			"KleeUtility.dylib": "d8723338da9eb5a83523d7839b053ccc",
 			"L9AIO.dll": "313517e435f79d3fc79b80e3254a6dbb",
 			"L9AIO.dll.json": "0fcdcf966d1acd966f17afe56199435d",
 			"L9AIO.dylib": "73bfdb995911ac43d3e39fc0bd44b550",
@@ -195,21 +186,6 @@
 				"TFTAugments.png": "02a3a5063d438954acc52ecc55ca950f"
 			}
 		},
-		"Klee": {
-			"Recall.png": "530fc0af0be00f0023a29f6062ce7340",
-			"colors.png": "8e54f9b781f7c774b9905a9343a997ea",
-			"failure.wav": "82bade64134bf4132cef11ae893818da",
-			"gargoyle_stoneplate.png": "08a959916a2abc15ec6fbcd958938f55",
-			"goredrinker.png": "fa0a1d72f9ea968c12052558dfe628ff",
-			"kaisa_e.png": "55adf2e443d7471487d2c05a8d305ee2",
-			"kaisa_e_evolved.png": "96ad4968f2b48fbbb531635eef19c5fa",
-			"klee.png": "d8bf730edbf4d864605b1069e0cb1def",
-			"sizes.png": "aa583de4e61c785ed80e87d2bb1e9493",
-			"smite.png": "16b01862206eac81a8d7179ed7482f04",
-			"success.wav": "7b14ac9de6b8a0722952511c95826690",
-			"success0.wav": "acc2b257344bbb32c3ca7ed25381b306",
-			"ward.png": "d57d9397366373131e390d8d98c8cbc5"
-		},
 		"LotusAIO.png": "4ce2e994911766cfe41fdbc5973ac60a",
 		"bgx_banner.dds": "fc873bb63d1ccf98d4b5369bf93b0e30",
 		"dead": {
@@ -233,6 +209,20 @@
 		},
 		"double_kill.dds": "6e0a0ef5a4af00d4e506472629786b50",
 		"l9.dds": "9198dd77c22f7a52817a54f1b4a88521",
+		"luna_aio": {
+			"colors.png": "8e54f9b781f7c774b9905a9343a997ea",
+			"main_icon.png": "92601347fa7610bf08a3134dc96def5a",
+			"sizes.png": "aa583de4e61c785ed80e87d2bb1e9493"
+		},
+		"luna_ts": {
+			"colors.png": "8e54f9b781f7c774b9905a9343a997ea",
+			"main_icon.png": "92601347fa7610bf08a3134dc96def5a"
+		},
+		"luna_utils": {
+			"colors.png": "8e54f9b781f7c774b9905a9343a997ea",
+			"main_icon.png": "92601347fa7610bf08a3134dc96def5a",
+			"ward.png": "d57d9397366373131e390d8d98c8cbc5"
+		},
 		"penta": {
 			"good_job_hero.wav": "5ed285a66f558a755ef8452a44c31308",
 			"master_wet.wav": "d8546d5e89c8dbd0f494d0c1b3261c74",
