@@ -365,6 +365,12 @@
 		"updateTime": 1702298456
 	},
 	{
+		"fileName": "Luna-TS.dll",
+		"name": "Luna-TS",
+		"plugin_type": 3,
+		"updateTime": 1708189424
+	},
+	{
 		"fileName": "LunaAIO.dll",
 		"name": "LunaAIO",
 		"plugin_type": 1,
@@ -430,7 +436,13 @@
 			48,
 			86
 		],
-		"updateTime": 1707993682
+		"updateTime": 1708189385
+	},
+	{
+		"fileName": "LunaUtility.dll",
+		"name": "[Luna] Utils",
+		"plugin_type": 0,
+		"updateTime": 1708189340
 	},
 	{
 		"fileName": "OHAIO.dll",
