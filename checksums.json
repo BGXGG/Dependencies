@@ -184,6 +184,13 @@
 				"Monsters.png": "37f11015ca380b8834a975055078d6f6",
 				"RankIcons.png": "d6c3f14a1dbcc2669d8c2e7361806b2c",
 				"TFTAugments.png": "02a3a5063d438954acc52ecc55ca950f"
+			},
+			"Lang": {
+				"Utilities": {
+					"Chinese.lang": "ac8e7128c0f48ac7b0e4674909908e1d",
+					"German.lang": "fbb889970eba22d81121422ef73148aa",
+					"Portuguese.lang": "79b48ca0231fa24287c0132023795cf8"
+				}
 			}
 		},
 		"LotusAIO.png": "4ce2e994911766cfe41fdbc5973ac60a",
