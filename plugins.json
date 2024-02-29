@@ -194,7 +194,7 @@
 			107,
 			234
 		],
-		"updateTime": 1708761771
+		"updateTime": 1709218946
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -366,7 +366,7 @@
 	},
 	{
 		"fileName": "LunaAIO.dll",
-		"name": "LunaAIO",
+		"name": "LunaAIO [OLD KLEE]",
 		"plugin_type": 1,
 		"supported": [
 			350,
@@ -430,7 +430,7 @@
 			48,
 			86
 		],
-		"updateTime": 1708540240
+		"updateTime": 1709219294
 	},
 	{
 		"fileName": "LunaUtility.dll",
