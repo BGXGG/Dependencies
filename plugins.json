@@ -359,6 +359,12 @@
 		"updateTime": 1702298456
 	},
 	{
+		"fileName": "Luna-Orb.dll",
+		"name": "Luna: Orbwalker",
+		"plugin_type": 3,
+		"updateTime": 1710447637
+	},
+	{
 		"fileName": "Luna-TS.dll",
 		"name": "Luna-TS",
 		"plugin_type": 3,
