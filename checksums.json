@@ -1,8 +1,8 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "ba73c34be8aca57c95efe369682d3267",
-			"core_plugin.dylib": "0dece376002dee16f20e234e2af5cca4"
+			"core_plugin.dll": "8fa75f25dd14a3c5455b5a3a4bfc7bd1",
+			"core_plugin.dylib": "d4ae7704398e87315ce131ed70f55e50"
 		}
 	},
 	"lib": {
@@ -28,12 +28,12 @@
 			"BenAIO.dll": "9fa6237f92a6f8e52c19c948b84427fc",
 			"BenAIO.dll.json": "e87364f9b7693dbf51229428ca1f4cd1",
 			"BenAIO.dylib": "15362355be1fde36b77851b4f29950cf",
-			"BlackOutAIO.dll": "7e401fadf33c43b4fec939f05cb4e0d8",
-			"BlackOutAIO.dll.json": "33cec60ab64f1b340aa98df044ef70a1",
-			"BlackOutAIO.dylib": "2fa0257b10f5f07238f8b40adda5b4b0",
-			"BlackOutActivator.dll": "c77528389abc7079fe57f776e0cec009",
-			"BlackOutActivator.dll.json": "649644dabaec7b3a77cbfac72cfd92a8",
-			"BlackOutActivator.dylib": "fb7056e18929d35737b5a1d3cb706c32",
+			"BlackOutAIO.dll": "e67e4e1c32b820db64f8938b56e10d04",
+			"BlackOutAIO.dll.json": "0755005f2989093adc74501d31a2e3c8",
+			"BlackOutAIO.dylib": "201410b4c5ef3bfbe03fdd798538c5a3",
+			"BlackOutActivator.dll": "16efdb619699b990c189b59e8c78d5f5",
+			"BlackOutActivator.dll.json": "c1be1d48500b59e2b790c33ec8ed5c4f",
+			"BlackOutActivator.dylib": "7ddc0f6809838fd3807d825611a1e179",
 			"BlahajAIO.dll": "a479757404033374b9a331ba3580e331",
 			"BlahajAIO.dll.json": "198d85417b964ecc6b9100ea9f74f0b1",
 			"CSXAIO.dll": "ab740383fcb42b356d8a3f002ac3703c",
@@ -142,9 +142,9 @@
 			"xDreammsAIO.dll": "65338bd26e5f0d73f402dcf36db14d4e",
 			"xDreammsAIO.dll.json": "bf3cc8f93c712c78b91a9382292f2f3b",
 			"xDreammsAIO.dylib": "8996628ffc3c6eb5daffee00f80e8885",
-			"xDreammsUtility.dll": "2c7d7a37594107fe52673f980f75b030",
-			"xDreammsUtility.dll.json": "3361879579415f5364c10bc7ba495fcb",
-			"xDreammsUtility.dylib": "e6606938d276e23b984d4f2c9a9e5883",
+			"xDreammsUtility.dll": "b44fe4e2b2e093486f511890f357011a",
+			"xDreammsUtility.dll.json": "e268a7784a1712e04c5dff8b87a3e900",
+			"xDreammsUtility.dylib": "feae5b54d0095f003c9f2862331ba9a5",
 			"xKittyAIO.dll": "93af545408a1e0a95d80895a514c7439",
 			"xKittyAIO.dll.json": "e85e3ba616b77883978657fb41c84ad3",
 			"xKittyAIO.dylib": "620699fe3bea22deab1486874072d373"
