@@ -1,8 +1,8 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "8fa75f25dd14a3c5455b5a3a4bfc7bd1",
-			"core_plugin.dylib": "d4ae7704398e87315ce131ed70f55e50"
+			"core_plugin.dll": "c3e7fdc2581e8a6482825dcf9d6b6307",
+			"core_plugin.dylib": "a54eb8ae367374bb945dd35da4e2d4a7"
 		}
 	},
 	"lib": {
@@ -19,9 +19,9 @@
 			"BGX.dll": "ca6493961dce62855db2bb8d33254d99",
 			"BGX.dll.json": "0006b3c1517f0c32e2ec752564c48ea2",
 			"BGX.dylib": "731f61711c9144df48b9be879f2a1567",
-			"BGXEvade.dll": "b4762c1c961cf82d1bb1c87733a514f2",
-			"BGXEvade.dll.json": "0cae33534ad5883666064514159aa237",
-			"BGXEvade.dylib": "5855c00a4061baf1a2d4df453fb42d46",
+			"BGXEvade.dll": "ad110c0814f27a9d9c90220b4a86e9d0",
+			"BGXEvade.dll.json": "03bd8d06701695d4c3a6a58032df279d",
+			"BGXEvade.dylib": "ba0804c093b84dcdd9e8a40b25689fce",
 			"BanthorsAIO.dll": "e57260b267a3ec5fed75985e0e9ab505",
 			"BanthorsAIO.dll.json": "440b889d1d03250c98bc4317ecf38f88",
 			"BanthorsAIO.dylib": "f4b04d4b2e8bcca40e2d68eefdccc368",
@@ -42,9 +42,9 @@
 			"DivineSeries.dll": "778819bf5cf942502e8c636628263087",
 			"DivineSeries.dll.json": "7d99b93cbc7a2c9c53800a6dc139e694",
 			"DivineSeries.dylib": "f2b46aebb24841fcc46296ed5fcc12a1",
-			"DynastyOrbwalker.dll": "7bcb52df2fd70f86d3892dae46a380c1",
-			"DynastyOrbwalker.dll.json": "943d02fdf56b1d721473157a571ff220",
-			"DynastyOrbwalker.dylib": "ad8d9f9d4285d6b3df508e552776908d",
+			"DynastyOrbwalker.dll": "1d38d6a29ec0ad4fa79600e47ca9cb30",
+			"DynastyOrbwalker.dll.json": "d71a9280c46673138f04bea90177e20d",
+			"DynastyOrbwalker.dylib": "8fac98b7b73b1442aca768e48c1b5d41",
 			"ElderAIO.dll": "f23519cb286fb7c114b5dfff05da9109",
 			"ElderAIO.dll.json": "ac88d672a7a90d6d31c000197f3e46ee",
 			"ElderAIO.dylib": "ca00e807d29564434578291d13abf724",
@@ -114,9 +114,9 @@
 			"SebasPrediction.dll": "4b30b7f9f347b1a31303fb1de2a2c322",
 			"SebasPrediction.dll.json": "c59c1a32e0d817cf0b321e89abbd0f54",
 			"SebasPrediction.dylib": "a5fca376cc8dd1abfcf5c7f7edbaa524",
-			"ShadowAIO.dll": "f083a2cf2aaee9d21160bc91fd27a74d",
-			"ShadowAIO.dll.json": "61603763776e80c36d9b498041c47321",
-			"ShadowAIO.dylib": "f0bbf2e35eb6bbea50d55bbecb81506e",
+			"ShadowAIO.dll": "daaec713ea7732428821a5d7ee0082a5",
+			"ShadowAIO.dll.json": "5e676c9ea17f328ceaca919ed59fec3e",
+			"ShadowAIO.dylib": "05c182f204cfb20bd20f299256587817",
 			"ShadowTargetSelector.dll": "750ba4a381e69b9d5ef596b8d65759d3",
 			"ShadowTargetSelector.dll.json": "885e315d1d1625b5bea74bd911c9f16e",
 			"ShadowTargetSelector.dylib": "fd37658a716dbe0b05ca987169097b0f",

@@ -84,7 +84,7 @@
 		"fileName": "BGXEvade.dll",
 		"name": "Evade",
 		"plugin_type": 0,
-		"updateTime": 1707325745
+		"updateTime": 1711576929
 	},
 	{
 		"fileName": "BanthorsAIO.dll",
@@ -208,7 +208,7 @@
 		"fileName": "DynastyOrbwalker.dll",
 		"name": "[Dynasty] Orbwalker",
 		"plugin_type": 3,
-		"updateTime": 1702982304
+		"updateTime": 1711577059
 	},
 	{
 		"fileName": "ElderAIO.dll",
@@ -622,7 +622,7 @@
 			777,
 			4
 		],
-		"updateTime": 1711287358
+		"updateTime": 1711577065
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
