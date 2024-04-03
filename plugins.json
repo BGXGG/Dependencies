@@ -78,13 +78,13 @@
 			126,
 			60
 		],
-		"updateTime": 1707325728
+		"updateTime": 1712167538
 	},
 	{
 		"fileName": "BGXEvade.dll",
 		"name": "Evade",
 		"plugin_type": 0,
-		"updateTime": 1711576929
+		"updateTime": 1712167556
 	},
 	{
 		"fileName": "BanthorsAIO.dll",
@@ -541,7 +541,7 @@
 			13,
 			134
 		],
-		"updateTime": 1707325767
+		"updateTime": 1712167578
 	},
 	{
 		"fileName": "RageAIO.dll",
@@ -636,7 +636,7 @@
 		"fileName": "Utility.dll",
 		"name": "EUtility",
 		"plugin_type": 0,
-		"updateTime": 1707325786
+		"updateTime": 1712167597
 	},
 	{
 		"fileName": "YuumiBot.dll",
@@ -645,7 +645,7 @@
 		"supported": [
 			350
 		],
-		"updateTime": 1707325802
+		"updateTime": 1712167613
 	},
 	{
 		"fileName": "ZiraPack.dll",
@@ -686,7 +686,7 @@
 			72,
 			77
 		],
-		"updateTime": 1707325817
+		"updateTime": 1712167629
 	},
 	{
 		"fileName": "ZzihaoAIO.dll",
@@ -785,9 +785,9 @@
 	},
 	{
 		"fileName": "xDreammsUtility.dll",
-		"name": "xDreamms Utility | AutoShop",
+		"name": "xDreamms Utility",
 		"plugin_type": 0,
-		"updateTime": 1710966310
+		"updateTime": 1712167601
 	},
 	{
 		"fileName": "xKittyAIO.dll",
