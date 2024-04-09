@@ -17,6 +17,18 @@
 		"updateTime": 1680281866
 	},
 	{
+		"fileName": "ADCSeries.dll",
+		"name": "ZEDith Series",
+		"plugin_type": 1,
+		"supported": [
+			236,
+			429,
+			41,
+			110
+		],
+		"updateTime": 1712648625
+	},
+	{
 		"fileName": "AiPredV2.dll",
 		"name": "AiPred2",
 		"plugin_type": 3,
