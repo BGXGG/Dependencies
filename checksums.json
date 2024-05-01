@@ -1,8 +1,8 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "9b187564306be653cb15238d870ef360",
-			"core_plugin.dylib": "c8a6d6e44e616a81d77d3a7cce8d20cd"
+			"core_plugin.dll": "d9357c163b571cda30ef5d332d2a4450",
+			"core_plugin.dylib": "b0eca8572a99619e533003023b78a259"
 		}
 	},
 	"lib": {
