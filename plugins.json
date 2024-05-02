@@ -96,7 +96,7 @@
 		"fileName": "BGXEvade.dll",
 		"name": "Evade",
 		"plugin_type": 0,
-		"updateTime": 1714502873
+		"updateTime": 1714651353
 	},
 	{
 		"fileName": "BanthorsAIO.dll",
@@ -636,7 +636,7 @@
 			777,
 			4
 		],
-		"updateTime": 1713545474
+		"updateTime": 1714651376
 	},
 	{
 		"fileName": "ShadowTargetSelector.dll",
