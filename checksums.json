@@ -1,8 +1,8 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "6a4a72e3782c5a6ab3d1f907cfd1ed20",
-			"core_plugin.dylib": "9d59c804c17e707cdde3b6d52496a114"
+			"core_plugin.dll": "1762d258a4e9c06f406e87fe44154e66",
+			"core_plugin.dylib": "97de81c21794e86f712ad610aacf4c95"
 		}
 	},
 	"lib": {
@@ -91,9 +91,9 @@
 			"LunaAIO.dll": "4c4e1bbc99d84be94766614a50487db6",
 			"LunaAIO.dll.json": "068daa6aeaac375c02d33f83a1402ef7",
 			"LunaAIO.dylib": "b3e98619bf124827b111d509a5a2cd92",
-			"LunaUtility.dll": "240894f6100de67a6579dc757a4d8c4d",
-			"LunaUtility.dll.json": "478c692613dfe17821083b19ecb1cd31",
-			"LunaUtility.dylib": "dc5bfe73ddf1a95ee3e544d9498b2fbb",
+			"LunaUtility.dll": "46239bcc3161ca1618f57397c3c47ae6",
+			"LunaUtility.dll.json": "fcbf15d3069432a483f6a6c3a5dba503",
+			"LunaUtility.dylib": "97ce3721f7a64e685b480fb21e279983",
 			"OHAIO.dll": "553c97304a4aa0ccd91f134d9b0012d1",
 			"OHAIO.dll.json": "1c148df3cc553a83bc148bbc8ac54848",
 			"OpenSeries.dll": "9554a696935abdfa48053251ce699948",
