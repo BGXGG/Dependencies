@@ -385,7 +385,7 @@
 	},
 	{
 		"fileName": "LunaAIO.dll",
-		"name": "LunaAIO [OLD KLEE]",
+		"name": "LunaAIO",
 		"plugin_type": 1,
 		"supported": [
 			350,
@@ -434,6 +434,7 @@
 			222,
 			498,
 			221,
+			67,
 			266,
 			114,
 			85,
@@ -451,7 +452,7 @@
 			86,
 			777
 		],
-		"updateTime": 1714896766
+		"updateTime": 1716450961
 	},
 	{
 		"fileName": "LunaUtility.dll",
