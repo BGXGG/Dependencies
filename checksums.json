@@ -7,7 +7,8 @@
 	},
 	"lib": {
 		"GameInjector": "18de9930fe47282104c053bdba1eebf3",
-		"GameInjector.exe": "ac8ca7d6296cd73102a3e10a5b6b334c"
+		"GameInjector.exe": "ac8ca7d6296cd73102a3e10a5b6b334c",
+		"GameInjectorApexLegends.exe": "d1ac3ad10c34ff6abfbb129c4fc4e22d"
 	},
 	"plugins": {
 		"x64": {
