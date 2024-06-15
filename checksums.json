@@ -151,7 +151,13 @@
 			"xDreammsUtility.dylib": "bf1b3078a322513e9afba9e13c99b029",
 			"xKittyAIO.dll": "93af545408a1e0a95d80895a514c7439",
 			"xKittyAIO.dll.json": "e85e3ba616b77883978657fb41c84ad3",
-			"xKittyAIO.dylib": "620699fe3bea22deab1486874072d373"
+			"xKittyAIO.dylib": "620699fe3bea22deab1486874072d373",
+			"xSaliceAIO.dll": "1afba21799f3eecac2a9d16d9100e490",
+			"xSaliceAIO.dll.json": "19d32cb21fe8eee94470376b7a9dbdea",
+			"xSaliceAIO.dylib": "34700eb3e10d9dea57f84a54ca20e8e3",
+			"xSalicePrediction.dll": "880daa5c48b331b2229065765d284751",
+			"xSalicePrediction.dll.json": "3ffdc08fdb38c6039341321dcf72817f",
+			"xSalicePrediction.dylib": "c8a550ae2178bf9b5e248c27170c01c0"
 		}
 	},
 	"resources": {

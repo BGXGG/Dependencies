@@ -818,5 +818,22 @@
 			555
 		],
 		"updateTime": 1688849237
+	},
+	{
+		"fileName": "xSaliceAIO.dll",
+		"name": "xSalice",
+		"plugin_type": 1,
+		"supported": [
+			268,
+			222,
+			555
+		],
+		"updateTime": 1718466227
+	},
+	{
+		"fileName": "xSalicePrediction.dll",
+		"name": "xSalice Prediction",
+		"plugin_type": 3,
+		"updateTime": 1718466239
 	}
 ]
