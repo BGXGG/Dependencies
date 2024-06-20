@@ -148,13 +148,13 @@
 			145,
 			901
 		],
-		"updateTime": 1718715220
+		"updateTime": 1718878529
 	},
 	{
 		"fileName": "BlackOutActivator.dll",
 		"name": "[@BlackOut~]# Activator",
 		"plugin_type": 0,
-		"updateTime": 1718715212
+		"updateTime": 1718878652
 	},
 	{
 		"fileName": "BlahajAIO.dll",
@@ -207,7 +207,7 @@
 			887,
 			234
 		],
-		"updateTime": 1718303427
+		"updateTime": 1718878578
 	},
 	{
 		"fileName": "DivineSeries.dll",
@@ -486,7 +486,7 @@
 		"fileName": "OpenUtilities.dll",
 		"name": "[AURORA] OpenUtilities",
 		"plugin_type": 0,
-		"updateTime": 1714548769
+		"updateTime": 1718878611
 	},
 	{
 		"fileName": "PentaAIO.dll",
@@ -646,7 +646,7 @@
 		"fileName": "ShadowTargetSelector.dll",
 		"name": "ShadowTargetSelector",
 		"plugin_type": 3,
-		"updateTime": 1712782339
+		"updateTime": 1718878509
 	},
 	{
 		"fileName": "Utility.dll",
@@ -829,7 +829,7 @@
 			555,
 			161
 		],
-		"updateTime": 1718766055
+		"updateTime": 1718878519
 	},
 	{
 		"fileName": "xSalicePrediction.dll",
