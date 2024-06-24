@@ -267,12 +267,6 @@
 		"updateTime": 1680283841
 	},
 	{
-		"fileName": "ImpulsePrediction.dll",
-		"name": "Impulse Prediction",
-		"plugin_type": 3,
-		"updateTime": 1715458232
-	},
-	{
 		"fileName": "KiriAIO.dll",
 		"name": "Kiri AIO",
 		"plugin_type": 1,
@@ -755,57 +749,6 @@
 		"name": "solace-orb beta",
 		"plugin_type": 3,
 		"updateTime": 1683309265
-	},
-	{
-		"fileName": "xDreammsAIO.dll",
-		"name": "xDreamms AIO",
-		"plugin_type": 1,
-		"supported": [
-			81,
-			84,
-			517,
-			238,
-			145,
-			133,
-			96,
-			112,
-			131,
-			38,
-			222,
-			91,
-			498,
-			43,
-			39,
-			42,
-			18,
-			69,
-			61,
-			523,
-			7,
-			101,
-			28,
-			22,
-			85,
-			105,
-			110,
-			161,
-			4,
-			103,
-			13,
-			555,
-			236,
-			14,
-			104,
-			99,
-			134
-		],
-		"updateTime": 1716218830
-	},
-	{
-		"fileName": "xDreammsUtility.dll",
-		"name": "xDreamms Utility",
-		"plugin_type": 0,
-		"updateTime": 1718183306
 	},
 	{
 		"fileName": "xKittyAIO.dll",
