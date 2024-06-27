@@ -1,8 +1,8 @@
 {
 	"core": {
 		"x64": {
-			"core_plugin.dll": "9f7de3c2d63c005ee2bd62b318870e06",
-			"core_plugin.dylib": "dc0d17ce958c80c3d750e65ae5422d58"
+			"core_plugin.dll": "7c57127d430429cad6ba615375f2f099",
+			"core_plugin.dylib": "0cb3193cc2d5ed668e3b8f6e630de230"
 		}
 	},
 	"lib": {
@@ -35,9 +35,9 @@
 			"BlackOutAIO.dll": "1a10ec433da7461bccb33249b7d61636",
 			"BlackOutAIO.dll.json": "403db4918100e445fcf4276eb6a5023f",
 			"BlackOutAIO.dylib": "1a1236ed329d8fbcfd06940bd80268a6",
-			"BlackOutActivator.dll": "0ca62d0a6ed6469f98bdf83513d149d7",
-			"BlackOutActivator.dll.json": "bc48110b97e0b185edcffe03ff3ecbd9",
-			"BlackOutActivator.dylib": "1e7d9426cc365852f9271eb14a1df63b",
+			"BlackOutActivator.dll": "a0b6267126c0403c3beeda0bf0bd890d",
+			"BlackOutActivator.dll.json": "29360676f5ea75c9ffa63ac871f6e2ff",
+			"BlackOutActivator.dylib": "2f799f6dc592bf196ea4151eb0868b28",
 			"BlahajAIO.dll": "a479757404033374b9a331ba3580e331",
 			"BlahajAIO.dll.json": "198d85417b964ecc6b9100ea9f74f0b1",
 			"CSXAIO.dll": "f6af58a4b8e1b672c123936b513f8f7f",
